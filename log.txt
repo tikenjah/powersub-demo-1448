@@ -6,3 +6,4 @@
 0379. ✨ feat: support email verification
 0300. ✨ feat: add export to CSV option
 0971. 🎨 style: standardize quote style
+0970. ♻️ chore: update .gitignore
