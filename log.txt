@@ -6000,3 +6000,4 @@
 0555. ✨ feat: create admin dashboard
 0329. 📚 docs: update README with setup steps
 0287. 📚 docs: write FAQ section
+0174. 📚 docs: clarify environment setup
