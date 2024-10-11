@@ -20,3 +20,4 @@
 0292. 📚 docs: clarify environment setup
 0013. ✅ test: increase coverage on auth module
 0253. 📚 docs: update README with setup steps
+0791. 🔧 refactor: clean up auth middleware
