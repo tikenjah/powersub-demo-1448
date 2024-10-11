@@ -26,3 +26,4 @@
 0811. 🎨 style: reformat files with black
 0637. 🎨 style: apply consistent indentation
 0730. ✅ test: test user registration edge cases
+0595. ✨ feat: enable dark mode toggle
