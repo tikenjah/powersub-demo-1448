@@ -29,3 +29,4 @@
 0595. ✨ feat: enable dark mode toggle
 0527. 🎨 style: remove trailing whitespace
 0731. 🎨 style: standardize quote style
+0500. ✅ test: add integration test for /submit endpoint
