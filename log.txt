@@ -19,3 +19,4 @@
 0078. ♻️ chore: update .gitignore
 0292. 📚 docs: clarify environment setup
 0013. ✅ test: increase coverage on auth module
+0253. 📚 docs: update README with setup steps
