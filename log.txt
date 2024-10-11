@@ -14,3 +14,4 @@
 0323. 📚 docs: clarify environment setup
 0024. 📚 docs: write FAQ section
 0885. ♻️ chore: update .gitignore
+0589. 🐛 fix: fix broken CSS in mobile view
