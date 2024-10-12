@@ -46,3 +46,4 @@
 0331. 🐛 fix: fix broken CSS in mobile view
 0535. 📚 docs: write FAQ section
 0094. 📚 docs: document token refresh logic
+0603. 🐛 fix: fix broken CSS in mobile view
