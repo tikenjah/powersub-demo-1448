@@ -8004,3 +8004,4 @@
 0024. 📚 docs: write FAQ section
 0890. 🔧 refactor: organize models into subfolders
 0895. ✨ feat: support email verification
+0842. 🎨 style: remove trailing whitespace
