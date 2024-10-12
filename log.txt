@@ -37,3 +37,4 @@
 0771. 🚀 perf: cache repeated calculations
 0255. 🔧 refactor: refactor quiz grading logic
 0656. 🎨 style: apply consistent indentation
+0169. 📚 docs: add API usage examples
