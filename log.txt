@@ -7000,3 +7000,4 @@
 0576. ♻️ chore: update .gitignore
 0986. 📚 docs: document token refresh logic
 0072. 🚀 perf: optimize database query for quiz results
+0512. 🚀 perf: reduce image load time
