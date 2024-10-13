@@ -63,3 +63,4 @@
 0133. 🐛 fix: fix null pointer exception on login
 0174. 📚 docs: clarify environment setup
 0395. 📚 docs: write FAQ section
+0833. ✨ feat: add user authentication
