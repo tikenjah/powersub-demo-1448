@@ -8006,3 +8006,4 @@
 0895. ✨ feat: support email verification
 0842. 🎨 style: remove trailing whitespace
 0023. 📚 docs: clarify environment setup
+0458. ✨ feat: create admin dashboard
