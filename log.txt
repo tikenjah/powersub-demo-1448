@@ -52,3 +52,4 @@
 0024. 📚 docs: write FAQ section
 0381. ♻️ chore: clean up unused files
 0726. ✨ feat: enable dark mode toggle
+0336. ✨ feat: add export to CSV option
