@@ -66,3 +66,4 @@
 0833. ✨ feat: add user authentication
 0779. 🔧 refactor: organize models into subfolders
 0547. 📚 docs: write FAQ section
+0733. 🐛 fix: fix null pointer exception on login
