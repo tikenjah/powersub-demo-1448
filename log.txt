@@ -9014,3 +9014,4 @@
 0782. 📚 docs: improve code comments in utils
 0939. 📚 docs: update README with setup steps
 0379. ✨ feat: support email verification
+0195. 📚 docs: clarify environment setup
