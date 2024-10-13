@@ -58,3 +58,4 @@
 0007. 🎨 style: rename variables for clarity
 0259. 🚀 perf: lazy-load components
 0273. 🚀 perf: reduce image load time
+0769. ✨ feat: create admin dashboard
