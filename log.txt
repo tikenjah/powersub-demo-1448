@@ -74,3 +74,4 @@
 0494. 🎨 style: rename variables for clarity
 0041. 🐛 fix: fix broken CSS in mobile view
 0392. 🎨 style: remove trailing whitespace
+0243. 🔧 refactor: clean up auth middleware
