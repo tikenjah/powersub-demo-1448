@@ -82,3 +82,4 @@
 0489. 🔧 refactor: organize models into subfolders
 0500. ✅ test: add integration test for /submit endpoint
 0424. ✨ feat: add user authentication
+0848. 📚 docs: update README with setup steps
