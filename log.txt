@@ -78,3 +78,4 @@
 0540. ♻️ chore: add GitHub actions badge
 0982. 🚀 perf: lazy-load components
 0934. ✨ feat: support email verification
+0555. ✨ feat: create admin dashboard
