@@ -8007,3 +8007,4 @@
 0842. 🎨 style: remove trailing whitespace
 0023. 📚 docs: clarify environment setup
 0458. ✨ feat: create admin dashboard
+0058. ♻️ chore: add GitHub actions badge
