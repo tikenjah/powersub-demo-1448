@@ -8009,3 +8009,4 @@
 0458. ✨ feat: create admin dashboard
 0058. ♻️ chore: add GitHub actions badge
 0250. 📚 docs: update README with setup steps
+0174. 📚 docs: clarify environment setup
