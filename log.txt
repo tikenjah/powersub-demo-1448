@@ -5005,3 +5005,4 @@
 0151. ✅ test: add unit test for quiz service
 0687. 🎨 style: remove trailing whitespace
 0624. ✅ test: add unit test for quiz service
+0615. 🐛 fix: correct typo in registration form
