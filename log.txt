@@ -6017,3 +6017,4 @@
 0149. ✨ feat: add export to CSV option
 0184. 📚 docs: improve code comments in utils
 0526. ✨ feat: add user authentication
+0013. ✅ test: increase coverage on auth module
