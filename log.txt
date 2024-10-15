@@ -96,3 +96,4 @@
 0953. 🎨 style: remove trailing whitespace
 0595. ✨ feat: enable dark mode toggle
 0929. ✨ feat: support email verification
+0455. ♻️ chore: clean up unused files
