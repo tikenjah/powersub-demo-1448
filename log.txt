@@ -91,3 +91,4 @@
 0441. 📚 docs: add API usage examples
 0463. 🚀 perf: reduce image load time
 0663. 🚀 perf: reduce image load time
+0072. 🚀 perf: optimize database query for quiz results
