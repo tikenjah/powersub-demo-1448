@@ -93,3 +93,4 @@
 0663. 🚀 perf: reduce image load time
 0072. 🚀 perf: optimize database query for quiz results
 0734. ✨ feat: add export to CSV option
+0953. 🎨 style: remove trailing whitespace
