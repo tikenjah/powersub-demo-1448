@@ -10012,3 +10012,4 @@
 0707. 🎨 style: apply consistent indentation
 0260. ✨ feat: create admin dashboard
 0880. 🐛 fix: fix broken CSS in mobile view
+0205. 📚 docs: update README with setup steps
