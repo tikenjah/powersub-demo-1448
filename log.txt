@@ -95,3 +95,4 @@
 0734. ✨ feat: add export to CSV option
 0953. 🎨 style: remove trailing whitespace
 0595. ✨ feat: enable dark mode toggle
+0929. ✨ feat: support email verification
