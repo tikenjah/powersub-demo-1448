@@ -115,3 +115,4 @@
 0977. 🔧 refactor: organize models into subfolders
 0142. ✨ feat: implement quiz timer feature
 0667. ✨ feat: add export to CSV option
+0612. ✅ test: test user registration edge cases
