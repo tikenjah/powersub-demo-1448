@@ -6024,3 +6024,4 @@
 0187. ✨ feat: support email verification
 0561. 📚 docs: write FAQ section
 0566. 📚 docs: write FAQ section
+0246. ✅ test: add integration test for /submit endpoint
