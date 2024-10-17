@@ -127,3 +127,4 @@
 0677. 📚 docs: add API usage examples
 0074. ♻️ chore: add GitHub actions badge
 0997. ✅ test: increase coverage on auth module
+0891. ✨ feat: create admin dashboard
