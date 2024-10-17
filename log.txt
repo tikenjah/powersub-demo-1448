@@ -117,3 +117,4 @@
 0667. ✨ feat: add export to CSV option
 0612. ✅ test: test user registration edge cases
 0316. 🐛 fix: fix broken CSS in mobile view
+0592. 📚 docs: add API usage examples
