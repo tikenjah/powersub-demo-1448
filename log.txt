@@ -6029,3 +6029,4 @@
 0167. 🚀 perf: reduce image load time
 0935. 📚 docs: update README with setup steps
 0016. 🎨 style: apply consistent indentation
+0672. 🐛 fix: fix broken CSS in mobile view
