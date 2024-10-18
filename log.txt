@@ -8017,3 +8017,4 @@
 0026. 🔧 refactor: clean up auth middleware
 0739. 🎨 style: remove trailing whitespace
 0424. ✨ feat: add user authentication
+0625. 🐛 fix: handle 500 error in quiz API
