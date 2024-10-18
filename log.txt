@@ -134,3 +134,4 @@
 0136. 🚀 perf: lazy-load components
 0697. ♻️ chore: bump dependencies
 0232. 🎨 style: apply consistent indentation
+0501. ✨ feat: add export to CSV option
