@@ -150,3 +150,4 @@
 0449. ✅ test: add unit test for quiz service
 0203. 🚀 perf: lazy-load components
 0107. 🐛 fix: prevent crash on empty input
+0343. 🚀 perf: optimize database query for quiz results
