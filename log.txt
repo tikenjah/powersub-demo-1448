@@ -10022,3 +10022,4 @@
 0097. 🐛 fix: handle 500 error in quiz API
 0665. ♻️ chore: update .gitignore
 0978. 🐛 fix: prevent crash on empty input
+0498. ✅ test: mock database connection in test suite
