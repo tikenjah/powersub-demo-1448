@@ -146,3 +146,4 @@
 0100. ♻️ chore: update .gitignore
 0133. 🐛 fix: fix null pointer exception on login
 0983. 🔧 refactor: split large controller into smaller functions
+0712. 🎨 style: apply consistent indentation
