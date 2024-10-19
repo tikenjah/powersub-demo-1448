@@ -10020,3 +10020,4 @@
 0312. ✨ feat: add user authentication
 0943. 🎨 style: rename variables for clarity
 0097. 🐛 fix: handle 500 error in quiz API
+0665. ♻️ chore: update .gitignore
