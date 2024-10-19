@@ -143,3 +143,4 @@
 0925. ✨ feat: add export to CSV option
 0585. 🚀 perf: lazy-load components
 0871. ✅ test: add integration test for /submit endpoint
+0100. ♻️ chore: update .gitignore
