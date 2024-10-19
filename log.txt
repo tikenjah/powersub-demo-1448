@@ -5018,3 +5018,4 @@
 0212. 🎨 style: standardize quote style
 0085. ✨ feat: support email verification
 0620. ✨ feat: implement quiz timer feature
+0833. ✨ feat: add user authentication
