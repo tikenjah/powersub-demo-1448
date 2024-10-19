@@ -6031,3 +6031,4 @@
 0016. 🎨 style: apply consistent indentation
 0672. 🐛 fix: fix broken CSS in mobile view
 0073. 🔧 refactor: split large controller into smaller functions
+0747. 🔧 refactor: clean up auth middleware
