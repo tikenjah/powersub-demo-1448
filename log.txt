@@ -5020,3 +5020,4 @@
 0620. ✨ feat: implement quiz timer feature
 0833. ✨ feat: add user authentication
 0171. 🐛 fix: fix broken CSS in mobile view
+0750. 🎨 style: apply consistent indentation
