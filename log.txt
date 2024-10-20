@@ -10025,3 +10025,4 @@
 0498. ✅ test: mock database connection in test suite
 0594. 🎨 style: reformat files with black
 0100. ♻️ chore: update .gitignore
+0471. ✨ feat: support email verification
