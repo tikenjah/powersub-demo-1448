@@ -8024,3 +8024,4 @@
 0652. 🔧 refactor: organize models into subfolders
 0773. 📚 docs: document token refresh logic
 0942. ✅ test: increase coverage on auth module
+0164. 📚 docs: document token refresh logic
