@@ -6033,3 +6033,4 @@
 0073. 🔧 refactor: split large controller into smaller functions
 0747. 🔧 refactor: clean up auth middleware
 0451. ✨ feat: support email verification
+0345. 📚 docs: document token refresh logic
