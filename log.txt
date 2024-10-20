@@ -156,3 +156,4 @@
 0232. 🎨 style: apply consistent indentation
 0477. 🐛 fix: fix broken CSS in mobile view
 0169. 📚 docs: add API usage examples
+0100. ♻️ chore: update .gitignore
