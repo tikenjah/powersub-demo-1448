@@ -158,3 +158,4 @@
 0169. 📚 docs: add API usage examples
 0100. ♻️ chore: update .gitignore
 0987. ✨ feat: create admin dashboard
+0349. ✅ test: increase coverage on auth module
