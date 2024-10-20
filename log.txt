@@ -10027,3 +10027,4 @@
 0100. ♻️ chore: update .gitignore
 0471. ✨ feat: support email verification
 0386. 🚀 perf: optimize database query for quiz results
+0562. 🔧 refactor: clean up auth middleware
