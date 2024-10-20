@@ -10026,3 +10026,4 @@
 0594. 🎨 style: reformat files with black
 0100. ♻️ chore: update .gitignore
 0471. ✨ feat: support email verification
+0386. 🚀 perf: optimize database query for quiz results
