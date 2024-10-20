@@ -9030,3 +9030,4 @@
 0333. 🚀 perf: cache repeated calculations
 0879. 🎨 style: standardize quote style
 0289. 🐛 fix: resolve issue with date parsing
+0384. 📚 docs: clarify environment setup
