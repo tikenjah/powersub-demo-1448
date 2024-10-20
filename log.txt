@@ -159,3 +159,4 @@
 0100. ♻️ chore: update .gitignore
 0987. ✨ feat: create admin dashboard
 0349. ✅ test: increase coverage on auth module
+0054. ♻️ chore: update .gitignore
