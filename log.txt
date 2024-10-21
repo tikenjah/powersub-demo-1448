@@ -6037,3 +6037,4 @@
 0350. 🚀 perf: cache repeated calculations
 0696. 🔧 refactor: clean up auth middleware
 0681. ✨ feat: create admin dashboard
+0250. 📚 docs: update README with setup steps
