@@ -175,3 +175,4 @@
 0867. 🔧 refactor: refactor quiz grading logic
 0564. 📚 docs: clarify environment setup
 0535. 📚 docs: write FAQ section
+0080. ✨ feat: support email verification
