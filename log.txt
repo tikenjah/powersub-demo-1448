@@ -6041,3 +6041,4 @@
 0080. ✨ feat: support email verification
 0191. 🔧 refactor: refactor quiz grading logic
 0460. 📚 docs: write FAQ section
+0693. 📚 docs: add API usage examples
