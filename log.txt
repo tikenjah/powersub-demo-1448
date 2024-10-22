@@ -6043,3 +6043,4 @@
 0460. 📚 docs: write FAQ section
 0693. 📚 docs: add API usage examples
 0762. 🚀 perf: lazy-load components
+0725. 🚀 perf: lazy-load components
