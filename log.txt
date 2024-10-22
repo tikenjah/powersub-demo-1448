@@ -189,3 +189,4 @@
 0057. 🚀 perf: optimize database query for quiz results
 0635. 🎨 style: apply consistent indentation
 0106. 🎨 style: reformat files with black
+0964. ♻️ chore: clean up unused files
