@@ -207,3 +207,4 @@
 0691. 🎨 style: rename variables for clarity
 0608. 🔧 refactor: remove redundant code blocks
 0061. ✨ feat: create admin dashboard
+0472. 🐛 fix: fix null pointer exception on login
