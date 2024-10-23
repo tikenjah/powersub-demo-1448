@@ -202,3 +202,4 @@
 0607. 🐛 fix: prevent crash on empty input
 0176. 🔧 refactor: remove redundant code blocks
 0412. ✅ test: increase coverage on auth module
+0251. ♻️ chore: update .gitignore
