@@ -201,3 +201,4 @@
 0992. ♻️ chore: clean up unused files
 0607. 🐛 fix: prevent crash on empty input
 0176. 🔧 refactor: remove redundant code blocks
+0412. ✅ test: increase coverage on auth module
