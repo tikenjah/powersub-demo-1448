@@ -217,3 +217,4 @@
 0364. 🐛 fix: resolve issue with date parsing
 0938. 🎨 style: rename variables for clarity
 0520. 🐛 fix: fix null pointer exception on login
+0370. 🚀 perf: reduce image load time
