@@ -5032,3 +5032,4 @@
 0102. ✨ feat: support email verification
 0199. ✨ feat: create admin dashboard
 0822. 🔧 refactor: remove redundant code blocks
+0243. 🔧 refactor: clean up auth middleware
