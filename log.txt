@@ -209,3 +209,4 @@
 0061. ✨ feat: create admin dashboard
 0472. 🐛 fix: fix null pointer exception on login
 0009. ✨ feat: enable dark mode toggle
+0656. 🎨 style: apply consistent indentation
