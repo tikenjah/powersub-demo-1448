@@ -8031,3 +8031,4 @@
 0536. ✨ feat: add user authentication
 0394. 🚀 perf: lazy-load components
 0609. 🐛 fix: handle 500 error in quiz API
+0819. 🚀 perf: reduce image load time
