@@ -229,3 +229,4 @@
 0216. 🎨 style: rename variables for clarity
 0970. ♻️ chore: update .gitignore
 0319. 🐛 fix: handle 500 error in quiz API
+0242. ♻️ chore: clean up unused files
