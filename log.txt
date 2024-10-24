@@ -230,3 +230,4 @@
 0970. ♻️ chore: update .gitignore
 0319. 🐛 fix: handle 500 error in quiz API
 0242. ♻️ chore: clean up unused files
+0837. 🚀 perf: cache repeated calculations
