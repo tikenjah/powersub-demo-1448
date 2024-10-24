@@ -10039,3 +10039,4 @@
 0965. 🎨 style: reformat files with black
 0074. ♻️ chore: add GitHub actions badge
 0042. 📚 docs: document token refresh logic
+0085. ✨ feat: support email verification
