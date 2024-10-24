@@ -10037,3 +10037,4 @@
 0258. 🐛 fix: prevent crash on empty input
 0031. 📚 docs: document token refresh logic
 0965. 🎨 style: reformat files with black
+0074. ♻️ chore: add GitHub actions badge
