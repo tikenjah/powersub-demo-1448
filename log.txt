@@ -7029,3 +7029,4 @@
 0836. 🚀 perf: optimize database query for quiz results
 0568. 🐛 fix: handle 500 error in quiz API
 0232. 🎨 style: apply consistent indentation
+0549. ✨ feat: enable dark mode toggle
