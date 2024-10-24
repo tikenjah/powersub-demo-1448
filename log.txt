@@ -8035,3 +8035,4 @@
 0140. 🐛 fix: handle 500 error in quiz API
 0154. 🐛 fix: prevent crash on empty input
 0362. 📚 docs: add API usage examples
+0029. 🚀 perf: lazy-load components
