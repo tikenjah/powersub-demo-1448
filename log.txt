@@ -233,3 +233,4 @@
 0837. 🚀 perf: cache repeated calculations
 0810. 🔧 refactor: refactor quiz grading logic
 0937. 🐛 fix: handle 500 error in quiz API
+0281. ✨ feat: support email verification
