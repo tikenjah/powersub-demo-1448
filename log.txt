@@ -10041,3 +10041,4 @@
 0042. 📚 docs: document token refresh logic
 0085. ✨ feat: support email verification
 0916. ♻️ chore: bump dependencies
+0771. 🚀 perf: cache repeated calculations
