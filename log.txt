@@ -7033,3 +7033,4 @@
 0872. 🎨 style: rename variables for clarity
 0582. ✨ feat: add export to CSV option
 0572. ✨ feat: add user authentication
+0140. 🐛 fix: handle 500 error in quiz API
