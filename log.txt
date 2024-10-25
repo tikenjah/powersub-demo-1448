@@ -7032,3 +7032,4 @@
 0549. ✨ feat: enable dark mode toggle
 0872. 🎨 style: rename variables for clarity
 0582. ✨ feat: add export to CSV option
+0572. ✨ feat: add user authentication
