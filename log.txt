@@ -5038,3 +5038,4 @@
 0923. ✨ feat: support email verification
 0765. ♻️ chore: clean up unused files
 0929. ✨ feat: support email verification
+0585. 🚀 perf: lazy-load components
