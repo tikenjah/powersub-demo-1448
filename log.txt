@@ -5037,3 +5037,4 @@
 0291. 📚 docs: write FAQ section
 0923. ✨ feat: support email verification
 0765. ♻️ chore: clean up unused files
+0929. ✨ feat: support email verification
