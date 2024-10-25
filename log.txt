@@ -236,3 +236,4 @@
 0281. ✨ feat: support email verification
 0695. ✨ feat: create admin dashboard
 0192. ✨ feat: enable dark mode toggle
+0007. 🎨 style: rename variables for clarity
