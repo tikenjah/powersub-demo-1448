@@ -10043,3 +10043,4 @@
 0916. ♻️ chore: bump dependencies
 0771. 🚀 perf: cache repeated calculations
 0990. ♻️ chore: rename env.example
+0764. ✨ feat: add user authentication
