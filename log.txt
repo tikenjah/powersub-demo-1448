@@ -240,3 +240,4 @@
 0947. 📚 docs: write FAQ section
 0614. 🚀 perf: reduce image load time
 0475. 🔧 refactor: clean up auth middleware
+0493. ✨ feat: add user authentication
