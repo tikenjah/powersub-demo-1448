@@ -10045,3 +10045,4 @@
 0990. ♻️ chore: rename env.example
 0764. ✨ feat: add user authentication
 0715. ✨ feat: create admin dashboard
+0984. ♻️ chore: clean up unused files
