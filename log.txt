@@ -7035,3 +7035,4 @@
 0572. ✨ feat: add user authentication
 0140. 🐛 fix: handle 500 error in quiz API
 0579. 📚 docs: clarify environment setup
+0821. ✅ test: add integration test for /submit endpoint
