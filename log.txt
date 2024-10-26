@@ -9050,3 +9050,4 @@
 0127. 🐛 fix: fix null pointer exception on login
 0800. 🚀 perf: optimize database query for quiz results
 0291. 📚 docs: write FAQ section
+0957. 🐛 fix: fix null pointer exception on login
