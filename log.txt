@@ -245,3 +245,4 @@
 0342. 🚀 perf: cache repeated calculations
 0631. ✨ feat: create admin dashboard
 0374. 🎨 style: standardize quote style
+0800. 🚀 perf: optimize database query for quiz results
