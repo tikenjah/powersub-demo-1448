@@ -6054,3 +6054,4 @@
 0110. 🐛 fix: prevent crash on empty input
 0475. 🔧 refactor: clean up auth middleware
 0054. ♻️ chore: update .gitignore
+0866. 📚 docs: add API usage examples
