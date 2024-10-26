@@ -253,3 +253,4 @@
 0679. ♻️ chore: bump dependencies
 0283. ♻️ chore: add GitHub actions badge
 0095. ✅ test: mock database connection in test suite
+0030. 🐛 fix: fix null pointer exception on login
