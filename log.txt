@@ -249,3 +249,4 @@
 0753. 🔧 refactor: remove redundant code blocks
 0569. 📚 docs: document token refresh logic
 0950. 🎨 style: reformat files with black
+0483. 📚 docs: update README with setup steps
