@@ -10048,3 +10048,4 @@
 0984. ♻️ chore: clean up unused files
 0999. 🔧 refactor: split large controller into smaller functions
 0580. ♻️ chore: bump dependencies
+0085. ✨ feat: support email verification
