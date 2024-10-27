@@ -8041,3 +8041,4 @@
 0760. 🐛 fix: resolve issue with date parsing
 0994. 🚀 perf: reduce image load time
 0400. 🐛 fix: fix null pointer exception on login
+0826. 📚 docs: clarify environment setup
