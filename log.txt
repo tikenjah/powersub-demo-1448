@@ -10051,3 +10051,4 @@
 0085. ✨ feat: support email verification
 0317. ✅ test: test user registration edge cases
 0394. 🚀 perf: lazy-load components
+0564. 📚 docs: clarify environment setup
