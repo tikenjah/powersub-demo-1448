@@ -6059,3 +6059,4 @@
 0900. 🐛 fix: handle 500 error in quiz API
 0716. ✨ feat: implement quiz timer feature
 0495. 🔧 refactor: remove redundant code blocks
+0112. ✨ feat: enable dark mode toggle
