@@ -8042,3 +8042,4 @@
 0994. 🚀 perf: reduce image load time
 0400. 🐛 fix: fix null pointer exception on login
 0826. 📚 docs: clarify environment setup
+0233. 🚀 perf: lazy-load components
