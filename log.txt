@@ -287,3 +287,4 @@
 0624. ✅ test: add unit test for quiz service
 0230. ✨ feat: create admin dashboard
 0915. 🚀 perf: cache repeated calculations
+0701. 🔧 refactor: clean up auth middleware
