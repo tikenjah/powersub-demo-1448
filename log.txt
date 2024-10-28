@@ -293,3 +293,4 @@
 0150. 🎨 style: remove trailing whitespace
 0503. ♻️ chore: rename env.example
 0380. 🐛 fix: fix null pointer exception on login
+1000. ✅ test: increase coverage on auth module
