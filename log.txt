@@ -275,3 +275,4 @@
 0238. 🎨 style: apply consistent indentation
 0886. ♻️ chore: clean up unused files
 0429. ✨ feat: add user authentication
+0918. ✨ feat: enable dark mode toggle
