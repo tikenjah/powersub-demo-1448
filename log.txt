@@ -10061,3 +10061,4 @@
 0011. ✅ test: add unit test for quiz service
 0572. ✨ feat: add user authentication
 0056. ♻️ chore: rename env.example
+0021. ✨ feat: support email verification
