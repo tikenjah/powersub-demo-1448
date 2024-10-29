@@ -10057,3 +10057,4 @@
 0631. ✨ feat: create admin dashboard
 0970. ♻️ chore: update .gitignore
 0050. ✨ feat: enable dark mode toggle
+0116. ✨ feat: support email verification
