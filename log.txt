@@ -300,3 +300,4 @@
 0823. ✨ feat: add user authentication
 0904. ✨ feat: implement quiz timer feature
 0392. 🎨 style: remove trailing whitespace
+0693. 📚 docs: add API usage examples
