@@ -7043,3 +7043,4 @@
 0124. 🎨 style: reformat files with black
 0895. ✨ feat: support email verification
 0944. ✨ feat: add user authentication
+0174. 📚 docs: clarify environment setup
