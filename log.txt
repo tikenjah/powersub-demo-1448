@@ -312,3 +312,4 @@
 0943. 🎨 style: rename variables for clarity
 0369. 🎨 style: standardize quote style
 0218. 🔧 refactor: clean up auth middleware
+0393. 🚀 perf: lazy-load components
