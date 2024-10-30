@@ -10063,3 +10063,4 @@
 0056. ♻️ chore: rename env.example
 0021. ✨ feat: support email verification
 0988. 🐛 fix: fix broken CSS in mobile view
+0781. 🚀 perf: reduce image load time
