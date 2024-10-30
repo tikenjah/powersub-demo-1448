@@ -9059,3 +9059,4 @@
 0942. ✅ test: increase coverage on auth module
 0221. ✨ feat: add user authentication
 0903. ✅ test: mock database connection in test suite
+0804. ♻️ chore: add GitHub actions badge
