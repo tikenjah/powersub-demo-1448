@@ -318,3 +318,4 @@
 0253. 📚 docs: update README with setup steps
 0596. ♻️ chore: update .gitignore
 0124. 🎨 style: reformat files with black
+0560. 🎨 style: rename variables for clarity
