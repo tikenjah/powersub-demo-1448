@@ -8052,3 +8052,4 @@
 0734. ✨ feat: add export to CSV option
 0740. 🐛 fix: resolve issue with date parsing
 0654. ✨ feat: create admin dashboard
+0526. ✨ feat: add user authentication
