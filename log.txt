@@ -335,3 +335,4 @@
 0813. 🔧 refactor: organize models into subfolders
 0255. 🔧 refactor: refactor quiz grading logic
 0617. ✨ feat: support email verification
+0190. 🎨 style: rename variables for clarity
