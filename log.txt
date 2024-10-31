@@ -6066,3 +6066,4 @@
 0419. 🎨 style: remove trailing whitespace
 0854. ♻️ chore: rename env.example
 0624. ✅ test: add unit test for quiz service
+0558. ✨ feat: enable dark mode toggle
