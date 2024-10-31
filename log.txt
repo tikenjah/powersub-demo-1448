@@ -327,3 +327,4 @@
 0236. 🔧 refactor: remove redundant code blocks
 0561. 📚 docs: write FAQ section
 0864. 🐛 fix: correct typo in registration form
+0980. 🎨 style: reformat files with black
