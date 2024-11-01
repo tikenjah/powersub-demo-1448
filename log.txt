@@ -8057,3 +8057,4 @@
 0087. ✨ feat: add export to CSV option
 0332. 🎨 style: standardize quote style
 0639. 🐛 fix: correct typo in registration form
+0006. 🐛 fix: prevent crash on empty input
