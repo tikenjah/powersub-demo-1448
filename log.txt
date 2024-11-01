@@ -9062,3 +9062,4 @@
 0804. ♻️ chore: add GitHub actions badge
 0660. 🐛 fix: correct typo in registration form
 0157. ✅ test: mock database connection in test suite
+0127. 🐛 fix: fix null pointer exception on login
