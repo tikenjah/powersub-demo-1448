@@ -8053,3 +8053,4 @@
 0740. 🐛 fix: resolve issue with date parsing
 0654. ✨ feat: create admin dashboard
 0526. ✨ feat: add user authentication
+0841. 🚀 perf: optimize database query for quiz results
