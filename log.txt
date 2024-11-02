@@ -358,3 +358,4 @@
 0477. 🐛 fix: fix broken CSS in mobile view
 0437. 📚 docs: clarify environment setup
 0669. ✨ feat: enable dark mode toggle
+0551. 📚 docs: write FAQ section
