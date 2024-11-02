@@ -355,3 +355,4 @@
 0407. 🚀 perf: cache repeated calculations
 0243. 🔧 refactor: clean up auth middleware
 0671. 🐛 fix: fix null pointer exception on login
+0477. 🐛 fix: fix broken CSS in mobile view
