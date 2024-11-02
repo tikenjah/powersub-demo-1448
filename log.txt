@@ -362,3 +362,4 @@
 0265. 🎨 style: reformat files with black
 0610. 🚀 perf: lazy-load components
 0062. ♻️ chore: update .gitignore
+0803. ✅ test: mock database connection in test suite
