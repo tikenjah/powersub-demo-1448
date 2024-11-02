@@ -357,3 +357,4 @@
 0671. 🐛 fix: fix null pointer exception on login
 0477. 🐛 fix: fix broken CSS in mobile view
 0437. 📚 docs: clarify environment setup
+0669. ✨ feat: enable dark mode toggle
