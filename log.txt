@@ -370,3 +370,4 @@
 0108. 🎨 style: remove trailing whitespace
 0559. 🔧 refactor: split large controller into smaller functions
 0810. 🔧 refactor: refactor quiz grading logic
+0732. ♻️ chore: add GitHub actions badge
