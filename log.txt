@@ -367,3 +367,4 @@
 0439. 🐛 fix: correct typo in registration form
 0607. 🐛 fix: prevent crash on empty input
 0389. 📚 docs: improve code comments in utils
+0108. 🎨 style: remove trailing whitespace
