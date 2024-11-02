@@ -349,3 +349,4 @@
 0304. 🔧 refactor: remove redundant code blocks
 0807. 🔧 refactor: remove redundant code blocks
 0056. ♻️ chore: rename env.example
+0611. ✅ test: test user registration edge cases
