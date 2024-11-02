@@ -361,3 +361,4 @@
 0551. 📚 docs: write FAQ section
 0265. 🎨 style: reformat files with black
 0610. 🚀 perf: lazy-load components
+0062. ♻️ chore: update .gitignore
