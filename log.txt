@@ -7052,3 +7052,4 @@
 0349. ✅ test: increase coverage on auth module
 0335. ♻️ chore: update .gitignore
 0970. ♻️ chore: update .gitignore
+0036. 🔧 refactor: clean up auth middleware
