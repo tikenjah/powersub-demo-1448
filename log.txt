@@ -5059,3 +5059,4 @@
 0425. 🔧 refactor: refactor quiz grading logic
 0942. ✅ test: increase coverage on auth module
 0785. ✨ feat: enable dark mode toggle
+0688. 🚀 perf: reduce image load time
