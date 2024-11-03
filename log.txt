@@ -377,3 +377,4 @@
 0676. 🐛 fix: prevent crash on empty input
 0799. ♻️ chore: clean up unused files
 0745. ✅ test: add unit test for quiz service
+0476. 🚀 perf: reduce image load time
