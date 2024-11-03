@@ -381,3 +381,4 @@
 0918. ✨ feat: enable dark mode toggle
 0473. 📚 docs: write FAQ section
 0747. 🔧 refactor: clean up auth middleware
+0668. 🚀 perf: optimize database query for quiz results
