@@ -379,3 +379,4 @@
 0745. ✅ test: add unit test for quiz service
 0476. 🚀 perf: reduce image load time
 0918. ✨ feat: enable dark mode toggle
+0473. 📚 docs: write FAQ section
