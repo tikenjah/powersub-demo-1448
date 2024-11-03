@@ -7050,3 +7050,4 @@
 0969. ✨ feat: create admin dashboard
 0690. 🚀 perf: lazy-load components
 0349. ✅ test: increase coverage on auth module
+0335. ♻️ chore: update .gitignore
