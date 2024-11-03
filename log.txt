@@ -9070,3 +9070,4 @@
 0869. ♻️ chore: bump dependencies
 0062. ♻️ chore: update .gitignore
 0052. 🎨 style: standardize quote style
+0361. ✨ feat: support email verification
