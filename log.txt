@@ -395,3 +395,4 @@
 0379. ✨ feat: support email verification
 0192. ✨ feat: enable dark mode toggle
 0054. ♻️ chore: update .gitignore
+0429. ✨ feat: add user authentication
