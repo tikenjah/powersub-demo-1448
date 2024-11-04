@@ -398,3 +398,4 @@
 0429. ✨ feat: add user authentication
 0304. 🔧 refactor: remove redundant code blocks
 0639. 🐛 fix: correct typo in registration form
+0595. ✨ feat: enable dark mode toggle
