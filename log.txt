@@ -6080,3 +6080,4 @@
 0899. 🚀 perf: cache repeated calculations
 0956. 📚 docs: clarify environment setup
 0232. 🎨 style: apply consistent indentation
+0036. 🔧 refactor: clean up auth middleware
