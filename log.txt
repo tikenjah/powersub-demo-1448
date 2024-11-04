@@ -393,3 +393,4 @@
 0725. 🚀 perf: lazy-load components
 0715. ✨ feat: create admin dashboard
 0379. ✨ feat: support email verification
+0192. ✨ feat: enable dark mode toggle
