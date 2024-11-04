@@ -10081,3 +10081,4 @@
 0086. 🐛 fix: correct typo in registration form
 0163. ✨ feat: implement quiz timer feature
 0427. ✅ test: mock database connection in test suite
+0473. 📚 docs: write FAQ section
