@@ -388,3 +388,4 @@
 0630. 🚀 perf: lazy-load components
 0732. ♻️ chore: add GitHub actions badge
 0794. ♻️ chore: clean up unused files
+0801. ✨ feat: enable dark mode toggle
