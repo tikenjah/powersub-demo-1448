@@ -386,3 +386,4 @@
 0755. 🚀 perf: cache repeated calculations
 0333. 🚀 perf: cache repeated calculations
 0630. 🚀 perf: lazy-load components
+0732. ♻️ chore: add GitHub actions badge
