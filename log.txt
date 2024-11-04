@@ -6076,3 +6076,4 @@
 0708. ✅ test: add integration test for /submit endpoint
 0865. ♻️ chore: add GitHub actions badge
 0047. 🎨 style: rename variables for clarity
+0107. 🐛 fix: prevent crash on empty input
