@@ -411,3 +411,4 @@
 0462. ♻️ chore: update .gitignore
 0818. 🔧 refactor: remove redundant code blocks
 0937. 🐛 fix: handle 500 error in quiz API
+0162. ♻️ chore: add GitHub actions badge
