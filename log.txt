@@ -402,3 +402,4 @@
 0113. ✨ feat: add user authentication
 0350. 🚀 perf: cache repeated calculations
 0452. ✨ feat: implement quiz timer feature
+0052. 🎨 style: standardize quote style
