@@ -10085,3 +10085,4 @@
 0655. 🚀 perf: cache repeated calculations
 0022. 📚 docs: document token refresh logic
 0384. 📚 docs: clarify environment setup
+0923. ✨ feat: support email verification
