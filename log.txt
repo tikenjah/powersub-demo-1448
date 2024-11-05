@@ -409,3 +409,4 @@
 0561. 📚 docs: write FAQ section
 0460. 📚 docs: write FAQ section
 0462. ♻️ chore: update .gitignore
+0818. 🔧 refactor: remove redundant code blocks
