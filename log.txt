@@ -9073,3 +9073,4 @@
 0361. ✨ feat: support email verification
 0860. 🔧 refactor: organize models into subfolders
 0656. 🎨 style: apply consistent indentation
+0290. ✅ test: test user registration edge cases
