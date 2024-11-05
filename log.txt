@@ -408,3 +408,4 @@
 0563. 📚 docs: clarify environment setup
 0561. 📚 docs: write FAQ section
 0460. 📚 docs: write FAQ section
+0462. ♻️ chore: update .gitignore
