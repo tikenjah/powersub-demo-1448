@@ -6083,3 +6083,4 @@
 0036. 🔧 refactor: clean up auth middleware
 0855. 🎨 style: reformat files with black
 0743. 🎨 style: apply consistent indentation
+0962. ✨ feat: create admin dashboard
