@@ -404,3 +404,4 @@
 0452. ✨ feat: implement quiz timer feature
 0052. 🎨 style: standardize quote style
 0715. ✨ feat: create admin dashboard
+0896. 🚀 perf: reduce image load time
