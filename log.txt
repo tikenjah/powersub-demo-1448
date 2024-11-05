@@ -5067,3 +5067,4 @@
 0210. 🎨 style: apply consistent indentation
 0042. 📚 docs: document token refresh logic
 0522. 🐛 fix: handle 500 error in quiz API
+0978. 🐛 fix: prevent crash on empty input
