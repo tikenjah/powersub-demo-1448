@@ -7057,3 +7057,4 @@
 0131. 📚 docs: write FAQ section
 0032. 🎨 style: apply consistent indentation
 0894. ✅ test: add integration test for /submit endpoint
+0621. 🔧 refactor: clean up auth middleware
