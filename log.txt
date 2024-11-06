@@ -9078,3 +9078,4 @@
 0198. 📚 docs: clarify environment setup
 0836. 🚀 perf: optimize database query for quiz results
 0268. 🐛 fix: prevent crash on empty input
+0536. ✨ feat: add user authentication
