@@ -9077,3 +9077,4 @@
 0228. 🔧 refactor: remove redundant code blocks
 0198. 📚 docs: clarify environment setup
 0836. 🚀 perf: optimize database query for quiz results
+0268. 🐛 fix: prevent crash on empty input
