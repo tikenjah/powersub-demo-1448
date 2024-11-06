@@ -6089,3 +6089,4 @@
 0564. 📚 docs: clarify environment setup
 0590. 🐛 fix: fix null pointer exception on login
 0080. ✨ feat: support email verification
+0960. ✅ test: increase coverage on auth module
