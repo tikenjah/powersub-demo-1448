@@ -424,3 +424,4 @@
 0951. 🎨 style: rename variables for clarity
 0347. ♻️ chore: update .gitignore
 0627. 📚 docs: document token refresh logic
+0566. 📚 docs: write FAQ section
