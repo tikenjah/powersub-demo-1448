@@ -425,3 +425,4 @@
 0347. ♻️ chore: update .gitignore
 0627. 📚 docs: document token refresh logic
 0566. 📚 docs: write FAQ section
+0072. 🚀 perf: optimize database query for quiz results
