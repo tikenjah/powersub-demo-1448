@@ -6090,3 +6090,4 @@
 0590. 🐛 fix: fix null pointer exception on login
 0080. ✨ feat: support email verification
 0960. ✅ test: increase coverage on auth module
+0802. 🔧 refactor: remove redundant code blocks
