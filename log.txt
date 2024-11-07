@@ -9083,3 +9083,4 @@
 0994. 🚀 perf: reduce image load time
 0152. ✨ feat: add user authentication
 0527. 🎨 style: remove trailing whitespace
+0934. ✨ feat: support email verification
