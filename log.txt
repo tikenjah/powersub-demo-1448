@@ -8071,3 +8071,4 @@
 0051. ✨ feat: enable dark mode toggle
 0587. 🔧 refactor: remove redundant code blocks
 0787. ♻️ chore: rename env.example
+0864. 🐛 fix: correct typo in registration form
