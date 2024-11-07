@@ -429,3 +429,4 @@
 0755. 🚀 perf: cache repeated calculations
 0036. 🔧 refactor: clean up auth middleware
 0256. ✅ test: mock database connection in test suite
+0529. 📚 docs: write FAQ section
