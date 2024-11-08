@@ -10090,3 +10090,4 @@
 0370. 🚀 perf: reduce image load time
 0836. 🚀 perf: optimize database query for quiz results
 0239. 🎨 style: standardize quote style
+0536. ✨ feat: add user authentication
