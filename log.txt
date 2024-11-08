@@ -5072,3 +5072,4 @@
 0958. 🐛 fix: prevent crash on empty input
 0131. 📚 docs: write FAQ section
 0450. 🐛 fix: fix broken CSS in mobile view
+0607. 🐛 fix: prevent crash on empty input
