@@ -9084,3 +9084,4 @@
 0152. ✨ feat: add user authentication
 0527. 🎨 style: remove trailing whitespace
 0934. ✨ feat: support email verification
+0584. 🚀 perf: lazy-load components
