@@ -6092,3 +6092,4 @@
 0960. ✅ test: increase coverage on auth module
 0802. 🔧 refactor: remove redundant code blocks
 0744. 🔧 refactor: remove redundant code blocks
+0702. ✨ feat: add user authentication
