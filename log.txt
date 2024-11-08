@@ -444,3 +444,4 @@
 0041. 🐛 fix: fix broken CSS in mobile view
 0526. ✨ feat: add user authentication
 0631. ✨ feat: create admin dashboard
+0284. ✨ feat: implement quiz timer feature
