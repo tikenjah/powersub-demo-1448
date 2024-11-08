@@ -9085,3 +9085,4 @@
 0527. 🎨 style: remove trailing whitespace
 0934. ✨ feat: support email verification
 0584. 🚀 perf: lazy-load components
+0219. ✅ test: increase coverage on auth module
