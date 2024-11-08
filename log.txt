@@ -441,3 +441,4 @@
 0001. 🚀 perf: cache repeated calculations
 0690. 🚀 perf: lazy-load components
 0482. ✨ feat: add export to CSV option
+0041. 🐛 fix: fix broken CSS in mobile view
