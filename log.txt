@@ -460,3 +460,4 @@
 0649. 📚 docs: update README with setup steps
 0608. 🔧 refactor: remove redundant code blocks
 0128. ♻️ chore: rename env.example
+0792. 🎨 style: standardize quote style
