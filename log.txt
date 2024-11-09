@@ -10092,3 +10092,4 @@
 0239. 🎨 style: standardize quote style
 0536. ✨ feat: add user authentication
 0481. ✅ test: add unit test for quiz service
+0702. ✨ feat: add user authentication
