@@ -9086,3 +9086,4 @@
 0934. ✨ feat: support email verification
 0584. 🚀 perf: lazy-load components
 0219. ✅ test: increase coverage on auth module
+0208. 🔧 refactor: clean up auth middleware
