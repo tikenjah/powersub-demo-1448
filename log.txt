@@ -452,3 +452,4 @@
 0225. 🚀 perf: reduce image load time
 0008. 🚀 perf: reduce image load time
 0335. ♻️ chore: update .gitignore
+0437. 📚 docs: clarify environment setup
