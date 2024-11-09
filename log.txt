@@ -8079,3 +8079,4 @@
 0908. ♻️ chore: bump dependencies
 0684. 🚀 perf: reduce image load time
 0361. ✨ feat: support email verification
+0262. 🎨 style: remove trailing whitespace
