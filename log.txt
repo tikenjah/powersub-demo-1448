@@ -451,3 +451,4 @@
 0729. 🔧 refactor: refactor quiz grading logic
 0225. 🚀 perf: reduce image load time
 0008. 🚀 perf: reduce image load time
+0335. ♻️ chore: update .gitignore
