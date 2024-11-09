@@ -5074,3 +5074,4 @@
 0450. 🐛 fix: fix broken CSS in mobile view
 0607. 🐛 fix: prevent crash on empty input
 0370. 🚀 perf: reduce image load time
+0430. 🐛 fix: fix null pointer exception on login
