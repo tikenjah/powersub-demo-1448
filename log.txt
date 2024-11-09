@@ -8076,3 +8076,4 @@
 0737. 🐛 fix: handle 500 error in quiz API
 0334. 🚀 perf: cache repeated calculations
 0867. 🔧 refactor: refactor quiz grading logic
+0908. ♻️ chore: bump dependencies
