@@ -6095,3 +6095,4 @@
 0702. ✨ feat: add user authentication
 0003. ✅ test: increase coverage on auth module
 0573. ✅ test: add integration test for /submit endpoint
+0856. 🐛 fix: fix null pointer exception on login
