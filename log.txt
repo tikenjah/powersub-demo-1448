@@ -8077,3 +8077,4 @@
 0334. 🚀 perf: cache repeated calculations
 0867. 🔧 refactor: refactor quiz grading logic
 0908. ♻️ chore: bump dependencies
+0684. 🚀 perf: reduce image load time
