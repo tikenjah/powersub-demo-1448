@@ -7067,3 +7067,4 @@
 0273. 🚀 perf: reduce image load time
 0648. ♻️ chore: bump dependencies
 0311. 🎨 style: apply consistent indentation
+0440. 📚 docs: update README with setup steps
