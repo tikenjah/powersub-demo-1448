@@ -467,3 +467,4 @@
 0453. 🎨 style: standardize quote style
 0305. ✨ feat: enable dark mode toggle
 0423. ✅ test: mock database connection in test suite
+0730. ✅ test: test user registration edge cases
