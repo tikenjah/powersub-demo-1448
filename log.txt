@@ -7070,3 +7070,4 @@
 0440. 📚 docs: update README with setup steps
 0199. ✨ feat: create admin dashboard
 0274. 🔧 refactor: refactor quiz grading logic
+0355. 🚀 perf: optimize database query for quiz results
