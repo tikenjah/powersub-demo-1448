@@ -8085,3 +8085,4 @@
 0222. 🐛 fix: handle 500 error in quiz API
 0892. ✅ test: add unit test for quiz service
 0499. 🎨 style: reformat files with black
+0832. 🔧 refactor: remove redundant code blocks
