@@ -8080,3 +8080,4 @@
 0684. 🚀 perf: reduce image load time
 0361. ✨ feat: support email verification
 0262. 🎨 style: remove trailing whitespace
+0380. 🐛 fix: fix null pointer exception on login
