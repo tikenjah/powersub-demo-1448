@@ -475,3 +475,4 @@
 0122. ✨ feat: support email verification
 0103. 🔧 refactor: remove redundant code blocks
 0965. 🎨 style: reformat files with black
+0213. ✅ test: add integration test for /submit endpoint
