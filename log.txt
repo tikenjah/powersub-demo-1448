@@ -479,3 +479,4 @@
 0968. 🎨 style: standardize quote style
 0104. 🎨 style: apply consistent indentation
 0758. 🚀 perf: optimize database query for quiz results
+0811. 🎨 style: reformat files with black
