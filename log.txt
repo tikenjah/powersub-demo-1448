@@ -8087,3 +8087,4 @@
 0499. 🎨 style: reformat files with black
 0832. 🔧 refactor: remove redundant code blocks
 0094. 📚 docs: document token refresh logic
+0935. 📚 docs: update README with setup steps
