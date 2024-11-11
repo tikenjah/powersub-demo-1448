@@ -478,3 +478,4 @@
 0213. ✅ test: add integration test for /submit endpoint
 0968. 🎨 style: standardize quote style
 0104. 🎨 style: apply consistent indentation
+0758. 🚀 perf: optimize database query for quiz results
