@@ -487,3 +487,4 @@
 0249. ✅ test: increase coverage on auth module
 0462. ♻️ chore: update .gitignore
 0096. 🐛 fix: prevent crash on empty input
+0905. ♻️ chore: bump dependencies
