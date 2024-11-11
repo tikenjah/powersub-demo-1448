@@ -7074,3 +7074,4 @@
 0230. ✨ feat: create admin dashboard
 0109. 🚀 perf: lazy-load components
 0875. ✅ test: increase coverage on auth module
+0381. ♻️ chore: clean up unused files
