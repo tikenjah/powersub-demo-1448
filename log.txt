@@ -485,3 +485,4 @@
 0288. 🔧 refactor: refactor quiz grading logic
 0964. ♻️ chore: clean up unused files
 0249. ✅ test: increase coverage on auth module
+0462. ♻️ chore: update .gitignore
