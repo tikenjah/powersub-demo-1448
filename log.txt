@@ -10097,3 +10097,4 @@
 0095. ✅ test: mock database connection in test suite
 0567. 📚 docs: add API usage examples
 0612. ✅ test: test user registration edge cases
+0756. ✨ feat: support email verification
