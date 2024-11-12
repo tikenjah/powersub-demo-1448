@@ -5082,3 +5082,4 @@
 0488. ♻️ chore: add GitHub actions badge
 0508. ✅ test: add unit test for quiz service
 0255. 🔧 refactor: refactor quiz grading logic
+0772. 🐛 fix: fix null pointer exception on login
