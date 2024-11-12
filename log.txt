@@ -498,3 +498,4 @@
 0053. ✅ test: increase coverage on auth module
 0469. 🚀 perf: lazy-load components
 0779. 🔧 refactor: organize models into subfolders
+0967. ♻️ chore: add GitHub actions badge
