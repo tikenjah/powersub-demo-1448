@@ -6103,3 +6103,4 @@
 0472. 🐛 fix: fix null pointer exception on login
 0838. 🎨 style: standardize quote style
 0059. ♻️ chore: bump dependencies
+0201. 🔧 refactor: clean up auth middleware
