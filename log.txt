@@ -491,3 +491,4 @@
 0385. ♻️ chore: clean up unused files
 0356. 📚 docs: write FAQ section
 0852. ✨ feat: enable dark mode toggle
+0192. ✨ feat: enable dark mode toggle
