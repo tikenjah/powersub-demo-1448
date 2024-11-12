@@ -495,3 +495,4 @@
 0882. 🚀 perf: optimize database query for quiz results
 0348. ✅ test: test user registration edge cases
 0111. 📚 docs: update README with setup steps
+0053. ✅ test: increase coverage on auth module
