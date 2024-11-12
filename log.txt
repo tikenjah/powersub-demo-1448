@@ -7076,3 +7076,4 @@
 0875. ✅ test: increase coverage on auth module
 0381. ♻️ chore: clean up unused files
 0622. 🎨 style: apply consistent indentation
+0774. 🔧 refactor: refactor quiz grading logic
