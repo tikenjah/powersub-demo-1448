@@ -504,3 +504,4 @@
 0188. 🎨 style: apply consistent indentation
 0605. ✨ feat: support email verification
 0245. 🐛 fix: resolve issue with date parsing
+0251. ♻️ chore: update .gitignore
