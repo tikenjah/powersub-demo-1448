@@ -7079,3 +7079,4 @@
 0774. 🔧 refactor: refactor quiz grading logic
 0639. 🐛 fix: correct typo in registration form
 0369. 🎨 style: standardize quote style
+0592. 📚 docs: add API usage examples
