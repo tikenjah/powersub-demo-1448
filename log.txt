@@ -10104,3 +10104,4 @@
 0189. 📚 docs: clarify environment setup
 0521. 🎨 style: standardize quote style
 0494. 🎨 style: rename variables for clarity
+0250. 📚 docs: update README with setup steps
