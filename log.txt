@@ -5086,3 +5086,4 @@
 0017. ✅ test: mock database connection in test suite
 0908. ♻️ chore: bump dependencies
 0706. ✨ feat: support email verification
+0429. ✨ feat: add user authentication
