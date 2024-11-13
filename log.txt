@@ -10102,3 +10102,4 @@
 0643. 🎨 style: apply consistent indentation
 0438. ♻️ chore: bump dependencies
 0189. 📚 docs: clarify environment setup
+0521. 🎨 style: standardize quote style
