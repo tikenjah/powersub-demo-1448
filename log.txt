@@ -7078,3 +7078,4 @@
 0622. 🎨 style: apply consistent indentation
 0774. 🔧 refactor: refactor quiz grading logic
 0639. 🐛 fix: correct typo in registration form
+0369. 🎨 style: standardize quote style
