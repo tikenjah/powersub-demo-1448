@@ -9103,3 +9103,4 @@
 0684. 🚀 perf: reduce image load time
 0339. 📚 docs: update README with setup steps
 0347. ♻️ chore: update .gitignore
+0057. 🚀 perf: optimize database query for quiz results
