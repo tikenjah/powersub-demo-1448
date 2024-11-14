@@ -8091,3 +8091,4 @@
 0420. 🚀 perf: reduce image load time
 0353. ♻️ chore: rename env.example
 0781. 🚀 perf: reduce image load time
+0839. 🎨 style: apply consistent indentation
