@@ -5087,3 +5087,4 @@
 0908. ♻️ chore: bump dependencies
 0706. ✨ feat: support email verification
 0429. ✨ feat: add user authentication
+0025. 🚀 perf: optimize database query for quiz results
