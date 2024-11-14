@@ -523,3 +523,4 @@
 0010. ✨ feat: add user authentication
 0917. ✅ test: add integration test for /submit endpoint
 0979. 🎨 style: standardize quote style
+0031. 📚 docs: document token refresh logic
