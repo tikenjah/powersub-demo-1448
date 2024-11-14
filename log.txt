@@ -6108,3 +6108,4 @@
 0667. ✨ feat: add export to CSV option
 0814. 🔧 refactor: remove redundant code blocks
 0416. 🎨 style: rename variables for clarity
+0562. 🔧 refactor: clean up auth middleware
