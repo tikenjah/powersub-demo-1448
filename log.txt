@@ -10113,3 +10113,4 @@
 0196. ♻️ chore: bump dependencies
 0678. ✨ feat: add user authentication
 0835. 🐛 fix: prevent crash on empty input
+0330. ✅ test: test user registration edge cases
