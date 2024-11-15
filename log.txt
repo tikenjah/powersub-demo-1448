@@ -530,3 +530,4 @@
 0067. 🔧 refactor: remove redundant code blocks
 0395. 📚 docs: write FAQ section
 0628. ♻️ chore: add GitHub actions badge
+0496. ✅ test: add integration test for /submit endpoint
