@@ -537,3 +537,4 @@
 0628. ♻️ chore: add GitHub actions badge
 0437. 📚 docs: clarify environment setup
 0778. 📚 docs: write FAQ section
+0740. 🐛 fix: resolve issue with date parsing
