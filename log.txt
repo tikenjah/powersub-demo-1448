@@ -8092,3 +8092,4 @@
 0353. ♻️ chore: rename env.example
 0781. 🚀 perf: reduce image load time
 0839. 🎨 style: apply consistent indentation
+0856. 🐛 fix: fix null pointer exception on login
