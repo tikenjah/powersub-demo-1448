@@ -9106,3 +9106,4 @@
 0057. 🚀 perf: optimize database query for quiz results
 0482. ✨ feat: add export to CSV option
 0004. 🚀 perf: optimize database query for quiz results
+0281. ✨ feat: support email verification
