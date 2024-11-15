@@ -6112,3 +6112,4 @@
 0428. 🐛 fix: fix null pointer exception on login
 0625. 🐛 fix: handle 500 error in quiz API
 0696. 🔧 refactor: clean up auth middleware
+0236. 🔧 refactor: remove redundant code blocks
