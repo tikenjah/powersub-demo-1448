@@ -544,3 +544,4 @@
 0487. 🎨 style: reformat files with black
 0641. 📚 docs: write FAQ section
 0547. 📚 docs: write FAQ section
+0135. ✅ test: test user registration edge cases
