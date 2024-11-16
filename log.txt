@@ -540,3 +540,4 @@
 0740. 🐛 fix: resolve issue with date parsing
 0118. 🚀 perf: reduce image load time
 0582. ✨ feat: add export to CSV option
+0793. 📚 docs: clarify environment setup
