@@ -561,3 +561,4 @@
 0587. 🔧 refactor: remove redundant code blocks
 0936. 🔧 refactor: organize models into subfolders
 0161. ✨ feat: create admin dashboard
+0294. 🐛 fix: prevent crash on empty input
