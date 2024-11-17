@@ -8097,3 +8097,4 @@
 0582. ✨ feat: add export to CSV option
 0806. 📚 docs: improve code comments in utils
 0035. ✅ test: increase coverage on auth module
+0716. ✨ feat: implement quiz timer feature
