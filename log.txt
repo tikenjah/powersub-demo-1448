@@ -10118,3 +10118,4 @@
 0606. 📚 docs: improve code comments in utils
 0135. ✅ test: test user registration edge cases
 0168. ✅ test: add integration test for /submit endpoint
+0592. 📚 docs: add API usage examples
