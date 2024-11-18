@@ -7096,3 +7096,4 @@
 0460. 📚 docs: write FAQ section
 0538. 🐛 fix: fix broken CSS in mobile view
 0616. 🚀 perf: lazy-load components
+0441. 📚 docs: add API usage examples
