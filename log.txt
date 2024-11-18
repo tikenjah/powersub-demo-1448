@@ -10125,3 +10125,4 @@
 0044. ✅ test: add unit test for quiz service
 0048. 📚 docs: update README with setup steps
 0204. 🎨 style: standardize quote style
+0297. 🎨 style: remove trailing whitespace
