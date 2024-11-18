@@ -7097,3 +7097,4 @@
 0538. 🐛 fix: fix broken CSS in mobile view
 0616. 🚀 perf: lazy-load components
 0441. 📚 docs: add API usage examples
+0133. 🐛 fix: fix null pointer exception on login
