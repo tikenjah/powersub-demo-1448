@@ -7095,3 +7095,4 @@
 0428. 🐛 fix: fix null pointer exception on login
 0460. 📚 docs: write FAQ section
 0538. 🐛 fix: fix broken CSS in mobile view
+0616. 🚀 perf: lazy-load components
