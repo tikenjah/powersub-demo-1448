@@ -574,3 +574,4 @@
 0503. ♻️ chore: rename env.example
 0260. ✨ feat: create admin dashboard
 0567. 📚 docs: add API usage examples
+0367. 🐛 fix: fix null pointer exception on login
