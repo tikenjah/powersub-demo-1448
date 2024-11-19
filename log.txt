@@ -586,3 +586,4 @@
 0637. 🎨 style: apply consistent indentation
 0792. 🎨 style: standardize quote style
 0492. 🎨 style: remove trailing whitespace
+0276. ✅ test: add integration test for /submit endpoint
