@@ -584,3 +584,4 @@
 0351. ✨ feat: add export to CSV option
 0351. ✨ feat: add export to CSV option
 0637. 🎨 style: apply consistent indentation
+0792. 🎨 style: standardize quote style
