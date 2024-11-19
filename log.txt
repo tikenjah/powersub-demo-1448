@@ -9109,3 +9109,4 @@
 0281. ✨ feat: support email verification
 0099. 🚀 perf: reduce image load time
 0809. ♻️ chore: rename env.example
+0916. ♻️ chore: bump dependencies
