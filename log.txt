@@ -10129,3 +10129,4 @@
 0703. 🔧 refactor: clean up auth middleware
 0996. ✅ test: test user registration edge cases
 0324. 📚 docs: document token refresh logic
+0978. 🐛 fix: prevent crash on empty input
