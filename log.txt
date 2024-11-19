@@ -7101,3 +7101,4 @@
 0149. ✨ feat: add export to CSV option
 0611. ✅ test: test user registration edge cases
 0365. 🚀 perf: reduce image load time
+0817. 🔧 refactor: remove redundant code blocks
