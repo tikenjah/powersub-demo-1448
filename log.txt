@@ -6123,3 +6123,4 @@
 0753. 🔧 refactor: remove redundant code blocks
 0180. ✨ feat: add export to CSV option
 0523. ♻️ chore: bump dependencies
+0439. 🐛 fix: correct typo in registration form
