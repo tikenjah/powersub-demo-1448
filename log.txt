@@ -7103,3 +7103,4 @@
 0365. 🚀 perf: reduce image load time
 0817. 🔧 refactor: remove redundant code blocks
 0874. 🔧 refactor: split large controller into smaller functions
+0121. ✨ feat: support email verification
