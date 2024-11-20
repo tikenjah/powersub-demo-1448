@@ -595,3 +595,4 @@
 0819. 🚀 perf: reduce image load time
 0754. 🐛 fix: handle 500 error in quiz API
 0446. 🎨 style: apply consistent indentation
+0828. ♻️ chore: add GitHub actions badge
