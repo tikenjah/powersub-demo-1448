@@ -9113,3 +9113,4 @@
 0766. 🎨 style: reformat files with black
 0784. ♻️ chore: clean up unused files
 0375. 🐛 fix: handle 500 error in quiz API
+0387. ✨ feat: enable dark mode toggle
