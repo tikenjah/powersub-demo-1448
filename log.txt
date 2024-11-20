@@ -597,3 +597,4 @@
 0446. 🎨 style: apply consistent indentation
 0828. ♻️ chore: add GitHub actions badge
 0698. 🐛 fix: handle 500 error in quiz API
+0170. ✅ test: increase coverage on auth module
