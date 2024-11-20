@@ -9112,3 +9112,4 @@
 0916. ♻️ chore: bump dependencies
 0766. 🎨 style: reformat files with black
 0784. ♻️ chore: clean up unused files
+0375. 🐛 fix: handle 500 error in quiz API
