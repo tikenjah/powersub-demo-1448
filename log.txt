@@ -7106,3 +7106,4 @@
 0121. ✨ feat: support email verification
 0412. ✅ test: increase coverage on auth module
 0443. 🎨 style: standardize quote style
+0400. 🐛 fix: fix null pointer exception on login
