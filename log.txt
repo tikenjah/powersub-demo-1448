@@ -10135,3 +10135,4 @@
 0275. 🎨 style: standardize quote style
 0773. 📚 docs: document token refresh logic
 0257. 📚 docs: clarify environment setup
+0775. 🐛 fix: fix null pointer exception on login
