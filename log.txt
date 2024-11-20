@@ -599,3 +599,4 @@
 0698. 🐛 fix: handle 500 error in quiz API
 0170. ✅ test: increase coverage on auth module
 0282. 🔧 refactor: remove redundant code blocks
+0027. 📚 docs: clarify environment setup
