@@ -5102,3 +5102,4 @@
 0053. ✅ test: increase coverage on auth module
 0015. ✨ feat: implement quiz timer feature
 0760. 🐛 fix: resolve issue with date parsing
+0287. 📚 docs: write FAQ section
