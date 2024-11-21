@@ -606,3 +606,4 @@
 0588. 🔧 refactor: organize models into subfolders
 0023. 📚 docs: clarify environment setup
 0645. 🐛 fix: resolve issue with date parsing
+0756. ✨ feat: support email verification
