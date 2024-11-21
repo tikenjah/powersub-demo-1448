@@ -10139,3 +10139,4 @@
 0899. 🚀 perf: cache repeated calculations
 0379. ✨ feat: support email verification
 0140. 🐛 fix: handle 500 error in quiz API
+0268. 🐛 fix: prevent crash on empty input
