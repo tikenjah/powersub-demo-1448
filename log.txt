@@ -607,3 +607,4 @@
 0023. 📚 docs: clarify environment setup
 0645. 🐛 fix: resolve issue with date parsing
 0756. ✨ feat: support email verification
+0668. 🚀 perf: optimize database query for quiz results
