@@ -601,3 +601,4 @@
 0282. 🔧 refactor: remove redundant code blocks
 0027. 📚 docs: clarify environment setup
 0822. 🔧 refactor: remove redundant code blocks
+0769. ✨ feat: create admin dashboard
