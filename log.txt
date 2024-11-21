@@ -10141,3 +10141,4 @@
 0140. 🐛 fix: handle 500 error in quiz API
 0268. 🐛 fix: prevent crash on empty input
 0918. ✨ feat: enable dark mode toggle
+0383. 🐛 fix: fix broken CSS in mobile view
