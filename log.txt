@@ -7110,3 +7110,4 @@
 0868. ✅ test: add unit test for quiz service
 0353. ♻️ chore: rename env.example
 0358. 🚀 perf: reduce image load time
+0200. 🐛 fix: handle 500 error in quiz API
