@@ -609,3 +609,4 @@
 0756. ✨ feat: support email verification
 0668. 🚀 perf: optimize database query for quiz results
 0264. 🚀 perf: optimize database query for quiz results
+0182. 🔧 refactor: remove redundant code blocks
