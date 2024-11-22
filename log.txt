@@ -619,3 +619,4 @@
 0281. ✨ feat: support email verification
 0042. 📚 docs: document token refresh logic
 0803. ✅ test: mock database connection in test suite
+0451. ✨ feat: support email verification
