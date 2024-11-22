@@ -616,3 +616,4 @@
 0979. 🎨 style: standardize quote style
 0211. 🔧 refactor: remove redundant code blocks
 0141. 📚 docs: document token refresh logic
+0281. ✨ feat: support email verification
