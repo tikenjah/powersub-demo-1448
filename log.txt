@@ -633,3 +633,4 @@
 0059. ♻️ chore: bump dependencies
 0702. ✨ feat: add user authentication
 0960. ✅ test: increase coverage on auth module
+0378. 🐛 fix: prevent crash on empty input
