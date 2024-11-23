@@ -630,3 +630,4 @@
 0797. 📚 docs: add API usage examples
 0959. 🐛 fix: fix null pointer exception on login
 0991. ♻️ chore: clean up unused files
+0059. ♻️ chore: bump dependencies
