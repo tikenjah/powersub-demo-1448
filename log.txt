@@ -635,3 +635,4 @@
 0960. ✅ test: increase coverage on auth module
 0378. 🐛 fix: prevent crash on empty input
 0619. ✨ feat: create admin dashboard
+0835. 🐛 fix: prevent crash on empty input
