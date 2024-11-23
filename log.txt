@@ -632,3 +632,4 @@
 0991. ♻️ chore: clean up unused files
 0059. ♻️ chore: bump dependencies
 0702. ✨ feat: add user authentication
+0960. ✅ test: increase coverage on auth module
