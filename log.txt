@@ -637,3 +637,4 @@
 0619. ✨ feat: create admin dashboard
 0835. 🐛 fix: prevent crash on empty input
 0882. 🚀 perf: optimize database query for quiz results
+0634. 🎨 style: reformat files with black
