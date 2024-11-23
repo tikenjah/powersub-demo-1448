@@ -628,3 +628,4 @@
 0509. ♻️ chore: bump dependencies
 0186. ✅ test: test user registration edge cases
 0797. 📚 docs: add API usage examples
+0959. 🐛 fix: fix null pointer exception on login
