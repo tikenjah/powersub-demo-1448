@@ -640,3 +640,4 @@
 0634. 🎨 style: reformat files with black
 0632. 🎨 style: remove trailing whitespace
 0591. ♻️ chore: clean up unused files
+0813. 🔧 refactor: organize models into subfolders
