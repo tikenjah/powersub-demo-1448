@@ -641,3 +641,4 @@
 0632. 🎨 style: remove trailing whitespace
 0591. ♻️ chore: clean up unused files
 0813. 🔧 refactor: organize models into subfolders
+0353. ♻️ chore: rename env.example
