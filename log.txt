@@ -9120,3 +9120,4 @@
 0924. ✅ test: mock database connection in test suite
 0783. 🐛 fix: handle 500 error in quiz API
 0209. ✨ feat: implement quiz timer feature
+0013. ✅ test: increase coverage on auth module
