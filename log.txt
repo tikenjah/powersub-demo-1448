@@ -10150,3 +10150,4 @@
 0427. ✅ test: mock database connection in test suite
 0281. ✨ feat: support email verification
 0161. ✨ feat: create admin dashboard
+0208. 🔧 refactor: clean up auth middleware
