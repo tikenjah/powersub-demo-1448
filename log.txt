@@ -5119,3 +5119,4 @@
 0885. ♻️ chore: update .gitignore
 0714. 📚 docs: improve code comments in utils
 0486. ✨ feat: add export to CSV option
+0740. 🐛 fix: resolve issue with date parsing
