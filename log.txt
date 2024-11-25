@@ -647,3 +647,4 @@
 0043. ✅ test: add integration test for /submit endpoint
 0926. 🔧 refactor: organize models into subfolders
 0381. ♻️ chore: clean up unused files
+0522. 🐛 fix: handle 500 error in quiz API
