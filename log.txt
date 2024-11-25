@@ -648,3 +648,4 @@
 0926. 🔧 refactor: organize models into subfolders
 0381. ♻️ chore: clean up unused files
 0522. 🐛 fix: handle 500 error in quiz API
+0882. 🚀 perf: optimize database query for quiz results
