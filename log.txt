@@ -659,3 +659,4 @@
 0100. ♻️ chore: update .gitignore
 0244. ✨ feat: add export to CSV option
 0238. 🎨 style: apply consistent indentation
+0048. 📚 docs: update README with setup steps
