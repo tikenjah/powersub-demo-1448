@@ -9124,3 +9124,4 @@
 0095. ✅ test: mock database connection in test suite
 0378. 🐛 fix: prevent crash on empty input
 0207. 🐛 fix: prevent crash on empty input
+0745. ✅ test: add unit test for quiz service
