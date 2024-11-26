@@ -5121,3 +5121,4 @@
 0486. ✨ feat: add export to CSV option
 0740. 🐛 fix: resolve issue with date parsing
 0756. ✨ feat: support email verification
+0096. 🐛 fix: prevent crash on empty input
