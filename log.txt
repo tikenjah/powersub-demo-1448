@@ -674,3 +674,4 @@
 0012. 🚀 perf: cache repeated calculations
 0516. ✅ test: add unit test for quiz service
 0523. ♻️ chore: bump dependencies
+0106. 🎨 style: reformat files with black
