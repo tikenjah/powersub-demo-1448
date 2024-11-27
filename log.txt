@@ -677,3 +677,4 @@
 0106. 🎨 style: reformat files with black
 0765. ♻️ chore: clean up unused files
 0267. 📚 docs: improve code comments in utils
+0975. 🎨 style: apply consistent indentation
