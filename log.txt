@@ -9129,3 +9129,4 @@
 0082. 🔧 refactor: refactor quiz grading logic
 0807. 🔧 refactor: remove redundant code blocks
 0639. 🐛 fix: correct typo in registration form
+0259. 🚀 perf: lazy-load components
