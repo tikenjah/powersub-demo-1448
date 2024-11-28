@@ -6141,3 +6141,4 @@
 0923. ✨ feat: support email verification
 0253. 📚 docs: update README with setup steps
 0657. 🎨 style: standardize quote style
+0539. 🔧 refactor: organize models into subfolders
