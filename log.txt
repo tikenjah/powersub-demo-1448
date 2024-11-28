@@ -8120,3 +8120,4 @@
 0848. 📚 docs: update README with setup steps
 0232. 🎨 style: apply consistent indentation
 0601. ✨ feat: implement quiz timer feature
+0764. ✨ feat: add user authentication
