@@ -10156,3 +10156,4 @@
 0994. 🚀 perf: reduce image load time
 0922. 📚 docs: write FAQ section
 0337. 📚 docs: document token refresh logic
+0649. 📚 docs: update README with setup steps
