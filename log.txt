@@ -688,3 +688,4 @@
 0499. 🎨 style: reformat files with black
 0909. 🔧 refactor: organize models into subfolders
 0320. 📚 docs: update README with setup steps
+0921. 🐛 fix: correct typo in registration form
