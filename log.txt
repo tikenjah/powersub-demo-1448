@@ -9133,3 +9133,4 @@
 0157. ✅ test: mock database connection in test suite
 0992. ♻️ chore: clean up unused files
 0543. ✨ feat: support email verification
+0197. 📚 docs: update README with setup steps
