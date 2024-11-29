@@ -5135,3 +5135,4 @@
 0968. 🎨 style: standardize quote style
 0828. ♻️ chore: add GitHub actions badge
 0797. 📚 docs: add API usage examples
+0009. ✨ feat: enable dark mode toggle
