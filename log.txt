@@ -9137,3 +9137,4 @@
 0165. 🎨 style: remove trailing whitespace
 0643. 🎨 style: apply consistent indentation
 0730. ✅ test: test user registration edge cases
+0122. ✨ feat: support email verification
