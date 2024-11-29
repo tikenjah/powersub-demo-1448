@@ -712,3 +712,4 @@
 0714. 📚 docs: improve code comments in utils
 0768. 🎨 style: remove trailing whitespace
 0594. 🎨 style: reformat files with black
+0703. 🔧 refactor: clean up auth middleware
