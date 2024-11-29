@@ -699,3 +699,4 @@
 0946. ✅ test: add unit test for quiz service
 0462. ♻️ chore: update .gitignore
 0648. ♻️ chore: bump dependencies
+0521. 🎨 style: standardize quote style
