@@ -9140,3 +9140,4 @@
 0122. ✨ feat: support email verification
 0848. 📚 docs: update README with setup steps
 0921. 🐛 fix: correct typo in registration form
+0586. 🎨 style: remove trailing whitespace
