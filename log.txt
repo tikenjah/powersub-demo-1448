@@ -7127,3 +7127,4 @@
 0378. 🐛 fix: prevent crash on empty input
 0933. 📚 docs: clarify environment setup
 0519. 📚 docs: document token refresh logic
+0996. ✅ test: test user registration edge cases
