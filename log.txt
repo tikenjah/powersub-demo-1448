@@ -6150,3 +6150,4 @@
 0964. ♻️ chore: clean up unused files
 0116. ✨ feat: support email verification
 0106. 🎨 style: reformat files with black
+0195. 📚 docs: clarify environment setup
