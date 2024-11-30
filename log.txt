@@ -717,3 +717,4 @@
 0726. ✨ feat: enable dark mode toggle
 0210. 🎨 style: apply consistent indentation
 0505. ♻️ chore: add GitHub actions badge
+0396. 🔧 refactor: split large controller into smaller functions
