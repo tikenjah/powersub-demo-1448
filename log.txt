@@ -10163,3 +10163,4 @@
 0740. 🐛 fix: resolve issue with date parsing
 0615. 🐛 fix: correct typo in registration form
 0738. 🐛 fix: prevent crash on empty input
+0909. 🔧 refactor: organize models into subfolders
