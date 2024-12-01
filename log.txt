@@ -9143,3 +9143,4 @@
 0586. 🎨 style: remove trailing whitespace
 0986. 📚 docs: document token refresh logic
 0818. 🔧 refactor: remove redundant code blocks
+0433. 🐛 fix: prevent crash on empty input
