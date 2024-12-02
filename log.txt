@@ -5142,3 +5142,4 @@
 0695. ✨ feat: create admin dashboard
 0736. 🐛 fix: fix null pointer exception on login
 0356. 📚 docs: write FAQ section
+0518. ✨ feat: support email verification
