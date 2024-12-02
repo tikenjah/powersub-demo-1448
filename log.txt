@@ -9147,3 +9147,4 @@
 0695. ✨ feat: create admin dashboard
 0121. ✨ feat: support email verification
 0453. 🎨 style: standardize quote style
+0611. ✅ test: test user registration edge cases
