@@ -736,3 +736,4 @@
 0705. 🔧 refactor: refactor quiz grading logic
 0633. ✨ feat: add user authentication
 0185. 📚 docs: write FAQ section
+0783. 🐛 fix: handle 500 error in quiz API
