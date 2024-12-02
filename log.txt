@@ -742,3 +742,4 @@
 0067. 🔧 refactor: remove redundant code blocks
 0555. ✨ feat: create admin dashboard
 0071. 🔧 refactor: refactor quiz grading logic
+0488. ♻️ chore: add GitHub actions badge
