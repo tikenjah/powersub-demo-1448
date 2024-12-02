@@ -9145,3 +9145,4 @@
 0818. 🔧 refactor: remove redundant code blocks
 0433. 🐛 fix: prevent crash on empty input
 0695. ✨ feat: create admin dashboard
+0121. ✨ feat: support email verification
