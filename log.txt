@@ -734,3 +734,4 @@
 0899. 🚀 perf: cache repeated calculations
 0280. ✅ test: add integration test for /submit endpoint
 0705. 🔧 refactor: refactor quiz grading logic
+0633. ✨ feat: add user authentication
