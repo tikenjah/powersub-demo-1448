@@ -5144,3 +5144,4 @@
 0356. 📚 docs: write FAQ section
 0518. ✨ feat: support email verification
 0106. 🎨 style: reformat files with black
+0319. 🐛 fix: handle 500 error in quiz API
