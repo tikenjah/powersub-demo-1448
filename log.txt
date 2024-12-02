@@ -732,3 +732,4 @@
 0026. 🔧 refactor: clean up auth middleware
 0185. 📚 docs: write FAQ section
 0899. 🚀 perf: cache repeated calculations
+0280. ✅ test: add integration test for /submit endpoint
