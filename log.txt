@@ -759,3 +759,4 @@
 0723. 🔧 refactor: remove redundant code blocks
 0369. 🎨 style: standardize quote style
 0195. 📚 docs: clarify environment setup
+0531. 🐛 fix: prevent crash on empty input
