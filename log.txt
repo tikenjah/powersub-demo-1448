@@ -757,3 +757,4 @@
 0842. 🎨 style: remove trailing whitespace
 0969. ✨ feat: create admin dashboard
 0723. 🔧 refactor: remove redundant code blocks
+0369. 🎨 style: standardize quote style
