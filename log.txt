@@ -760,3 +760,4 @@
 0369. 🎨 style: standardize quote style
 0195. 📚 docs: clarify environment setup
 0531. 🐛 fix: prevent crash on empty input
+0479. 🐛 fix: fix null pointer exception on login
