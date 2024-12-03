@@ -8124,3 +8124,4 @@
 0158. 📚 docs: clarify environment setup
 0899. 🚀 perf: cache repeated calculations
 0135. ✅ test: test user registration edge cases
+0590. 🐛 fix: fix null pointer exception on login
