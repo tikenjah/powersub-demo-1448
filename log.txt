@@ -748,3 +748,4 @@
 0121. ✨ feat: support email verification
 0034. 📚 docs: improve code comments in utils
 0330. ✅ test: test user registration edge cases
+0031. 📚 docs: document token refresh logic
