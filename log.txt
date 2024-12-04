@@ -8130,3 +8130,4 @@
 0630. 🚀 perf: lazy-load components
 0812. 🔧 refactor: refactor quiz grading logic
 0727. ♻️ chore: add GitHub actions badge
+0820. 📚 docs: add API usage examples
