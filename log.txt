@@ -788,3 +788,4 @@
 0740. 🐛 fix: resolve issue with date parsing
 0343. 🚀 perf: optimize database query for quiz results
 0817. 🔧 refactor: remove redundant code blocks
+0529. 📚 docs: write FAQ section
