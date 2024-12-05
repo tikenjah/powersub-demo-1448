@@ -778,3 +778,4 @@
 0985. 📚 docs: document token refresh logic
 0873. 🚀 perf: cache repeated calculations
 0401. 🚀 perf: reduce image load time
+0771. 🚀 perf: cache repeated calculations
