@@ -6160,3 +6160,4 @@
 0543. ✨ feat: support email verification
 0145. 📚 docs: improve code comments in utils
 0525. ✅ test: mock database connection in test suite
+0491. 🚀 perf: lazy-load components
