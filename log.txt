@@ -776,3 +776,4 @@
 0439. 🐛 fix: correct typo in registration form
 0259. 🚀 perf: lazy-load components
 0985. 📚 docs: document token refresh logic
+0873. 🚀 perf: cache repeated calculations
