@@ -782,3 +782,4 @@
 0037. 🐛 fix: correct typo in registration form
 0903. ✅ test: mock database connection in test suite
 0770. ♻️ chore: rename env.example
+0585. 🚀 perf: lazy-load components
