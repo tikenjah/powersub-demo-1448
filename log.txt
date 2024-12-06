@@ -799,3 +799,4 @@
 0010. ✨ feat: add user authentication
 0911. ✅ test: increase coverage on auth module
 0147. ♻️ chore: bump dependencies
+0926. 🔧 refactor: organize models into subfolders
