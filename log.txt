@@ -806,3 +806,4 @@
 0643. 🎨 style: apply consistent indentation
 0395. 📚 docs: write FAQ section
 0397. 🐛 fix: handle 500 error in quiz API
+0566. 📚 docs: write FAQ section
