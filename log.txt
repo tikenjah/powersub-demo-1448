@@ -9156,3 +9156,4 @@
 0884. 📚 docs: clarify environment setup
 0206. 🐛 fix: handle 500 error in quiz API
 0482. ✨ feat: add export to CSV option
+0834. ✅ test: increase coverage on auth module
