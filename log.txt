@@ -797,3 +797,4 @@
 0445. 📚 docs: improve code comments in utils
 0868. ✅ test: add unit test for quiz service
 0010. ✨ feat: add user authentication
+0911. ✅ test: increase coverage on auth module
