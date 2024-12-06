@@ -7139,3 +7139,4 @@
 0981. 🚀 perf: lazy-load components
 0157. ✅ test: mock database connection in test suite
 0037. 🐛 fix: correct typo in registration form
+0871. ✅ test: add integration test for /submit endpoint
