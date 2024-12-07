@@ -5158,3 +5158,4 @@
 0092. 🚀 perf: reduce image load time
 0403. ✅ test: mock database connection in test suite
 0960. ✅ test: increase coverage on auth module
+0349. ✅ test: increase coverage on auth module
