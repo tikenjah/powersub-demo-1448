@@ -811,3 +811,4 @@
 0788. 📚 docs: add API usage examples
 0119. 📚 docs: improve code comments in utils
 0241. 📚 docs: add API usage examples
+0888. 🚀 perf: lazy-load components
