@@ -815,3 +815,4 @@
 0360. ✨ feat: add export to CSV option
 0690. 🚀 perf: lazy-load components
 0554. 📚 docs: improve code comments in utils
+0617. ✨ feat: support email verification
