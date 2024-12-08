@@ -5163,3 +5163,4 @@
 0944. ✨ feat: add user authentication
 0822. 🔧 refactor: remove redundant code blocks
 0207. 🐛 fix: prevent crash on empty input
+0524. ♻️ chore: rename env.example
