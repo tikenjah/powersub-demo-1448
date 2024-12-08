@@ -831,3 +831,4 @@
 0646. ✅ test: test user registration edge cases
 0417. 🎨 style: rename variables for clarity
 0370. 🚀 perf: reduce image load time
+0562. 🔧 refactor: clean up auth middleware
