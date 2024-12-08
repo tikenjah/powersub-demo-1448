@@ -10176,3 +10176,4 @@
 0936. 🔧 refactor: organize models into subfolders
 0164. 📚 docs: document token refresh logic
 0715. ✨ feat: create admin dashboard
+0998. 🐛 fix: fix null pointer exception on login
