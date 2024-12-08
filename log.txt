@@ -827,3 +827,4 @@
 0297. 🎨 style: remove trailing whitespace
 0764. ✨ feat: add user authentication
 0868. ✅ test: add unit test for quiz service
+0721. 🚀 perf: optimize database query for quiz results
