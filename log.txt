@@ -843,3 +843,4 @@
 0196. ♻️ chore: bump dependencies
 0187. ✨ feat: support email verification
 0119. 📚 docs: improve code comments in utils
+0331. 🐛 fix: fix broken CSS in mobile view
