@@ -6172,3 +6172,4 @@
 0642. 🚀 perf: optimize database query for quiz results
 0033. 🎨 style: apply consistent indentation
 0479. 🐛 fix: fix null pointer exception on login
+0861. ♻️ chore: clean up unused files
