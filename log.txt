@@ -5165,3 +5165,4 @@
 0207. 🐛 fix: prevent crash on empty input
 0524. ♻️ chore: rename env.example
 0417. 🎨 style: rename variables for clarity
+0505. ♻️ chore: add GitHub actions badge
