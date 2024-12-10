@@ -9165,3 +9165,4 @@
 0446. 🎨 style: apply consistent indentation
 0419. 🎨 style: remove trailing whitespace
 0168. ✅ test: add integration test for /submit endpoint
+0531. 🐛 fix: prevent crash on empty input
