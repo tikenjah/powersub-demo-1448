@@ -7153,3 +7153,4 @@
 0416. 🎨 style: rename variables for clarity
 0001. 🚀 perf: cache repeated calculations
 0040. 🔧 refactor: clean up auth middleware
+0947. 📚 docs: write FAQ section
