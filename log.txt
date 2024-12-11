@@ -868,3 +868,4 @@
 0739. 🎨 style: remove trailing whitespace
 0061. ✨ feat: create admin dashboard
 0660. 🐛 fix: correct typo in registration form
+0551. 📚 docs: write FAQ section
