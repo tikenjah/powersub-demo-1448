@@ -874,3 +874,4 @@
 0698. 🐛 fix: handle 500 error in quiz API
 0895. ✨ feat: support email verification
 0552. 🐛 fix: fix null pointer exception on login
+0708. ✅ test: add integration test for /submit endpoint
