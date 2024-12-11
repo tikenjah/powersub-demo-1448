@@ -7159,3 +7159,4 @@
 0325. 🎨 style: rename variables for clarity
 0175. 📚 docs: add API usage examples
 0006. 🐛 fix: prevent crash on empty input
+0788. 📚 docs: add API usage examples
