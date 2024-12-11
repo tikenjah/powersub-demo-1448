@@ -872,3 +872,4 @@
 0311. 🎨 style: apply consistent indentation
 0289. 🐛 fix: resolve issue with date parsing
 0698. 🐛 fix: handle 500 error in quiz API
+0895. ✨ feat: support email verification
