@@ -9169,3 +9169,4 @@
 0422. 🔧 refactor: organize models into subfolders
 0577. ✨ feat: implement quiz timer feature
 0105. 🐛 fix: correct typo in registration form
+0379. ✨ feat: support email verification
