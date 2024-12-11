@@ -871,3 +871,4 @@
 0551. 📚 docs: write FAQ section
 0311. 🎨 style: apply consistent indentation
 0289. 🐛 fix: resolve issue with date parsing
+0698. 🐛 fix: handle 500 error in quiz API
