@@ -8151,3 +8151,4 @@
 0990. ♻️ chore: rename env.example
 0729. 🔧 refactor: refactor quiz grading logic
 0672. 🐛 fix: fix broken CSS in mobile view
+0275. 🎨 style: standardize quote style
