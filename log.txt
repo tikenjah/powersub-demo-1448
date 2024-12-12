@@ -8150,3 +8150,4 @@
 0300. ✨ feat: add export to CSV option
 0990. ♻️ chore: rename env.example
 0729. 🔧 refactor: refactor quiz grading logic
+0672. 🐛 fix: fix broken CSS in mobile view
