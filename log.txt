@@ -884,3 +884,4 @@
 0479. 🐛 fix: fix null pointer exception on login
 0535. 📚 docs: write FAQ section
 0705. 🔧 refactor: refactor quiz grading logic
+0838. 🎨 style: standardize quote style
