@@ -898,3 +898,4 @@
 0491. 🚀 perf: lazy-load components
 0694. 🎨 style: rename variables for clarity
 0114. ♻️ chore: update .gitignore
+0827. 🚀 perf: optimize database query for quiz results
