@@ -8152,3 +8152,4 @@
 0729. 🔧 refactor: refactor quiz grading logic
 0672. 🐛 fix: fix broken CSS in mobile view
 0275. 🎨 style: standardize quote style
+0349. ✅ test: increase coverage on auth module
