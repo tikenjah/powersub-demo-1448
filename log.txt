@@ -10190,3 +10190,4 @@
 0784. ♻️ chore: clean up unused files
 0006. 🐛 fix: prevent crash on empty input
 0551. 📚 docs: write FAQ section
+0805. ♻️ chore: add GitHub actions badge
