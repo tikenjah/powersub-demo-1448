@@ -910,3 +910,4 @@
 0508. ✅ test: add unit test for quiz service
 0804. ♻️ chore: add GitHub actions badge
 0672. 🐛 fix: fix broken CSS in mobile view
+0443. 🎨 style: standardize quote style
