@@ -906,3 +906,4 @@
 0871. ✅ test: add integration test for /submit endpoint
 0124. 🎨 style: reformat files with black
 0863. 🐛 fix: correct typo in registration form
+0090. ✅ test: increase coverage on auth module
