@@ -8155,3 +8155,4 @@
 0349. ✅ test: increase coverage on auth module
 0464. 🎨 style: remove trailing whitespace
 0927. ♻️ chore: bump dependencies
+0365. 🚀 perf: reduce image load time
