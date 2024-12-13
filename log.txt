@@ -9176,3 +9176,4 @@
 0889. 🚀 perf: lazy-load components
 0629. 🔧 refactor: organize models into subfolders
 0684. 🚀 perf: reduce image load time
+0715. ✨ feat: create admin dashboard
