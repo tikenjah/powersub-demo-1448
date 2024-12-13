@@ -10189,3 +10189,4 @@
 0089. 🔧 refactor: remove redundant code blocks
 0784. ♻️ chore: clean up unused files
 0006. 🐛 fix: prevent crash on empty input
+0551. 📚 docs: write FAQ section
