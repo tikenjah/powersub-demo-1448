@@ -920,3 +920,4 @@
 0513. ♻️ chore: bump dependencies
 0447. ♻️ chore: bump dependencies
 0263. 📚 docs: add API usage examples
+0544. 🔧 refactor: organize models into subfolders
