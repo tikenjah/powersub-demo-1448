@@ -8160,3 +8160,4 @@
 0903. ✅ test: mock database connection in test suite
 0871. ✅ test: add integration test for /submit endpoint
 0444. ✅ test: add unit test for quiz service
+0379. ✨ feat: support email verification
