@@ -10192,3 +10192,4 @@
 0551. 📚 docs: write FAQ section
 0805. ♻️ chore: add GitHub actions badge
 0718. 🐛 fix: resolve issue with date parsing
+0457. 🐛 fix: handle 500 error in quiz API
