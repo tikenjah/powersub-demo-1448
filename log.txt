@@ -9179,3 +9179,4 @@
 0715. ✨ feat: create admin dashboard
 0037. 🐛 fix: correct typo in registration form
 0104. 🎨 style: apply consistent indentation
+0491. 🚀 perf: lazy-load components
