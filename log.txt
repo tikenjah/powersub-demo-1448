@@ -7169,3 +7169,4 @@
 0322. 🔧 refactor: split large controller into smaller functions
 0527. 🎨 style: remove trailing whitespace
 0147. ♻️ chore: bump dependencies
+0140. 🐛 fix: handle 500 error in quiz API
