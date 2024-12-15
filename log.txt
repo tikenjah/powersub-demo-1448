@@ -929,3 +929,4 @@
 0713. 🐛 fix: handle 500 error in quiz API
 0686. 🎨 style: standardize quote style
 0266. 🔧 refactor: remove redundant code blocks
+0922. 📚 docs: write FAQ section
