@@ -10197,3 +10197,4 @@
 0400. 🐛 fix: fix null pointer exception on login
 0983. 🔧 refactor: split large controller into smaller functions
 0550. 🔧 refactor: split large controller into smaller functions
+0679. ♻️ chore: bump dependencies
