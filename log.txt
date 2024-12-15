@@ -8162,3 +8162,4 @@
 0444. ✅ test: add unit test for quiz service
 0379. ✨ feat: support email verification
 0969. ✨ feat: create admin dashboard
+0678. ✨ feat: add user authentication
