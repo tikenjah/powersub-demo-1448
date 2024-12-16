@@ -7171,3 +7171,4 @@
 0147. ♻️ chore: bump dependencies
 0140. 🐛 fix: handle 500 error in quiz API
 0095. ✅ test: mock database connection in test suite
+0821. ✅ test: add integration test for /submit endpoint
