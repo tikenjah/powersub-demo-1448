@@ -9185,3 +9185,4 @@
 0253. 📚 docs: update README with setup steps
 0914. ✅ test: test user registration edge cases
 0454. ♻️ chore: bump dependencies
+0967. ♻️ chore: add GitHub actions badge
