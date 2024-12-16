@@ -8166,3 +8166,4 @@
 0677. 📚 docs: add API usage examples
 0215. 🎨 style: reformat files with black
 0580. ♻️ chore: bump dependencies
+0996. ✅ test: test user registration edge cases
