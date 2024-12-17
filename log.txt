@@ -949,3 +949,4 @@
 0576. ♻️ chore: update .gitignore
 0461. ✨ feat: add user authentication
 0812. 🔧 refactor: refactor quiz grading logic
+0447. ♻️ chore: bump dependencies
