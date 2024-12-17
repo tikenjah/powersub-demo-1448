@@ -945,3 +945,4 @@
 0267. 📚 docs: improve code comments in utils
 0945. ♻️ chore: add GitHub actions badge
 0176. 🔧 refactor: remove redundant code blocks
+0053. ✅ test: increase coverage on auth module
