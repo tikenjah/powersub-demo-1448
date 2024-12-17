@@ -950,3 +950,4 @@
 0461. ✨ feat: add user authentication
 0812. 🔧 refactor: refactor quiz grading logic
 0447. ♻️ chore: bump dependencies
+0085. ✨ feat: support email verification
