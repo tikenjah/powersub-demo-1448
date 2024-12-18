@@ -5186,3 +5186,4 @@
 0627. 📚 docs: document token refresh logic
 0128. ♻️ chore: rename env.example
 0115. 🚀 perf: reduce image load time
+0633. ✨ feat: add user authentication
