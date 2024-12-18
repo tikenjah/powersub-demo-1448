@@ -7176,3 +7176,4 @@
 0438. ♻️ chore: bump dependencies
 0362. 📚 docs: add API usage examples
 0408. ♻️ chore: add GitHub actions badge
+0362. 📚 docs: add API usage examples
