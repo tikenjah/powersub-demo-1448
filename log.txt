@@ -9191,3 +9191,4 @@
 0653. 🐛 fix: prevent crash on empty input
 0526. ✨ feat: add user authentication
 0705. 🔧 refactor: refactor quiz grading logic
+0533. ♻️ chore: add GitHub actions badge
