@@ -965,3 +965,4 @@
 0523. ♻️ chore: bump dependencies
 0222. 🐛 fix: handle 500 error in quiz API
 0122. ✨ feat: support email verification
+0539. 🔧 refactor: organize models into subfolders
