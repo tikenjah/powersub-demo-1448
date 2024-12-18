@@ -954,3 +954,4 @@
 0679. ♻️ chore: bump dependencies
 0212. 🎨 style: standardize quote style
 0580. ♻️ chore: bump dependencies
+0793. 📚 docs: clarify environment setup
