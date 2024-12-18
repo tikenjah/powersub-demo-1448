@@ -6193,3 +6193,4 @@
 0400. 🐛 fix: fix null pointer exception on login
 0739. 🎨 style: remove trailing whitespace
 0492. 🎨 style: remove trailing whitespace
+0239. 🎨 style: standardize quote style
