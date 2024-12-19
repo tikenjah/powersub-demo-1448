@@ -976,3 +976,4 @@
 0746. ♻️ chore: add GitHub actions badge
 0542. 🔧 refactor: organize models into subfolders
 0812. 🔧 refactor: refactor quiz grading logic
+0669. ✨ feat: enable dark mode toggle
