@@ -972,3 +972,4 @@
 0254. 🚀 perf: reduce image load time
 0377. ✨ feat: add user authentication
 0635. 🎨 style: apply consistent indentation
+0231. 🔧 refactor: clean up auth middleware
