@@ -6199,3 +6199,4 @@
 0271. ✅ test: add unit test for quiz service
 0600. 🐛 fix: prevent crash on empty input
 0459. 🔧 refactor: organize models into subfolders
+0229. 🚀 perf: optimize database query for quiz results
