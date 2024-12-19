@@ -974,3 +974,4 @@
 0635. 🎨 style: apply consistent indentation
 0231. 🔧 refactor: clean up auth middleware
 0746. ♻️ chore: add GitHub actions badge
+0542. 🔧 refactor: organize models into subfolders
