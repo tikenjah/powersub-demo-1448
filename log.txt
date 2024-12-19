@@ -982,3 +982,4 @@
 0684. 🚀 perf: reduce image load time
 0891. ✨ feat: create admin dashboard
 0097. 🐛 fix: handle 500 error in quiz API
+0279. ✨ feat: support email verification
