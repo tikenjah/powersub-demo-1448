@@ -7179,3 +7179,4 @@
 0362. 📚 docs: add API usage examples
 0849. 🐛 fix: correct typo in registration form
 0825. 🔧 refactor: split large controller into smaller functions
+0435. ✅ test: add unit test for quiz service
