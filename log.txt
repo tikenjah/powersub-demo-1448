@@ -997,3 +997,4 @@
 0284. ✨ feat: implement quiz timer feature
 0487. 🎨 style: reformat files with black
 0044. ✅ test: add unit test for quiz service
+0035. ✅ test: increase coverage on auth module
