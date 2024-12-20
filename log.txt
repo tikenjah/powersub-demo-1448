@@ -989,3 +989,4 @@
 0230. ✨ feat: create admin dashboard
 0790. 📚 docs: write FAQ section
 0513. ♻️ chore: bump dependencies
+0257. 📚 docs: clarify environment setup
