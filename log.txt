@@ -990,3 +990,4 @@
 0790. 📚 docs: write FAQ section
 0513. ♻️ chore: bump dependencies
 0257. 📚 docs: clarify environment setup
+0629. 🔧 refactor: organize models into subfolders
