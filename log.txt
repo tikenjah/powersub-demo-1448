@@ -986,3 +986,4 @@
 0887. 📚 docs: add API usage examples
 0615. 🐛 fix: correct typo in registration form
 0311. 🎨 style: apply consistent indentation
+0230. ✨ feat: create admin dashboard
