@@ -9196,3 +9196,4 @@
 0795. 📚 docs: update README with setup steps
 0792. 🎨 style: standardize quote style
 0212. 🎨 style: standardize quote style
+0978. 🐛 fix: prevent crash on empty input
