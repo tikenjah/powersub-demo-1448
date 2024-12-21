@@ -7184,3 +7184,4 @@
 0354. 📚 docs: add API usage examples
 0780. 📚 docs: add API usage examples
 0416. 🎨 style: rename variables for clarity
+0238. 🎨 style: apply consistent indentation
