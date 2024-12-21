@@ -1000,3 +1000,4 @@
 0035. ✅ test: increase coverage on auth module
 0783. 🐛 fix: handle 500 error in quiz API
 0261. 🔧 refactor: refactor quiz grading logic
+0601. ✨ feat: implement quiz timer feature
