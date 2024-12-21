@@ -5198,3 +5198,4 @@
 0856. 🐛 fix: fix null pointer exception on login
 0887. 📚 docs: add API usage examples
 0208. 🔧 refactor: clean up auth middleware
+0543. ✨ feat: support email verification
