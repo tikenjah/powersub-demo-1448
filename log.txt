@@ -9199,3 +9199,4 @@
 0978. 🐛 fix: prevent crash on empty input
 0404. 📚 docs: improve code comments in utils
 0414. 🔧 refactor: remove redundant code blocks
+0628. ♻️ chore: add GitHub actions badge
