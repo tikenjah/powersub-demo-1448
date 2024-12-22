@@ -9202,3 +9202,4 @@
 0628. ♻️ chore: add GitHub actions badge
 0793. 📚 docs: clarify environment setup
 0793. 📚 docs: clarify environment setup
+0736. 🐛 fix: fix null pointer exception on login
