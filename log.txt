@@ -6213,3 +6213,4 @@
 0986. 📚 docs: document token refresh logic
 0425. 🔧 refactor: refactor quiz grading logic
 0458. ✨ feat: create admin dashboard
+0862. ♻️ chore: bump dependencies
