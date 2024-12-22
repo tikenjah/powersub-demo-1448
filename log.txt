@@ -1007,3 +1007,4 @@
 0271. ✅ test: add unit test for quiz service
 0835. 🐛 fix: prevent crash on empty input
 0560. 🎨 style: rename variables for clarity
+0021. ✨ feat: support email verification
