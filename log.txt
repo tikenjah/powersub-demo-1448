@@ -10227,3 +10227,4 @@
 0050. ✨ feat: enable dark mode toggle
 0555. ✨ feat: create admin dashboard
 0636. ✅ test: increase coverage on auth module
+0957. 🐛 fix: fix null pointer exception on login
