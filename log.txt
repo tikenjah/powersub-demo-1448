@@ -1040,3 +1040,4 @@
 0622. 🎨 style: apply consistent indentation
 0190. 🎨 style: rename variables for clarity
 0206. 🐛 fix: handle 500 error in quiz API
+0687. 🎨 style: remove trailing whitespace
