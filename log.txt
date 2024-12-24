@@ -10228,3 +10228,4 @@
 0555. ✨ feat: create admin dashboard
 0636. ✅ test: increase coverage on auth module
 0957. 🐛 fix: fix null pointer exception on login
+0670. ✨ feat: add export to CSV option
