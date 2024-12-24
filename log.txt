@@ -9211,3 +9211,4 @@
 0101. 📚 docs: clarify environment setup
 0487. 🎨 style: reformat files with black
 0934. ✨ feat: support email verification
+0460. 📚 docs: write FAQ section
