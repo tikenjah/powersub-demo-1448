@@ -8205,3 +8205,4 @@
 0294. 🐛 fix: prevent crash on empty input
 0694. 🎨 style: rename variables for clarity
 0430. 🐛 fix: fix null pointer exception on login
+0851. ✅ test: mock database connection in test suite
