@@ -8202,3 +8202,4 @@
 0884. 📚 docs: clarify environment setup
 0273. 🚀 perf: reduce image load time
 0903. ✅ test: mock database connection in test suite
+0294. 🐛 fix: prevent crash on empty input
