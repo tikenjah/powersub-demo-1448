@@ -10230,3 +10230,4 @@
 0957. 🐛 fix: fix null pointer exception on login
 0670. ✨ feat: add export to CSV option
 0968. 🎨 style: standardize quote style
+0911. ✅ test: increase coverage on auth module
