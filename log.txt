@@ -1054,3 +1054,4 @@
 0681. ✨ feat: create admin dashboard
 0757. 🔧 refactor: remove redundant code blocks
 0250. 📚 docs: update README with setup steps
+0571. 🔧 refactor: clean up auth middleware
