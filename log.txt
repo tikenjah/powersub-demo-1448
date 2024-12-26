@@ -1060,3 +1060,4 @@
 0257. 📚 docs: clarify environment setup
 0154. 🐛 fix: prevent crash on empty input
 0323. 📚 docs: clarify environment setup
+0135. ✅ test: test user registration edge cases
