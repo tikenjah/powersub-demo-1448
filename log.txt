@@ -7201,3 +7201,4 @@
 0895. ✨ feat: support email verification
 0338. ♻️ chore: add GitHub actions badge
 0082. 🔧 refactor: refactor quiz grading logic
+0595. ✨ feat: enable dark mode toggle
