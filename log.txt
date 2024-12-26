@@ -9218,3 +9218,4 @@
 0666. 🐛 fix: fix broken CSS in mobile view
 0831. 📚 docs: clarify environment setup
 0808. 🚀 perf: optimize database query for quiz results
+0380. 🐛 fix: fix null pointer exception on login
