@@ -1058,3 +1058,4 @@
 0150. 🎨 style: remove trailing whitespace
 0082. 🔧 refactor: refactor quiz grading logic
 0257. 📚 docs: clarify environment setup
+0154. 🐛 fix: prevent crash on empty input
