@@ -1062,3 +1062,4 @@
 0323. 📚 docs: clarify environment setup
 0135. ✅ test: test user registration edge cases
 0352. ✨ feat: add export to CSV option
+0637. 🎨 style: apply consistent indentation
