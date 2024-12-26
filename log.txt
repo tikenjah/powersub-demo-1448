@@ -7199,3 +7199,4 @@
 0251. ♻️ chore: update .gitignore
 0583. ✅ test: increase coverage on auth module
 0895. ✨ feat: support email verification
+0338. ♻️ chore: add GitHub actions badge
