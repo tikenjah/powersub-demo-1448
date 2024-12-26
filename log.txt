@@ -5207,3 +5207,4 @@
 0339. 📚 docs: update README with setup steps
 0699. 🎨 style: standardize quote style
 0501. ✨ feat: add export to CSV option
+0920. 🔧 refactor: organize models into subfolders
