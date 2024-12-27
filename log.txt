@@ -1084,3 +1084,4 @@
 0788. 📚 docs: add API usage examples
 0832. 🔧 refactor: remove redundant code blocks
 0518. ✨ feat: support email verification
+0854. ♻️ chore: rename env.example
