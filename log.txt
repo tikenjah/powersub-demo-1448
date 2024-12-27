@@ -1071,3 +1071,4 @@
 1000. ✅ test: increase coverage on auth module
 0360. ✨ feat: add export to CSV option
 0193. 🚀 perf: optimize database query for quiz results
+0051. ✨ feat: enable dark mode toggle
