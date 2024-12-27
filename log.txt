@@ -8209,3 +8209,4 @@
 0775. 🐛 fix: fix null pointer exception on login
 0134. ✨ feat: implement quiz timer feature
 0477. 🐛 fix: fix broken CSS in mobile view
+0234. ♻️ chore: rename env.example
