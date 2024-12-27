@@ -1077,3 +1077,4 @@
 0575. ✅ test: add unit test for quiz service
 0748. 🚀 perf: optimize database query for quiz results
 0383. 🐛 fix: fix broken CSS in mobile view
+0365. 🚀 perf: reduce image load time
