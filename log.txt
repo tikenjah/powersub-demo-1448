@@ -1081,3 +1081,4 @@
 0328. 🐛 fix: resolve issue with date parsing
 0198. 📚 docs: clarify environment setup
 0325. 🎨 style: rename variables for clarity
+0788. 📚 docs: add API usage examples
