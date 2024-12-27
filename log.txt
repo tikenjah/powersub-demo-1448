@@ -1079,3 +1079,4 @@
 0383. 🐛 fix: fix broken CSS in mobile view
 0365. 🚀 perf: reduce image load time
 0328. 🐛 fix: resolve issue with date parsing
+0198. 📚 docs: clarify environment setup
