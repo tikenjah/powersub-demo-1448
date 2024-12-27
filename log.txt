@@ -1069,3 +1069,4 @@
 0201. 🔧 refactor: clean up auth middleware
 0295. 🎨 style: remove trailing whitespace
 1000. ✅ test: increase coverage on auth module
+0360. ✨ feat: add export to CSV option
