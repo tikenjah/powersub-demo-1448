@@ -1070,3 +1070,4 @@
 0295. 🎨 style: remove trailing whitespace
 1000. ✅ test: increase coverage on auth module
 0360. ✨ feat: add export to CSV option
+0193. 🚀 perf: optimize database query for quiz results
