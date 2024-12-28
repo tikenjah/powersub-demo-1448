@@ -1102,3 +1102,4 @@
 0707. 🎨 style: apply consistent indentation
 0442. 🎨 style: standardize quote style
 0886. ♻️ chore: clean up unused files
+0824. 🚀 perf: lazy-load components
