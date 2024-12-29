@@ -6231,3 +6231,4 @@
 0918. ✨ feat: enable dark mode toggle
 0700. 🎨 style: rename variables for clarity
 0298. ♻️ chore: update .gitignore
+0551. 📚 docs: write FAQ section
