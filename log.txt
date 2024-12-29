@@ -6234,3 +6234,4 @@
 0551. 📚 docs: write FAQ section
 0186. ✅ test: test user registration edge cases
 0869. ♻️ chore: bump dependencies
+0645. 🐛 fix: resolve issue with date parsing
