@@ -8214,3 +8214,4 @@
 0860. 🔧 refactor: organize models into subfolders
 0283. ♻️ chore: add GitHub actions badge
 0869. ♻️ chore: bump dependencies
+0377. ✨ feat: add user authentication
