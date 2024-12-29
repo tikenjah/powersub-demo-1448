@@ -9224,3 +9224,4 @@
 0019. ✨ feat: enable dark mode toggle
 0359. 🔧 refactor: clean up auth middleware
 0595. ✨ feat: enable dark mode toggle
+0116. ✨ feat: support email verification
