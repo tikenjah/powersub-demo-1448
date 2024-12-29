@@ -1103,3 +1103,4 @@
 0442. 🎨 style: standardize quote style
 0886. ♻️ chore: clean up unused files
 0824. 🚀 perf: lazy-load components
+0948. 🐛 fix: fix broken CSS in mobile view
