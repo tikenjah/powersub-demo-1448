@@ -6233,3 +6233,4 @@
 0298. ♻️ chore: update .gitignore
 0551. 📚 docs: write FAQ section
 0186. ✅ test: test user registration edge cases
+0869. ♻️ chore: bump dependencies
