@@ -5212,3 +5212,4 @@
 0951. 🎨 style: rename variables for clarity
 0225. 🚀 perf: reduce image load time
 0324. 📚 docs: document token refresh logic
+0557. 🔧 refactor: clean up auth middleware
