@@ -6232,3 +6232,4 @@
 0700. 🎨 style: rename variables for clarity
 0298. ♻️ chore: update .gitignore
 0551. 📚 docs: write FAQ section
+0186. ✅ test: test user registration edge cases
