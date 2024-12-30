@@ -1115,3 +1115,4 @@
 0921. 🐛 fix: correct typo in registration form
 0579. 📚 docs: clarify environment setup
 0801. ✨ feat: enable dark mode toggle
+0889. 🚀 perf: lazy-load components
