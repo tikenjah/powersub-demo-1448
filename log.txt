@@ -1113,3 +1113,4 @@
 0691. 🎨 style: rename variables for clarity
 0480. ♻️ chore: add GitHub actions badge
 0921. 🐛 fix: correct typo in registration form
+0579. 📚 docs: clarify environment setup
