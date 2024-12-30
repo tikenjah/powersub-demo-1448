@@ -8216,3 +8216,4 @@
 0869. ♻️ chore: bump dependencies
 0377. ✨ feat: add user authentication
 0269. ✅ test: test user registration edge cases
+0462. ♻️ chore: update .gitignore
