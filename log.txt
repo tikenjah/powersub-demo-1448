@@ -6235,3 +6235,4 @@
 0186. ✅ test: test user registration edge cases
 0869. ♻️ chore: bump dependencies
 0645. 🐛 fix: resolve issue with date parsing
+0466. 🚀 perf: optimize database query for quiz results
