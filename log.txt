@@ -7208,3 +7208,4 @@
 0188. 🎨 style: apply consistent indentation
 0210. 🎨 style: apply consistent indentation
 0834. ✅ test: increase coverage on auth module
+0882. 🚀 perf: optimize database query for quiz results
