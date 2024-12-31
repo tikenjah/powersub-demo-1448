@@ -1122,3 +1122,4 @@
 0025. 🚀 perf: optimize database query for quiz results
 0397. 🐛 fix: handle 500 error in quiz API
 0420. 🚀 perf: reduce image load time
+0630. 🚀 perf: lazy-load components
