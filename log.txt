@@ -1126,3 +1126,4 @@
 0977. 🔧 refactor: organize models into subfolders
 0221. ✨ feat: add user authentication
 0381. ♻️ chore: clean up unused files
+0424. ✨ feat: add user authentication
