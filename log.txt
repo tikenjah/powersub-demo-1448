@@ -1124,3 +1124,4 @@
 0420. 🚀 perf: reduce image load time
 0630. 🚀 perf: lazy-load components
 0977. 🔧 refactor: organize models into subfolders
+0221. ✨ feat: add user authentication
