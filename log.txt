@@ -1133,3 +1133,4 @@
 0425. 🔧 refactor: refactor quiz grading logic
 0956. 📚 docs: clarify environment setup
 0457. 🐛 fix: handle 500 error in quiz API
+0233. 🚀 perf: lazy-load components
