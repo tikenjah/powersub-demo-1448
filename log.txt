@@ -5215,3 +5215,4 @@
 0557. 🔧 refactor: clean up auth middleware
 0993. ✨ feat: implement quiz timer feature
 0144. ✅ test: increase coverage on auth module
+0759. 🔧 refactor: organize models into subfolders
