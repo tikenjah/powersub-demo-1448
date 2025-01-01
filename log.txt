@@ -1137,3 +1137,4 @@
 0373. 📚 docs: document token refresh logic
 0401. 🚀 perf: reduce image load time
 0297. 🎨 style: remove trailing whitespace
+0496. ✅ test: add integration test for /submit endpoint
