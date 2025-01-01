@@ -5216,3 +5216,4 @@
 0993. ✨ feat: implement quiz timer feature
 0144. ✅ test: increase coverage on auth module
 0759. 🔧 refactor: organize models into subfolders
+0686. 🎨 style: standardize quote style
