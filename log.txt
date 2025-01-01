@@ -6241,3 +6241,4 @@
 0551. 📚 docs: write FAQ section
 0576. ♻️ chore: update .gitignore
 0666. 🐛 fix: fix broken CSS in mobile view
+0893. 🐛 fix: handle 500 error in quiz API
