@@ -6239,3 +6239,4 @@
 0637. 🎨 style: apply consistent indentation
 0435. ✅ test: add unit test for quiz service
 0551. 📚 docs: write FAQ section
+0576. ♻️ chore: update .gitignore
