@@ -5217,3 +5217,4 @@
 0144. ✅ test: increase coverage on auth module
 0759. 🔧 refactor: organize models into subfolders
 0686. 🎨 style: standardize quote style
+0499. 🎨 style: reformat files with black
