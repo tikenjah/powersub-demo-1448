@@ -1153,3 +1153,4 @@
 0423. ✅ test: mock database connection in test suite
 0185. 📚 docs: write FAQ section
 0440. 📚 docs: update README with setup steps
+0836. 🚀 perf: optimize database query for quiz results
