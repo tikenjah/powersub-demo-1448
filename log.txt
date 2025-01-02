@@ -1152,3 +1152,4 @@
 0707. 🎨 style: apply consistent indentation
 0423. ✅ test: mock database connection in test suite
 0185. 📚 docs: write FAQ section
+0440. 📚 docs: update README with setup steps
