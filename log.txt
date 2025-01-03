@@ -5225,3 +5225,4 @@
 0508. ✅ test: add unit test for quiz service
 0192. ✨ feat: enable dark mode toggle
 0571. 🔧 refactor: clean up auth middleware
+0237. 🎨 style: standardize quote style
