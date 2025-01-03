@@ -1163,3 +1163,4 @@
 0233. 🚀 perf: lazy-load components
 0091. ✨ feat: add user authentication
 0617. ✨ feat: support email verification
+0258. 🐛 fix: prevent crash on empty input
