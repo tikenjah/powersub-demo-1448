@@ -1171,3 +1171,4 @@
 0955. 🔧 refactor: remove redundant code blocks
 0876. ♻️ chore: rename env.example
 0749. ✨ feat: support email verification
+0410. 🎨 style: reformat files with black
