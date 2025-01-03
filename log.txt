@@ -7225,3 +7225,4 @@
 0971. 🎨 style: standardize quote style
 0832. 🔧 refactor: remove redundant code blocks
 0122. ✨ feat: support email verification
+0463. 🚀 perf: reduce image load time
