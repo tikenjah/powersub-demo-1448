@@ -9242,3 +9242,4 @@
 0063. 🐛 fix: handle 500 error in quiz API
 0771. 🚀 perf: cache repeated calculations
 0862. ♻️ chore: bump dependencies
+0080. ✨ feat: support email verification
