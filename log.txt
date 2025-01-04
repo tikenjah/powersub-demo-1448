@@ -1177,3 +1177,4 @@
 0727. ♻️ chore: add GitHub actions badge
 0591. ♻️ chore: clean up unused files
 0247. 🎨 style: apply consistent indentation
+0690. 🚀 perf: lazy-load components
