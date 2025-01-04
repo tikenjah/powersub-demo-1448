@@ -1175,3 +1175,4 @@
 0618. ✨ feat: support email verification
 0053. ✅ test: increase coverage on auth module
 0727. ♻️ chore: add GitHub actions badge
+0591. ♻️ chore: clean up unused files
