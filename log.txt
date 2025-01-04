@@ -1181,3 +1181,4 @@
 0265. 🎨 style: reformat files with black
 0593. 🐛 fix: correct typo in registration form
 0834. ✅ test: increase coverage on auth module
+0574. ✨ feat: enable dark mode toggle
