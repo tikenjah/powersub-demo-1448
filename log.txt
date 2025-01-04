@@ -9245,3 +9245,4 @@
 0080. ✨ feat: support email verification
 0785. ✨ feat: enable dark mode toggle
 0389. 📚 docs: improve code comments in utils
+0630. 🚀 perf: lazy-load components
