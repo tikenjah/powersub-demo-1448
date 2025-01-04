@@ -1173,3 +1173,4 @@
 0749. ✨ feat: support email verification
 0410. 🎨 style: reformat files with black
 0618. ✨ feat: support email verification
+0053. ✅ test: increase coverage on auth module
