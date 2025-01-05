@@ -6253,3 +6253,4 @@
 0306. 🎨 style: apply consistent indentation
 0729. 🔧 refactor: refactor quiz grading logic
 0210. 🎨 style: apply consistent indentation
+0436. ✅ test: add integration test for /submit endpoint
