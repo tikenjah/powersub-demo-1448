@@ -5230,3 +5230,4 @@
 0835. 🐛 fix: prevent crash on empty input
 0043. ✅ test: add integration test for /submit endpoint
 0181. ♻️ chore: add GitHub actions badge
+0415. 🐛 fix: handle 500 error in quiz API
