@@ -7232,3 +7232,4 @@
 0989. 📚 docs: write FAQ section
 0607. 🐛 fix: prevent crash on empty input
 0949. 📚 docs: write FAQ section
+0865. ♻️ chore: add GitHub actions badge
