@@ -9250,3 +9250,4 @@
 0286. ✅ test: mock database connection in test suite
 0879. 🎨 style: standardize quote style
 0325. 🎨 style: rename variables for clarity
+0337. 📚 docs: document token refresh logic
