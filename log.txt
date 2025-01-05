@@ -1196,3 +1196,4 @@
 0880. 🐛 fix: fix broken CSS in mobile view
 0953. 🎨 style: remove trailing whitespace
 0600. 🐛 fix: prevent crash on empty input
+0571. 🔧 refactor: clean up auth middleware
