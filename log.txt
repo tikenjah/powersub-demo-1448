@@ -5228,3 +5228,4 @@
 0237. 🎨 style: standardize quote style
 0268. 🐛 fix: prevent crash on empty input
 0835. 🐛 fix: prevent crash on empty input
+0043. ✅ test: add integration test for /submit endpoint
