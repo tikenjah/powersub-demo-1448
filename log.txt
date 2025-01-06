@@ -8237,3 +8237,4 @@
 0551. 📚 docs: write FAQ section
 0282. 🔧 refactor: remove redundant code blocks
 0419. 🎨 style: remove trailing whitespace
+0042. 📚 docs: document token refresh logic
