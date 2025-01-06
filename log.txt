@@ -1204,3 +1204,4 @@
 0700. 🎨 style: rename variables for clarity
 0338. ♻️ chore: add GitHub actions badge
 0451. ✨ feat: support email verification
+0355. 🚀 perf: optimize database query for quiz results
