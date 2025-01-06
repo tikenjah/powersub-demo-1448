@@ -1206,3 +1206,4 @@
 0451. ✨ feat: support email verification
 0355. 🚀 perf: optimize database query for quiz results
 0950. 🎨 style: reformat files with black
+0504. 📚 docs: document token refresh logic
