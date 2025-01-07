@@ -1212,3 +1212,4 @@
 0736. 🐛 fix: fix null pointer exception on login
 0052. 🎨 style: standardize quote style
 0864. 🐛 fix: correct typo in registration form
+0450. 🐛 fix: fix broken CSS in mobile view
