@@ -9255,3 +9255,4 @@
 0963. 🚀 perf: reduce image load time
 0200. 🐛 fix: handle 500 error in quiz API
 0069. 🎨 style: rename variables for clarity
+0786. ✨ feat: enable dark mode toggle
