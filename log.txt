@@ -6258,3 +6258,4 @@
 0535. 📚 docs: write FAQ section
 0892. ✅ test: add unit test for quiz service
 0484. 🐛 fix: handle 500 error in quiz API
+0849. 🐛 fix: correct typo in registration form
