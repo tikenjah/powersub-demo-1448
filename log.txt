@@ -1218,3 +1218,4 @@
 0840. 🔧 refactor: refactor quiz grading logic
 0119. 📚 docs: improve code comments in utils
 0255. 🔧 refactor: refactor quiz grading logic
+0268. 🐛 fix: prevent crash on empty input
