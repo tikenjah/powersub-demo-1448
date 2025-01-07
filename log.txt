@@ -1215,3 +1215,4 @@
 0450. 🐛 fix: fix broken CSS in mobile view
 0785. ✨ feat: enable dark mode toggle
 0329. 📚 docs: update README with setup steps
+0840. 🔧 refactor: refactor quiz grading logic
