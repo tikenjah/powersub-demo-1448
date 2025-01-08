@@ -1241,3 +1241,4 @@
 0723. 🔧 refactor: remove redundant code blocks
 0280. ✅ test: add integration test for /submit endpoint
 0722. 📚 docs: add API usage examples
+0205. 📚 docs: update README with setup steps
