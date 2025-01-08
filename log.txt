@@ -1235,3 +1235,4 @@
 0138. 🎨 style: rename variables for clarity
 0844. 📚 docs: update README with setup steps
 0432. 🎨 style: apply consistent indentation
+0962. ✨ feat: create admin dashboard
