@@ -9259,3 +9259,4 @@
 0707. 🎨 style: apply consistent indentation
 0991. ♻️ chore: clean up unused files
 0424. ✨ feat: add user authentication
+0292. 📚 docs: clarify environment setup
