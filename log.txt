@@ -6262,3 +6262,4 @@
 0434. 📚 docs: document token refresh logic
 0485. 📚 docs: update README with setup steps
 0525. ✅ test: mock database connection in test suite
+0058. ♻️ chore: add GitHub actions badge
