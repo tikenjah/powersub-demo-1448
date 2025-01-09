@@ -1246,3 +1246,4 @@
 0350. 🚀 perf: cache repeated calculations
 0861. ♻️ chore: clean up unused files
 0498. ✅ test: mock database connection in test suite
+0900. 🐛 fix: handle 500 error in quiz API
