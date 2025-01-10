@@ -1265,3 +1265,4 @@
 0154. 🐛 fix: prevent crash on empty input
 0835. 🐛 fix: prevent crash on empty input
 0707. 🎨 style: apply consistent indentation
+0490. ✨ feat: create admin dashboard
