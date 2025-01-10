@@ -1258,3 +1258,4 @@
 0271. ✅ test: add unit test for quiz service
 0781. 🚀 perf: reduce image load time
 0911. ✅ test: increase coverage on auth module
+0002. 🚀 perf: cache repeated calculations
