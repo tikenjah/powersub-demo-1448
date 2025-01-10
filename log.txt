@@ -7243,3 +7243,4 @@
 0326. 🚀 perf: cache repeated calculations
 0165. 🎨 style: remove trailing whitespace
 0763. 🔧 refactor: organize models into subfolders
+0226. 🚀 perf: lazy-load components
