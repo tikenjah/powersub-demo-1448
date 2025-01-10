@@ -1253,3 +1253,4 @@
 0020. ✅ test: add integration test for /submit endpoint
 0587. 🔧 refactor: remove redundant code blocks
 0206. 🐛 fix: handle 500 error in quiz API
+0893. 🐛 fix: handle 500 error in quiz API
