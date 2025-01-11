@@ -1272,3 +1272,4 @@
 0511. 🐛 fix: fix broken CSS in mobile view
 0109. 🚀 perf: lazy-load components
 0896. 🚀 perf: reduce image load time
+0979. 🎨 style: standardize quote style
