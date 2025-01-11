@@ -6266,3 +6266,4 @@
 0488. ♻️ chore: add GitHub actions badge
 0766. 🎨 style: reformat files with black
 0490. ✨ feat: create admin dashboard
+0784. ♻️ chore: clean up unused files
