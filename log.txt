@@ -1271,3 +1271,4 @@
 0087. ✨ feat: add export to CSV option
 0511. 🐛 fix: fix broken CSS in mobile view
 0109. 🚀 perf: lazy-load components
+0896. 🚀 perf: reduce image load time
