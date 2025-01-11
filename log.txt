@@ -1274,3 +1274,4 @@
 0896. 🚀 perf: reduce image load time
 0979. 🎨 style: standardize quote style
 0303. 🎨 style: rename variables for clarity
+0293. ✅ test: add integration test for /submit endpoint
