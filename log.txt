@@ -5243,3 +5243,4 @@
 0083. 🎨 style: reformat files with black
 0021. ✨ feat: support email verification
 0479. 🐛 fix: fix null pointer exception on login
+0365. 🚀 perf: reduce image load time
