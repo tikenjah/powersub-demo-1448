@@ -9264,3 +9264,4 @@
 0061. ✨ feat: create admin dashboard
 0420. 🚀 perf: reduce image load time
 0718. 🐛 fix: resolve issue with date parsing
+0028. 🎨 style: standardize quote style
