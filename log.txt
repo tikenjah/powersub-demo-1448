@@ -6269,3 +6269,4 @@
 0784. ♻️ chore: clean up unused files
 0518. ✨ feat: support email verification
 0421. 🔧 refactor: split large controller into smaller functions
+0665. ♻️ chore: update .gitignore
