@@ -1278,3 +1278,4 @@
 0679. ♻️ chore: bump dependencies
 0371. ✅ test: add integration test for /submit endpoint
 0123. ✨ feat: implement quiz timer feature
+0394. 🚀 perf: lazy-load components
