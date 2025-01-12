@@ -7249,3 +7249,4 @@
 0125. ✅ test: add integration test for /submit endpoint
 0501. ✨ feat: add export to CSV option
 0823. ✨ feat: add user authentication
+0946. ✅ test: add unit test for quiz service
