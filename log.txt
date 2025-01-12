@@ -6272,3 +6272,4 @@
 0665. ♻️ chore: update .gitignore
 0259. 🚀 perf: lazy-load components
 0614. 🚀 perf: reduce image load time
+0959. 🐛 fix: fix null pointer exception on login
