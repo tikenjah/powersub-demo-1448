@@ -6270,3 +6270,4 @@
 0518. ✨ feat: support email verification
 0421. 🔧 refactor: split large controller into smaller functions
 0665. ♻️ chore: update .gitignore
+0259. 🚀 perf: lazy-load components
