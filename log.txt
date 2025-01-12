@@ -5247,3 +5247,4 @@
 0146. 🎨 style: apply consistent indentation
 0122. ✨ feat: support email verification
 0657. 🎨 style: standardize quote style
+0937. 🐛 fix: handle 500 error in quiz API
