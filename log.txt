@@ -1279,3 +1279,4 @@
 0371. ✅ test: add integration test for /submit endpoint
 0123. ✨ feat: implement quiz timer feature
 0394. 🚀 perf: lazy-load components
+0403. ✅ test: mock database connection in test suite
