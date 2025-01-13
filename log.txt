@@ -1289,3 +1289,4 @@
 0798. 🚀 perf: reduce image load time
 0778. 📚 docs: write FAQ section
 0117. ✅ test: increase coverage on auth module
+0967. ♻️ chore: add GitHub actions badge
