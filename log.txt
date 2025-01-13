@@ -1294,3 +1294,4 @@
 0561. 📚 docs: write FAQ section
 0626. 🎨 style: standardize quote style
 0423. ✅ test: mock database connection in test suite
+0313. 🎨 style: apply consistent indentation
