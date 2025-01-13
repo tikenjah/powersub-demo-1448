@@ -1291,3 +1291,4 @@
 0117. ✅ test: increase coverage on auth module
 0967. ♻️ chore: add GitHub actions badge
 0200. 🐛 fix: handle 500 error in quiz API
+0561. 📚 docs: write FAQ section
