@@ -10275,3 +10275,4 @@
 0959. 🐛 fix: fix null pointer exception on login
 0128. ♻️ chore: rename env.example
 0432. 🎨 style: apply consistent indentation
+0680. ♻️ chore: add GitHub actions badge
