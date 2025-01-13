@@ -8260,3 +8260,4 @@
 0025. 🚀 perf: optimize database query for quiz results
 0957. 🐛 fix: fix null pointer exception on login
 0591. ♻️ chore: clean up unused files
+0663. 🚀 perf: reduce image load time
