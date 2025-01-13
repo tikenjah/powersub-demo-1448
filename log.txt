@@ -7251,3 +7251,4 @@
 0823. ✨ feat: add user authentication
 0946. ✅ test: add unit test for quiz service
 0371. ✅ test: add integration test for /submit endpoint
+0219. ✅ test: increase coverage on auth module
