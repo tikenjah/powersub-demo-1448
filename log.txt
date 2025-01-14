@@ -1307,3 +1307,4 @@
 0543. ✨ feat: support email verification
 0669. ✨ feat: enable dark mode toggle
 0508. ✅ test: add unit test for quiz service
+0873. 🚀 perf: cache repeated calculations
