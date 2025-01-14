@@ -1310,3 +1310,4 @@
 0873. 🚀 perf: cache repeated calculations
 0353. ♻️ chore: rename env.example
 0428. 🐛 fix: fix null pointer exception on login
+0212. 🎨 style: standardize quote style
