@@ -6278,3 +6278,4 @@
 0109. 🚀 perf: lazy-load components
 0178. ✨ feat: support email verification
 0695. ✨ feat: create admin dashboard
+0610. 🚀 perf: lazy-load components
