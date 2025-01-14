@@ -1305,3 +1305,4 @@
 0536. ✨ feat: add user authentication
 0161. ✨ feat: create admin dashboard
 0543. ✨ feat: support email verification
+0669. ✨ feat: enable dark mode toggle
