@@ -10276,3 +10276,4 @@
 0128. ♻️ chore: rename env.example
 0432. 🎨 style: apply consistent indentation
 0680. ♻️ chore: add GitHub actions badge
+0677. 📚 docs: add API usage examples
