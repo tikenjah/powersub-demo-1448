@@ -10279,3 +10279,4 @@
 0677. 📚 docs: add API usage examples
 0675. 🔧 refactor: organize models into subfolders
 0047. 🎨 style: rename variables for clarity
+0565. ♻️ chore: add GitHub actions badge
