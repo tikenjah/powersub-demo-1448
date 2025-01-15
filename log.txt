@@ -7255,3 +7255,4 @@
 0762. 🚀 perf: lazy-load components
 0909. 🔧 refactor: organize models into subfolders
 0813. 🔧 refactor: organize models into subfolders
+0359. 🔧 refactor: clean up auth middleware
