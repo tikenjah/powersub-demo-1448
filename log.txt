@@ -1334,3 +1334,4 @@
 0988. 🐛 fix: fix broken CSS in mobile view
 0376. 🎨 style: apply consistent indentation
 0653. 🐛 fix: prevent crash on empty input
+0521. 🎨 style: standardize quote style
