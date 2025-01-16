@@ -6287,3 +6287,4 @@
 0061. ✨ feat: create admin dashboard
 0249. ✅ test: increase coverage on auth module
 0155. ✨ feat: create admin dashboard
+0961. 📚 docs: add API usage examples
