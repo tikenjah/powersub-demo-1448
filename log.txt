@@ -1337,3 +1337,4 @@
 0521. 🎨 style: standardize quote style
 0135. ✅ test: test user registration edge cases
 0922. 📚 docs: write FAQ section
+0971. 🎨 style: standardize quote style
