@@ -1331,3 +1331,4 @@
 0916. ♻️ chore: bump dependencies
 0372. ✨ feat: add user authentication
 0362. 📚 docs: add API usage examples
+0988. 🐛 fix: fix broken CSS in mobile view
