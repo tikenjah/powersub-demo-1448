@@ -7259,3 +7259,4 @@
 0140. 🐛 fix: handle 500 error in quiz API
 0654. ✨ feat: create admin dashboard
 0150. 🎨 style: remove trailing whitespace
+0466. 🚀 perf: optimize database query for quiz results
