@@ -6286,3 +6286,4 @@
 0051. ✨ feat: enable dark mode toggle
 0061. ✨ feat: create admin dashboard
 0249. ✅ test: increase coverage on auth module
+0155. ✨ feat: create admin dashboard
