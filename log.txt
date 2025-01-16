@@ -10283,3 +10283,4 @@
 0199. ✨ feat: create admin dashboard
 0375. 🐛 fix: handle 500 error in quiz API
 0458. ✨ feat: create admin dashboard
+0595. ✨ feat: enable dark mode toggle
