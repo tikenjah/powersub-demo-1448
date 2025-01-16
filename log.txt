@@ -6285,3 +6285,4 @@
 0515. 🚀 perf: optimize database query for quiz results
 0051. ✨ feat: enable dark mode toggle
 0061. ✨ feat: create admin dashboard
+0249. ✅ test: increase coverage on auth module
