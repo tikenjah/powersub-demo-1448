@@ -10287,3 +10287,4 @@
 0652. 🔧 refactor: organize models into subfolders
 0974. ✨ feat: add export to CSV option
 0696. 🔧 refactor: clean up auth middleware
+0691. 🎨 style: rename variables for clarity
