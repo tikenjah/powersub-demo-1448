@@ -10286,3 +10286,4 @@
 0595. ✨ feat: enable dark mode toggle
 0652. 🔧 refactor: organize models into subfolders
 0974. ✨ feat: add export to CSV option
+0696. 🔧 refactor: clean up auth middleware
