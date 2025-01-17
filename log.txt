@@ -5258,3 +5258,4 @@
 0652. 🔧 refactor: organize models into subfolders
 0408. ♻️ chore: add GitHub actions badge
 0346. ✅ test: mock database connection in test suite
+0221. ✨ feat: add user authentication
