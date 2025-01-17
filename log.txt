@@ -6289,3 +6289,4 @@
 0155. ✨ feat: create admin dashboard
 0961. 📚 docs: add API usage examples
 0500. ✅ test: add integration test for /submit endpoint
+0206. 🐛 fix: handle 500 error in quiz API
