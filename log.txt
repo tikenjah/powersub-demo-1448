@@ -8271,3 +8271,4 @@
 0574. ✨ feat: enable dark mode toggle
 0925. ✨ feat: add export to CSV option
 0647. 🐛 fix: prevent crash on empty input
+0043. ✅ test: add integration test for /submit endpoint
