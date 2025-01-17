@@ -1357,3 +1357,4 @@
 0237. 🎨 style: standardize quote style
 0324. 📚 docs: document token refresh logic
 0138. 🎨 style: rename variables for clarity
+0127. 🐛 fix: fix null pointer exception on login
