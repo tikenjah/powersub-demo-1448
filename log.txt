@@ -1345,3 +1345,4 @@
 0076. 🎨 style: reformat files with black
 0031. 📚 docs: document token refresh logic
 0212. 🎨 style: standardize quote style
+0724. ✅ test: mock database connection in test suite
