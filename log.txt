@@ -8270,3 +8270,4 @@
 0075. ✅ test: mock database connection in test suite
 0574. ✨ feat: enable dark mode toggle
 0925. ✨ feat: add export to CSV option
+0647. 🐛 fix: prevent crash on empty input
