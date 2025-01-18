@@ -1369,3 +1369,4 @@
 0635. 🎨 style: apply consistent indentation
 0142. ✨ feat: implement quiz timer feature
 0734. ✨ feat: add export to CSV option
+0997. ✅ test: increase coverage on auth module
