@@ -1372,3 +1372,4 @@
 0997. ✅ test: increase coverage on auth module
 0158. 📚 docs: clarify environment setup
 0890. 🔧 refactor: organize models into subfolders
+0122. ✨ feat: support email verification
