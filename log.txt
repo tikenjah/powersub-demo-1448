@@ -1370,3 +1370,4 @@
 0142. ✨ feat: implement quiz timer feature
 0734. ✨ feat: add export to CSV option
 0997. ✅ test: increase coverage on auth module
+0158. 📚 docs: clarify environment setup
