@@ -6292,3 +6292,4 @@
 0206. 🐛 fix: handle 500 error in quiz API
 0401. 🚀 perf: reduce image load time
 0545. 🎨 style: standardize quote style
+0471. ✨ feat: support email verification
