@@ -1374,3 +1374,4 @@
 0890. 🔧 refactor: organize models into subfolders
 0122. ✨ feat: support email verification
 0173. 🚀 perf: cache repeated calculations
+0256. ✅ test: mock database connection in test suite
