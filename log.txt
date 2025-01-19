@@ -1380,3 +1380,4 @@
 0890. 🔧 refactor: organize models into subfolders
 0902. ✨ feat: enable dark mode toggle
 0495. 🔧 refactor: remove redundant code blocks
+0053. ✅ test: increase coverage on auth module
