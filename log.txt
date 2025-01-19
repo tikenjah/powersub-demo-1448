@@ -10295,3 +10295,4 @@
 0202. 🔧 refactor: refactor quiz grading logic
 0430. 🐛 fix: fix null pointer exception on login
 0529. 📚 docs: write FAQ section
+0062. ♻️ chore: update .gitignore
