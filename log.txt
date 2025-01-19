@@ -9280,3 +9280,4 @@
 0944. ✨ feat: add user authentication
 0442. 🎨 style: standardize quote style
 0667. ✨ feat: add export to CSV option
+0023. 📚 docs: clarify environment setup
