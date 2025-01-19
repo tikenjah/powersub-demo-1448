@@ -8282,3 +8282,4 @@
 0033. 🎨 style: apply consistent indentation
 0062. ♻️ chore: update .gitignore
 0532. 🔧 refactor: split large controller into smaller functions
+0693. 📚 docs: add API usage examples
