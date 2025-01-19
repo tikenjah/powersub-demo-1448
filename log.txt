@@ -1386,3 +1386,4 @@
 0985. 📚 docs: document token refresh logic
 0380. 🐛 fix: fix null pointer exception on login
 0429. ✨ feat: add user authentication
+0116. ✨ feat: support email verification
