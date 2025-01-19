@@ -1387,3 +1387,4 @@
 0380. 🐛 fix: fix null pointer exception on login
 0429. ✨ feat: add user authentication
 0116. ✨ feat: support email verification
+0661. ✅ test: add integration test for /submit endpoint
