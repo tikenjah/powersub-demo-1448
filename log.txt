@@ -1392,3 +1392,4 @@
 0649. 📚 docs: update README with setup steps
 0998. 🐛 fix: fix null pointer exception on login
 0959. 🐛 fix: fix null pointer exception on login
+0316. 🐛 fix: fix broken CSS in mobile view
