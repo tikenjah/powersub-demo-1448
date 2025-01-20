@@ -1400,3 +1400,4 @@
 0924. ✅ test: mock database connection in test suite
 0980. 🎨 style: reformat files with black
 0627. 📚 docs: document token refresh logic
+0971. 🎨 style: standardize quote style
