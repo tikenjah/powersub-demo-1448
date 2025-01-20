@@ -7268,3 +7268,4 @@
 0363. 📚 docs: clarify environment setup
 0489. 🔧 refactor: organize models into subfolders
 0853. 🔧 refactor: refactor quiz grading logic
+0568. 🐛 fix: handle 500 error in quiz API
