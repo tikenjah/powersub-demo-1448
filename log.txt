@@ -5270,3 +5270,4 @@
 0149. ✨ feat: add export to CSV option
 0307. ✨ feat: support email verification
 0492. 🎨 style: remove trailing whitespace
+0701. 🔧 refactor: clean up auth middleware
