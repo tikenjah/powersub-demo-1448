@@ -6299,3 +6299,4 @@
 0171. 🐛 fix: fix broken CSS in mobile view
 0813. 🔧 refactor: organize models into subfolders
 0308. 🚀 perf: reduce image load time
+0935. 📚 docs: update README with setup steps
