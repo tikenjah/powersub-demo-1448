@@ -1394,3 +1394,4 @@
 0959. 🐛 fix: fix null pointer exception on login
 0316. 🐛 fix: fix broken CSS in mobile view
 0224. 🐛 fix: fix broken CSS in mobile view
+0011. ✅ test: add unit test for quiz service
