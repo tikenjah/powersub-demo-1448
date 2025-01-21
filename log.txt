@@ -1403,3 +1403,4 @@
 0971. 🎨 style: standardize quote style
 0534. 🔧 refactor: split large controller into smaller functions
 0427. ✅ test: mock database connection in test suite
+0178. ✨ feat: support email verification
