@@ -1405,3 +1405,4 @@
 0427. ✅ test: mock database connection in test suite
 0178. ✨ feat: support email verification
 0891. ✨ feat: create admin dashboard
+0273. 🚀 perf: reduce image load time
