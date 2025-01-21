@@ -7270,3 +7270,4 @@
 0853. 🔧 refactor: refactor quiz grading logic
 0568. 🐛 fix: handle 500 error in quiz API
 0087. ✨ feat: add export to CSV option
+0472. 🐛 fix: fix null pointer exception on login
