@@ -1414,3 +1414,4 @@
 0842. 🎨 style: remove trailing whitespace
 0592. 📚 docs: add API usage examples
 0102. ✨ feat: support email verification
+0050. ✨ feat: enable dark mode toggle
