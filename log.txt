@@ -1431,3 +1431,4 @@
 0586. 🎨 style: remove trailing whitespace
 0866. 📚 docs: add API usage examples
 0773. 📚 docs: document token refresh logic
+0475. 🔧 refactor: clean up auth middleware
