@@ -9290,3 +9290,4 @@
 0603. 🐛 fix: fix broken CSS in mobile view
 0582. ✨ feat: add export to CSV option
 0757. 🔧 refactor: remove redundant code blocks
+0483. 📚 docs: update README with setup steps
