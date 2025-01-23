@@ -9293,3 +9293,4 @@
 0483. 📚 docs: update README with setup steps
 0317. ✅ test: test user registration edge cases
 0101. 📚 docs: clarify environment setup
+0988. 🐛 fix: fix broken CSS in mobile view
