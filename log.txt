@@ -5275,3 +5275,4 @@
 0771. 🚀 perf: cache repeated calculations
 0181. ♻️ chore: add GitHub actions badge
 0933. 📚 docs: clarify environment setup
+0994. 🚀 perf: reduce image load time
