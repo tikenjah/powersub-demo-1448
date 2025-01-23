@@ -1433,3 +1433,4 @@
 0773. 📚 docs: document token refresh logic
 0475. 🔧 refactor: clean up auth middleware
 0016. 🎨 style: apply consistent indentation
+0823. ✨ feat: add user authentication
