@@ -9298,3 +9298,4 @@
 0861. ♻️ chore: clean up unused files
 0657. 🎨 style: standardize quote style
 0840. 🔧 refactor: refactor quiz grading logic
+0676. 🐛 fix: prevent crash on empty input
