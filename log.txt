@@ -5276,3 +5276,4 @@
 0181. ♻️ chore: add GitHub actions badge
 0933. 📚 docs: clarify environment setup
 0994. 🚀 perf: reduce image load time
+0858. ♻️ chore: clean up unused files
