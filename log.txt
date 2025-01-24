@@ -9294,3 +9294,4 @@
 0317. ✅ test: test user registration edge cases
 0101. 📚 docs: clarify environment setup
 0988. 🐛 fix: fix broken CSS in mobile view
+0973. 🔧 refactor: organize models into subfolders
