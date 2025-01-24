@@ -8289,3 +8289,4 @@
 0074. ♻️ chore: add GitHub actions badge
 0798. 🚀 perf: reduce image load time
 0577. ✨ feat: implement quiz timer feature
+0356. 📚 docs: write FAQ section
