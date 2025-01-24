@@ -1448,3 +1448,4 @@
 0367. 🐛 fix: fix null pointer exception on login
 0782. 📚 docs: improve code comments in utils
 0678. ✨ feat: add user authentication
+0621. 🔧 refactor: clean up auth middleware
