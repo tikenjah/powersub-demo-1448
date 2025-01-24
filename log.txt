@@ -7278,3 +7278,4 @@
 0690. 🚀 perf: lazy-load components
 0170. ✅ test: increase coverage on auth module
 0379. ✨ feat: support email verification
+0023. 📚 docs: clarify environment setup
