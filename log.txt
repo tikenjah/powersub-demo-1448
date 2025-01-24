@@ -1446,3 +1446,4 @@
 0830. 🎨 style: apply consistent indentation
 0069. 🎨 style: rename variables for clarity
 0367. 🐛 fix: fix null pointer exception on login
+0782. 📚 docs: improve code comments in utils
