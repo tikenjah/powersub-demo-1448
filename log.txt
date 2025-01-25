@@ -1460,3 +1460,4 @@
 0166. 🚀 perf: cache repeated calculations
 0531. 🐛 fix: prevent crash on empty input
 0309. 🔧 refactor: refactor quiz grading logic
+0269. ✅ test: test user registration edge cases
