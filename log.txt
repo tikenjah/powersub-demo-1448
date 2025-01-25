@@ -1462,3 +1462,4 @@
 0309. 🔧 refactor: refactor quiz grading logic
 0269. ✅ test: test user registration edge cases
 0301. 🎨 style: apply consistent indentation
+0665. ♻️ chore: update .gitignore
