@@ -1455,3 +1455,4 @@
 0994. 🚀 perf: reduce image load time
 0688. 🚀 perf: reduce image load time
 0145. 📚 docs: improve code comments in utils
+0391. 🐛 fix: fix null pointer exception on login
