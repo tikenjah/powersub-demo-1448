@@ -10308,3 +10308,4 @@
 0252. 🎨 style: remove trailing whitespace
 0701. 🔧 refactor: clean up auth middleware
 0041. 🐛 fix: fix broken CSS in mobile view
+0824. 🚀 perf: lazy-load components
