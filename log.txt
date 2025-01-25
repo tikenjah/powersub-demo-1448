@@ -6308,3 +6308,4 @@
 0742. 📚 docs: clarify environment setup
 0111. 📚 docs: update README with setup steps
 0950. 🎨 style: reformat files with black
+0653. 🐛 fix: prevent crash on empty input
