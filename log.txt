@@ -1470,3 +1470,4 @@
 0134. ✨ feat: implement quiz timer feature
 0340. 🚀 perf: optimize database query for quiz results
 0265. 🎨 style: reformat files with black
+0718. 🐛 fix: resolve issue with date parsing
