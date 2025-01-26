@@ -1469,3 +1469,4 @@
 0288. 🔧 refactor: refactor quiz grading logic
 0134. ✨ feat: implement quiz timer feature
 0340. 🚀 perf: optimize database query for quiz results
+0265. 🎨 style: reformat files with black
