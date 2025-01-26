@@ -5281,3 +5281,4 @@
 0702. ✨ feat: add user authentication
 0930. 🎨 style: apply consistent indentation
 0135. ✅ test: test user registration edge cases
+0280. ✅ test: add integration test for /submit endpoint
