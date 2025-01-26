@@ -5283,3 +5283,4 @@
 0135. ✅ test: test user registration edge cases
 0280. ✅ test: add integration test for /submit endpoint
 0731. 🎨 style: standardize quote style
+0710. 🐛 fix: fix broken CSS in mobile view
