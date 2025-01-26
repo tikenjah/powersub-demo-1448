@@ -6312,3 +6312,4 @@
 0131. 📚 docs: write FAQ section
 0284. ✨ feat: implement quiz timer feature
 0668. 🚀 perf: optimize database query for quiz results
+0055. 📚 docs: update README with setup steps
