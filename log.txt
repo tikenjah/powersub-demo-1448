@@ -1468,3 +1468,4 @@
 0558. ✨ feat: enable dark mode toggle
 0288. 🔧 refactor: refactor quiz grading logic
 0134. ✨ feat: implement quiz timer feature
+0340. 🚀 perf: optimize database query for quiz results
