@@ -1490,3 +1490,4 @@
 0658. 🎨 style: rename variables for clarity
 0912. 📚 docs: document token refresh logic
 0968. 🎨 style: standardize quote style
+0816. 🔧 refactor: organize models into subfolders
