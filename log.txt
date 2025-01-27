@@ -5287,3 +5287,4 @@
 0002. 🚀 perf: cache repeated calculations
 0555. ✨ feat: create admin dashboard
 0670. ✨ feat: add export to CSV option
+0113. ✨ feat: add user authentication
