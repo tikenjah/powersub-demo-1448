@@ -8299,3 +8299,4 @@
 0823. ✨ feat: add user authentication
 0663. 🚀 perf: reduce image load time
 0101. 📚 docs: clarify environment setup
+0616. 🚀 perf: lazy-load components
