@@ -5290,3 +5290,4 @@
 0113. ✨ feat: add user authentication
 0165. 🎨 style: remove trailing whitespace
 0141. 📚 docs: document token refresh logic
+0900. 🐛 fix: handle 500 error in quiz API
