@@ -8303,3 +8303,4 @@
 0233. 🚀 perf: lazy-load components
 0907. 🔧 refactor: split large controller into smaller functions
 0153. ♻️ chore: rename env.example
+0614. 🚀 perf: reduce image load time
