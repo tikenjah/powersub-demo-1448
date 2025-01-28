@@ -1498,3 +1498,4 @@
 0452. ✨ feat: implement quiz timer feature
 0868. ✅ test: add unit test for quiz service
 0484. 🐛 fix: handle 500 error in quiz API
+0113. ✨ feat: add user authentication
