@@ -9311,3 +9311,4 @@
 0950. 🎨 style: reformat files with black
 0032. 🎨 style: apply consistent indentation
 0053. ✅ test: increase coverage on auth module
+0576. ♻️ chore: update .gitignore
