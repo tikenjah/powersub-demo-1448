@@ -1491,3 +1491,4 @@
 0912. 📚 docs: document token refresh logic
 0968. 🎨 style: standardize quote style
 0816. 🔧 refactor: organize models into subfolders
+0823. ✨ feat: add user authentication
