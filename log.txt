@@ -5289,3 +5289,4 @@
 0670. ✨ feat: add export to CSV option
 0113. ✨ feat: add user authentication
 0165. 🎨 style: remove trailing whitespace
+0141. 📚 docs: document token refresh logic
