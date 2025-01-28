@@ -1497,3 +1497,4 @@
 0322. 🔧 refactor: split large controller into smaller functions
 0452. ✨ feat: implement quiz timer feature
 0868. ✅ test: add unit test for quiz service
+0484. 🐛 fix: handle 500 error in quiz API
