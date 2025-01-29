@@ -1522,3 +1522,4 @@
 0640. ♻️ chore: bump dependencies
 0840. 🔧 refactor: refactor quiz grading logic
 0231. 🔧 refactor: clean up auth middleware
+0556. ✨ feat: support email verification
