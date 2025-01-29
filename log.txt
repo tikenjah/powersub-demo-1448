@@ -1518,3 +1518,4 @@
 0538. 🐛 fix: fix broken CSS in mobile view
 0350. 🚀 perf: cache repeated calculations
 0734. ✨ feat: add export to CSV option
+0920. 🔧 refactor: organize models into subfolders
