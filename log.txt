@@ -8305,3 +8305,4 @@
 0153. ♻️ chore: rename env.example
 0614. 🚀 perf: reduce image load time
 0095. ✅ test: mock database connection in test suite
+0612. ✅ test: test user registration edge cases
