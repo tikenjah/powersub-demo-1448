@@ -10324,3 +10324,4 @@
 0521. 🎨 style: standardize quote style
 0749. ✨ feat: support email verification
 0401. 🚀 perf: reduce image load time
+0509. ♻️ chore: bump dependencies
