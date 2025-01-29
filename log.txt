@@ -1508,3 +1508,4 @@
 0352. ✨ feat: add export to CSV option
 0367. 🐛 fix: fix null pointer exception on login
 0320. 📚 docs: update README with setup steps
+0781. 🚀 perf: reduce image load time
