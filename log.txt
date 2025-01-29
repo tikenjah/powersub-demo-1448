@@ -1505,3 +1505,4 @@
 0277. 🎨 style: standardize quote style
 0113. ✨ feat: add user authentication
 0278. 🔧 refactor: clean up auth middleware
+0352. ✨ feat: add export to CSV option
