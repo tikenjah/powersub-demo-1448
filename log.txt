@@ -1515,3 +1515,4 @@
 0569. 📚 docs: document token refresh logic
 0284. ✨ feat: implement quiz timer feature
 0347. ♻️ chore: update .gitignore
+0538. 🐛 fix: fix broken CSS in mobile view
