@@ -10322,3 +10322,4 @@
 0665. ♻️ chore: update .gitignore
 0901. ✨ feat: add user authentication
 0521. 🎨 style: standardize quote style
+0749. ✨ feat: support email verification
