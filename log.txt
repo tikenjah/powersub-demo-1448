@@ -5294,3 +5294,4 @@
 0014. 🔧 refactor: remove redundant code blocks
 0924. ✅ test: mock database connection in test suite
 0967. ♻️ chore: add GitHub actions badge
+0451. ✨ feat: support email verification
