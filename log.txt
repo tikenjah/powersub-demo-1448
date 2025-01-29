@@ -1510,3 +1510,4 @@
 0320. 📚 docs: update README with setup steps
 0781. 🚀 perf: reduce image load time
 0337. 📚 docs: document token refresh logic
+0841. 🚀 perf: optimize database query for quiz results
