@@ -9313,3 +9313,4 @@
 0053. ✅ test: increase coverage on auth module
 0576. ♻️ chore: update .gitignore
 0421. 🔧 refactor: split large controller into smaller functions
+0529. 📚 docs: write FAQ section
