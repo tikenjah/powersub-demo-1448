@@ -7296,3 +7296,4 @@
 0063. 🐛 fix: handle 500 error in quiz API
 0189. 📚 docs: clarify environment setup
 0361. ✨ feat: support email verification
+0624. ✅ test: add unit test for quiz service
