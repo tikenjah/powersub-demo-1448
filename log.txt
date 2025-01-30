@@ -1531,3 +1531,4 @@
 0042. 📚 docs: document token refresh logic
 0918. ✨ feat: enable dark mode toggle
 0035. ✅ test: increase coverage on auth module
+0086. 🐛 fix: correct typo in registration form
