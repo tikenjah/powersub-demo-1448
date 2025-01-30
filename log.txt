@@ -1533,3 +1533,4 @@
 0035. ✅ test: increase coverage on auth module
 0086. 🐛 fix: correct typo in registration form
 0482. ✨ feat: add export to CSV option
+0280. ✅ test: add integration test for /submit endpoint
