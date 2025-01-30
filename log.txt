@@ -10327,3 +10327,4 @@
 0509. ♻️ chore: bump dependencies
 0979. 🎨 style: standardize quote style
 0351. ✨ feat: add export to CSV option
+0079. 🐛 fix: correct typo in registration form
