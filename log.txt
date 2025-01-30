@@ -7298,3 +7298,4 @@
 0361. ✨ feat: support email verification
 0624. ✅ test: add unit test for quiz service
 0608. 🔧 refactor: remove redundant code blocks
+0086. 🐛 fix: correct typo in registration form
