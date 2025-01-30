@@ -10325,3 +10325,4 @@
 0749. ✨ feat: support email verification
 0401. 🚀 perf: reduce image load time
 0509. ♻️ chore: bump dependencies
+0979. 🎨 style: standardize quote style
