@@ -9316,3 +9316,4 @@
 0529. 📚 docs: write FAQ section
 0501. ✨ feat: add export to CSV option
 0270. ♻️ chore: rename env.example
+0768. 🎨 style: remove trailing whitespace
