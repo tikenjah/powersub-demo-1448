@@ -7300,3 +7300,4 @@
 0608. 🔧 refactor: remove redundant code blocks
 0086. 🐛 fix: correct typo in registration form
 0154. 🐛 fix: prevent crash on empty input
+0693. 📚 docs: add API usage examples
