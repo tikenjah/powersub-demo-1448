@@ -1548,3 +1548,4 @@
 0756. ✨ feat: support email verification
 0689. 🎨 style: reformat files with black
 0698. 🐛 fix: handle 500 error in quiz API
+0744. 🔧 refactor: remove redundant code blocks
