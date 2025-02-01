@@ -6325,3 +6325,4 @@
 0655. 🚀 perf: cache repeated calculations
 0086. 🐛 fix: correct typo in registration form
 0859. ✨ feat: create admin dashboard
+0397. 🐛 fix: handle 500 error in quiz API
