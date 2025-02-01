@@ -5300,3 +5300,4 @@
 0990. ♻️ chore: rename env.example
 0490. ✨ feat: create admin dashboard
 0916. ♻️ chore: bump dependencies
+0596. ♻️ chore: update .gitignore
