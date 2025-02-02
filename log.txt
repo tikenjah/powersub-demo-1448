@@ -1559,3 +1559,4 @@
 0162. ♻️ chore: add GitHub actions badge
 0487. 🎨 style: reformat files with black
 0524. ♻️ chore: rename env.example
+0189. 📚 docs: clarify environment setup
