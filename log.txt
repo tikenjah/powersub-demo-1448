@@ -5301,3 +5301,4 @@
 0490. ✨ feat: create admin dashboard
 0916. ♻️ chore: bump dependencies
 0596. ♻️ chore: update .gitignore
+0219. ✅ test: increase coverage on auth module
