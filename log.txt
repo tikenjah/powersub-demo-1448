@@ -1558,3 +1558,4 @@
 0527. 🎨 style: remove trailing whitespace
 0162. ♻️ chore: add GitHub actions badge
 0487. 🎨 style: reformat files with black
+0524. ♻️ chore: rename env.example
