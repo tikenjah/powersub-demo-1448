@@ -9328,3 +9328,4 @@
 0241. 📚 docs: add API usage examples
 0102. ✨ feat: support email verification
 0245. 🐛 fix: resolve issue with date parsing
+0229. 🚀 perf: optimize database query for quiz results
