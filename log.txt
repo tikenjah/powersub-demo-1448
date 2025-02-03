@@ -1576,3 +1576,4 @@
 0425. 🔧 refactor: refactor quiz grading logic
 0402. 🎨 style: reformat files with black
 0967. ♻️ chore: add GitHub actions badge
+0052. 🎨 style: standardize quote style
