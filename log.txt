@@ -9329,3 +9329,4 @@
 0102. ✨ feat: support email verification
 0245. 🐛 fix: resolve issue with date parsing
 0229. 🚀 perf: optimize database query for quiz results
+0576. ♻️ chore: update .gitignore
