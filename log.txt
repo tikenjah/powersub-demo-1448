@@ -5305,3 +5305,4 @@
 0869. ♻️ chore: bump dependencies
 0804. ♻️ chore: add GitHub actions badge
 0516. ✅ test: add unit test for quiz service
+0780. 📚 docs: add API usage examples
