@@ -7313,3 +7313,4 @@
 0977. 🔧 refactor: organize models into subfolders
 0593. 🐛 fix: correct typo in registration form
 0965. 🎨 style: reformat files with black
+0792. 🎨 style: standardize quote style
