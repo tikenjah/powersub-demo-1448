@@ -1568,3 +1568,4 @@
 0281. ✨ feat: support email verification
 0685. ✅ test: test user registration edge cases
 0394. 🚀 perf: lazy-load components
+0706. ✨ feat: support email verification
