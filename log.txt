@@ -6328,3 +6328,4 @@
 0397. 🐛 fix: handle 500 error in quiz API
 0301. 🎨 style: apply consistent indentation
 0657. 🎨 style: standardize quote style
+0714. 📚 docs: improve code comments in utils
