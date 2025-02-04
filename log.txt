@@ -1589,3 +1589,4 @@
 0465. 🎨 style: rename variables for clarity
 0180. ✨ feat: add export to CSV option
 0241. 📚 docs: add API usage examples
+0140. 🐛 fix: handle 500 error in quiz API
