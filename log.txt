@@ -7315,3 +7315,4 @@
 0965. 🎨 style: reformat files with black
 0792. 🎨 style: standardize quote style
 0096. 🐛 fix: prevent crash on empty input
+0384. 📚 docs: clarify environment setup
