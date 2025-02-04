@@ -10341,3 +10341,4 @@
 0647. 🐛 fix: prevent crash on empty input
 0719. 🎨 style: apply consistent indentation
 0146. 🎨 style: apply consistent indentation
+0975. 🎨 style: apply consistent indentation
