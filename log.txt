@@ -9332,3 +9332,4 @@
 0576. ♻️ chore: update .gitignore
 0396. 🔧 refactor: split large controller into smaller functions
 0556. ✨ feat: support email verification
+0037. 🐛 fix: correct typo in registration form
