@@ -6332,3 +6332,4 @@
 0086. 🐛 fix: correct typo in registration form
 0435. ✅ test: add unit test for quiz service
 0023. 📚 docs: clarify environment setup
+0345. 📚 docs: document token refresh logic
