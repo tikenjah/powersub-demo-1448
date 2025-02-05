@@ -9337,3 +9337,4 @@
 0009. ✨ feat: enable dark mode toggle
 0648. ♻️ chore: bump dependencies
 0819. 🚀 perf: reduce image load time
+0433. 🐛 fix: prevent crash on empty input
