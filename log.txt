@@ -1600,3 +1600,4 @@
 0288. 🔧 refactor: refactor quiz grading logic
 0845. 🚀 perf: cache repeated calculations
 0197. 📚 docs: update README with setup steps
+0788. 📚 docs: add API usage examples
