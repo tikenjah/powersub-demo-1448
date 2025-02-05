@@ -9338,3 +9338,4 @@
 0648. ♻️ chore: bump dependencies
 0819. 🚀 perf: reduce image load time
 0433. 🐛 fix: prevent crash on empty input
+0737. 🐛 fix: handle 500 error in quiz API
