@@ -8321,3 +8321,4 @@
 0594. 🎨 style: reformat files with black
 0406. ✨ feat: add export to CSV option
 0084. 🐛 fix: handle 500 error in quiz API
+0743. 🎨 style: apply consistent indentation
