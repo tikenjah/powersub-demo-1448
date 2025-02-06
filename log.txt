@@ -1609,3 +1609,4 @@
 0837. 🚀 perf: cache repeated calculations
 0574. ✨ feat: enable dark mode toggle
 0246. ✅ test: add integration test for /submit endpoint
+0440. 📚 docs: update README with setup steps
