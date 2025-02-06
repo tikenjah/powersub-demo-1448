@@ -7320,3 +7320,4 @@
 0862. ♻️ chore: bump dependencies
 0722. 📚 docs: add API usage examples
 0217. 🚀 perf: reduce image load time
+0954. 🚀 perf: cache repeated calculations
