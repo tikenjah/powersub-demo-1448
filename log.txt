@@ -1612,3 +1612,4 @@
 0440. 📚 docs: update README with setup steps
 0848. 📚 docs: update README with setup steps
 0267. 📚 docs: improve code comments in utils
+0599. ✅ test: test user registration edge cases
