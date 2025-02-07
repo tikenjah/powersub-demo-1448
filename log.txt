@@ -1621,3 +1621,4 @@
 0378. 🐛 fix: prevent crash on empty input
 0789. ✨ feat: create admin dashboard
 0402. 🎨 style: reformat files with black
+0263. 📚 docs: add API usage examples
