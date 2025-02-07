@@ -1615,3 +1615,4 @@
 0599. ✅ test: test user registration edge cases
 0115. 🚀 perf: reduce image load time
 0328. 🐛 fix: resolve issue with date parsing
+0433. 🐛 fix: prevent crash on empty input
