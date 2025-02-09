@@ -7331,3 +7331,4 @@
 0588. 🔧 refactor: organize models into subfolders
 0212. 🎨 style: standardize quote style
 0369. 🎨 style: standardize quote style
+0589. 🐛 fix: fix broken CSS in mobile view
