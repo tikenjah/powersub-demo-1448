@@ -1654,3 +1654,4 @@
 0929. ✨ feat: support email verification
 0312. ✨ feat: add user authentication
 0363. 📚 docs: clarify environment setup
+0132. ✅ test: add unit test for quiz service
