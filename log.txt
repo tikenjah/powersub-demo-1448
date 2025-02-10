@@ -1649,3 +1649,4 @@
 0869. ♻️ chore: bump dependencies
 0042. 📚 docs: document token refresh logic
 0420. 🚀 perf: reduce image load time
+0721. 🚀 perf: optimize database query for quiz results
