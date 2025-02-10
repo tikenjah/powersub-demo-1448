@@ -1647,3 +1647,4 @@
 0666. 🐛 fix: fix broken CSS in mobile view
 0376. 🎨 style: apply consistent indentation
 0869. ♻️ chore: bump dependencies
+0042. 📚 docs: document token refresh logic
