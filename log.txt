@@ -1651,3 +1651,4 @@
 0420. 🚀 perf: reduce image load time
 0721. 🚀 perf: optimize database query for quiz results
 0290. ✅ test: test user registration edge cases
+0929. ✨ feat: support email verification
