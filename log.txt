@@ -1658,3 +1658,4 @@
 0205. 📚 docs: update README with setup steps
 0032. 🎨 style: apply consistent indentation
 0591. ♻️ chore: clean up unused files
+0422. 🔧 refactor: organize models into subfolders
