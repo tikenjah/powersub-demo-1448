@@ -10352,3 +10352,4 @@
 0249. ✅ test: increase coverage on auth module
 0895. ✨ feat: support email verification
 0387. ✨ feat: enable dark mode toggle
+0147. ♻️ chore: bump dependencies
