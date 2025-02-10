@@ -9350,3 +9350,4 @@
 0385. ♻️ chore: clean up unused files
 0552. 🐛 fix: fix null pointer exception on login
 0843. 📚 docs: document token refresh logic
+0880. 🐛 fix: fix broken CSS in mobile view
