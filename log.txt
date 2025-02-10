@@ -7333,3 +7333,4 @@
 0369. 🎨 style: standardize quote style
 0589. 🐛 fix: fix broken CSS in mobile view
 0244. ✨ feat: add export to CSV option
+0790. 📚 docs: write FAQ section
