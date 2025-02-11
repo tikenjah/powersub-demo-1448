@@ -7337,3 +7337,4 @@
 0973. 🔧 refactor: organize models into subfolders
 0054. ♻️ chore: update .gitignore
 0758. 🚀 perf: optimize database query for quiz results
+0491. 🚀 perf: lazy-load components
