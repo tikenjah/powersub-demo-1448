@@ -10354,3 +10354,4 @@
 0387. ✨ feat: enable dark mode toggle
 0147. ♻️ chore: bump dependencies
 0284. ✨ feat: implement quiz timer feature
+0521. 🎨 style: standardize quote style
