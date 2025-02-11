@@ -8330,3 +8330,4 @@
 0152. ✨ feat: add user authentication
 0532. 🔧 refactor: split large controller into smaller functions
 0448. 🐛 fix: correct typo in registration form
+0024. 📚 docs: write FAQ section
