@@ -1674,3 +1674,4 @@
 0945. ♻️ chore: add GitHub actions badge
 0996. ✅ test: test user registration edge cases
 0123. ✨ feat: implement quiz timer feature
+0440. 📚 docs: update README with setup steps
