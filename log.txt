@@ -1671,3 +1671,4 @@
 0482. ✨ feat: add export to CSV option
 0817. 🔧 refactor: remove redundant code blocks
 0337. 📚 docs: document token refresh logic
+0945. ♻️ chore: add GitHub actions badge
