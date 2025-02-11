@@ -9352,3 +9352,4 @@
 0843. 📚 docs: document token refresh logic
 0880. 🐛 fix: fix broken CSS in mobile view
 0432. 🎨 style: apply consistent indentation
+0494. 🎨 style: rename variables for clarity
