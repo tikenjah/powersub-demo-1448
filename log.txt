@@ -8331,3 +8331,4 @@
 0532. 🔧 refactor: split large controller into smaller functions
 0448. 🐛 fix: correct typo in registration form
 0024. 📚 docs: write FAQ section
+0970. ♻️ chore: update .gitignore
