@@ -1685,3 +1685,4 @@
 0401. 🚀 perf: reduce image load time
 0647. 🐛 fix: prevent crash on empty input
 0030. 🐛 fix: fix null pointer exception on login
+0926. 🔧 refactor: organize models into subfolders
