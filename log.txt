@@ -1679,3 +1679,4 @@
 0159. 🚀 perf: lazy-load components
 0794. ♻️ chore: clean up unused files
 0843. 📚 docs: document token refresh logic
+0738. 🐛 fix: prevent crash on empty input
