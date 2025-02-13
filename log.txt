@@ -8334,3 +8334,4 @@
 0970. ♻️ chore: update .gitignore
 0285. 🐛 fix: resolve issue with date parsing
 0337. 📚 docs: document token refresh logic
+0041. 🐛 fix: fix broken CSS in mobile view
