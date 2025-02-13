@@ -1701,3 +1701,4 @@
 0108. 🎨 style: remove trailing whitespace
 0919. 🚀 perf: optimize database query for quiz results
 0068. 🐛 fix: fix null pointer exception on login
+0849. 🐛 fix: correct typo in registration form
