@@ -1687,3 +1687,4 @@
 0030. 🐛 fix: fix null pointer exception on login
 0926. 🔧 refactor: organize models into subfolders
 0921. 🐛 fix: correct typo in registration form
+0439. 🐛 fix: correct typo in registration form
