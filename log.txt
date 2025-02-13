@@ -1699,3 +1699,4 @@
 0713. 🐛 fix: handle 500 error in quiz API
 0774. 🔧 refactor: refactor quiz grading logic
 0108. 🎨 style: remove trailing whitespace
+0919. 🚀 perf: optimize database query for quiz results
