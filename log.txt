@@ -9356,3 +9356,4 @@
 0221. ✨ feat: add user authentication
 0502. 📚 docs: update README with setup steps
 0609. 🐛 fix: handle 500 error in quiz API
+0271. ✅ test: add unit test for quiz service
