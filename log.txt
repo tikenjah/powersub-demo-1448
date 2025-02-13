@@ -8333,3 +8333,4 @@
 0024. 📚 docs: write FAQ section
 0970. ♻️ chore: update .gitignore
 0285. 🐛 fix: resolve issue with date parsing
+0337. 📚 docs: document token refresh logic
