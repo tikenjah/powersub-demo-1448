@@ -1698,3 +1698,4 @@
 0100. ♻️ chore: update .gitignore
 0713. 🐛 fix: handle 500 error in quiz API
 0774. 🔧 refactor: refactor quiz grading logic
+0108. 🎨 style: remove trailing whitespace
