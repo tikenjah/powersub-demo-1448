@@ -1696,3 +1696,4 @@
 0385. ♻️ chore: clean up unused files
 0676. 🐛 fix: prevent crash on empty input
 0100. ♻️ chore: update .gitignore
+0713. 🐛 fix: handle 500 error in quiz API
