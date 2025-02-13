@@ -1700,3 +1700,4 @@
 0774. 🔧 refactor: refactor quiz grading logic
 0108. 🎨 style: remove trailing whitespace
 0919. 🚀 perf: optimize database query for quiz results
+0068. 🐛 fix: fix null pointer exception on login
