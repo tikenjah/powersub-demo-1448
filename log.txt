@@ -1690,3 +1690,4 @@
 0439. 🐛 fix: correct typo in registration form
 0343. 🚀 perf: optimize database query for quiz results
 0904. ✨ feat: implement quiz timer feature
+0769. ✨ feat: create admin dashboard
