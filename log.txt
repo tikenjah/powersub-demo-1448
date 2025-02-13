@@ -1694,3 +1694,4 @@
 0881. 🔧 refactor: split large controller into smaller functions
 0381. ♻️ chore: clean up unused files
 0385. ♻️ chore: clean up unused files
+0676. 🐛 fix: prevent crash on empty input
