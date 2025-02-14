@@ -1703,3 +1703,4 @@
 0068. 🐛 fix: fix null pointer exception on login
 0849. 🐛 fix: correct typo in registration form
 0975. 🎨 style: apply consistent indentation
+0688. 🚀 perf: reduce image load time
