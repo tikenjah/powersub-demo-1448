@@ -10361,3 +10361,4 @@
 0224. 🐛 fix: fix broken CSS in mobile view
 0428. 🐛 fix: fix null pointer exception on login
 0499. 🎨 style: reformat files with black
+0194. 🎨 style: standardize quote style
