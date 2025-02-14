@@ -1704,3 +1704,4 @@
 0849. 🐛 fix: correct typo in registration form
 0975. 🎨 style: apply consistent indentation
 0688. 🚀 perf: reduce image load time
+0981. 🚀 perf: lazy-load components
