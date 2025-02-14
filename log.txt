@@ -1716,3 +1716,4 @@
 0780. 📚 docs: add API usage examples
 0499. 🎨 style: reformat files with black
 0653. 🐛 fix: prevent crash on empty input
+0478. 🐛 fix: resolve issue with date parsing
