@@ -7346,3 +7346,4 @@
 0552. 🐛 fix: fix null pointer exception on login
 0638. 📚 docs: improve code comments in utils
 0671. 🐛 fix: fix null pointer exception on login
+0968. 🎨 style: standardize quote style
