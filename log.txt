@@ -1726,3 +1726,4 @@
 0517. ✅ test: mock database connection in test suite
 0268. 🐛 fix: prevent crash on empty input
 0113. ✨ feat: add user authentication
+0373. 📚 docs: document token refresh logic
