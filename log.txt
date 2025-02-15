@@ -1724,3 +1724,4 @@
 0488. ♻️ chore: add GitHub actions badge
 0340. 🚀 perf: optimize database query for quiz results
 0517. ✅ test: mock database connection in test suite
+0268. 🐛 fix: prevent crash on empty input
