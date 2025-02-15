@@ -6360,3 +6360,4 @@
 0425. 🔧 refactor: refactor quiz grading logic
 0210. 🎨 style: apply consistent indentation
 0773. 📚 docs: document token refresh logic
+0469. 🚀 perf: lazy-load components
