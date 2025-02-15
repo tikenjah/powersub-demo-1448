@@ -1721,3 +1721,4 @@
 0440. 📚 docs: update README with setup steps
 0656. 🎨 style: apply consistent indentation
 0028. 🎨 style: standardize quote style
+0488. ♻️ chore: add GitHub actions badge
