@@ -1731,3 +1731,4 @@
 0357. ✅ test: add unit test for quiz service
 0733. 🐛 fix: fix null pointer exception on login
 0552. 🐛 fix: fix null pointer exception on login
+0744. 🔧 refactor: remove redundant code blocks
