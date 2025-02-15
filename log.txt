@@ -8339,3 +8339,4 @@
 0251. ♻️ chore: update .gitignore
 0589. 🐛 fix: fix broken CSS in mobile view
 0453. 🎨 style: standardize quote style
+0359. 🔧 refactor: clean up auth middleware
