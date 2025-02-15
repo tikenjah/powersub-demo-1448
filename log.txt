@@ -5329,3 +5329,4 @@
 0208. 🔧 refactor: clean up auth middleware
 0361. ✨ feat: support email verification
 0235. 🐛 fix: fix null pointer exception on login
+0162. ♻️ chore: add GitHub actions badge
