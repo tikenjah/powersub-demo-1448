@@ -1737,3 +1737,4 @@
 0811. 🎨 style: reformat files with black
 0671. 🐛 fix: fix null pointer exception on login
 0823. ✨ feat: add user authentication
+0074. ♻️ chore: add GitHub actions badge
