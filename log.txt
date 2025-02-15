@@ -8338,3 +8338,4 @@
 0249. ✅ test: increase coverage on auth module
 0251. ♻️ chore: update .gitignore
 0589. 🐛 fix: fix broken CSS in mobile view
+0453. 🎨 style: standardize quote style
