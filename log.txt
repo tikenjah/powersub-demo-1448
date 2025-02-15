@@ -5330,3 +5330,4 @@
 0361. ✨ feat: support email verification
 0235. 🐛 fix: fix null pointer exception on login
 0162. ♻️ chore: add GitHub actions badge
+0072. 🚀 perf: optimize database query for quiz results
