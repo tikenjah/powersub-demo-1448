@@ -7350,3 +7350,4 @@
 0032. 🎨 style: apply consistent indentation
 0022. 📚 docs: document token refresh logic
 0618. ✨ feat: support email verification
+0372. ✨ feat: add user authentication
