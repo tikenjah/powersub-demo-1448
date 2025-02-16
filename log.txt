@@ -10363,3 +10363,4 @@
 0499. 🎨 style: reformat files with black
 0194. 🎨 style: standardize quote style
 0888. 🚀 perf: lazy-load components
+0900. 🐛 fix: handle 500 error in quiz API
