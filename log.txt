@@ -8344,3 +8344,4 @@
 0580. ♻️ chore: bump dependencies
 0033. 🎨 style: apply consistent indentation
 0505. ♻️ chore: add GitHub actions badge
+0754. 🐛 fix: handle 500 error in quiz API
