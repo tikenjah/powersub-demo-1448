@@ -1741,3 +1741,4 @@
 0157. ✅ test: mock database connection in test suite
 0717. 🔧 refactor: refactor quiz grading logic
 0698. 🐛 fix: handle 500 error in quiz API
+0263. 📚 docs: add API usage examples
