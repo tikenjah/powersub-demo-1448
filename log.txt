@@ -1743,3 +1743,4 @@
 0698. 🐛 fix: handle 500 error in quiz API
 0263. 📚 docs: add API usage examples
 0075. ✅ test: mock database connection in test suite
+0364. 🐛 fix: resolve issue with date parsing
