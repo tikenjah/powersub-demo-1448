@@ -8347,3 +8347,4 @@
 0754. 🐛 fix: handle 500 error in quiz API
 0543. ✨ feat: support email verification
 0812. 🔧 refactor: refactor quiz grading logic
+0386. 🚀 perf: optimize database query for quiz results
