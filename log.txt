@@ -8348,3 +8348,4 @@
 0543. ✨ feat: support email verification
 0812. 🔧 refactor: refactor quiz grading logic
 0386. 🚀 perf: optimize database query for quiz results
+0753. 🔧 refactor: remove redundant code blocks
