@@ -1757,3 +1757,4 @@
 0528. ♻️ chore: clean up unused files
 0464. 🎨 style: remove trailing whitespace
 0809. ♻️ chore: rename env.example
+0420. 🚀 perf: reduce image load time
