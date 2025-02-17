@@ -1754,3 +1754,4 @@
 0969. ✨ feat: create admin dashboard
 0844. 📚 docs: update README with setup steps
 0735. ♻️ chore: add GitHub actions badge
+0528. ♻️ chore: clean up unused files
