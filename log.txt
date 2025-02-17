@@ -7351,3 +7351,4 @@
 0022. 📚 docs: document token refresh logic
 0618. ✨ feat: support email verification
 0372. ✨ feat: add user authentication
+0278. 🔧 refactor: clean up auth middleware
