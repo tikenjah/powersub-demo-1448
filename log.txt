@@ -9362,3 +9362,4 @@
 0144. ✅ test: increase coverage on auth module
 0206. 🐛 fix: handle 500 error in quiz API
 0228. 🔧 refactor: remove redundant code blocks
+0896. 🚀 perf: reduce image load time
