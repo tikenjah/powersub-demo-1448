@@ -6366,3 +6366,4 @@
 0351. ✨ feat: add export to CSV option
 0471. ✨ feat: support email verification
 0256. ✅ test: mock database connection in test suite
+0594. 🎨 style: reformat files with black
