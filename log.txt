@@ -1763,3 +1763,4 @@
 0664. ✅ test: add unit test for quiz service
 0745. ✅ test: add unit test for quiz service
 0889. 🚀 perf: lazy-load components
+0709. ♻️ chore: bump dependencies
