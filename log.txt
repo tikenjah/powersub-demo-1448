@@ -1767,3 +1767,4 @@
 0325. 🎨 style: rename variables for clarity
 0979. 🎨 style: standardize quote style
 0639. 🐛 fix: correct typo in registration form
+0144. ✅ test: increase coverage on auth module
