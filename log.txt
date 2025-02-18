@@ -1769,3 +1769,4 @@
 0639. 🐛 fix: correct typo in registration form
 0144. ✅ test: increase coverage on auth module
 0363. 📚 docs: clarify environment setup
+0283. ♻️ chore: add GitHub actions badge
