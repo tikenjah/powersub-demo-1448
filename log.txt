@@ -7353,3 +7353,4 @@
 0372. ✨ feat: add user authentication
 0278. 🔧 refactor: clean up auth middleware
 0523. ♻️ chore: bump dependencies
+0937. 🐛 fix: handle 500 error in quiz API
