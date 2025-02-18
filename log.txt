@@ -10368,3 +10368,4 @@
 0634. 🎨 style: reformat files with black
 0746. ♻️ chore: add GitHub actions badge
 0491. 🚀 perf: lazy-load components
+0041. 🐛 fix: fix broken CSS in mobile view
