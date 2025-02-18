@@ -9368,3 +9368,4 @@
 0882. 🚀 perf: optimize database query for quiz results
 0196. ♻️ chore: bump dependencies
 0977. 🔧 refactor: organize models into subfolders
+0922. 📚 docs: write FAQ section
