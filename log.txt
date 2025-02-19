@@ -6373,3 +6373,4 @@
 0611. ✅ test: test user registration edge cases
 0151. ✅ test: add unit test for quiz service
 0330. ✅ test: test user registration edge cases
+0830. 🎨 style: apply consistent indentation
