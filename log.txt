@@ -1788,3 +1788,4 @@
 0556. ✨ feat: support email verification
 0949. 📚 docs: write FAQ section
 0412. ✅ test: increase coverage on auth module
+0727. ♻️ chore: add GitHub actions badge
