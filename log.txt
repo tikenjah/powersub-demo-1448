@@ -1785,3 +1785,4 @@
 0616. 🚀 perf: lazy-load components
 0064. 📚 docs: clarify environment setup
 0076. 🎨 style: reformat files with black
+0556. ✨ feat: support email verification
