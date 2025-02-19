@@ -1792,3 +1792,4 @@
 0964. ♻️ chore: clean up unused files
 0221. ✨ feat: add user authentication
 0012. 🚀 perf: cache repeated calculations
+0048. 📚 docs: update README with setup steps
