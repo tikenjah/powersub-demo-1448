@@ -1783,3 +1783,4 @@
 0207. 🐛 fix: prevent crash on empty input
 0039. ✅ test: add integration test for /submit endpoint
 0616. 🚀 perf: lazy-load components
+0064. 📚 docs: clarify environment setup
