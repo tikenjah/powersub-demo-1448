@@ -1790,3 +1790,4 @@
 0412. ✅ test: increase coverage on auth module
 0727. ♻️ chore: add GitHub actions badge
 0964. ♻️ chore: clean up unused files
+0221. ✨ feat: add user authentication
