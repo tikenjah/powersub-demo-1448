@@ -1787,3 +1787,4 @@
 0076. 🎨 style: reformat files with black
 0556. ✨ feat: support email verification
 0949. 📚 docs: write FAQ section
+0412. ✅ test: increase coverage on auth module
