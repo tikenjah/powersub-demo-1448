@@ -1782,3 +1782,4 @@
 0574. ✨ feat: enable dark mode toggle
 0207. 🐛 fix: prevent crash on empty input
 0039. ✅ test: add integration test for /submit endpoint
+0616. 🚀 perf: lazy-load components
