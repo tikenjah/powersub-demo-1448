@@ -6375,3 +6375,4 @@
 0330. ✅ test: test user registration edge cases
 0830. 🎨 style: apply consistent indentation
 0868. ✅ test: add unit test for quiz service
+0698. 🐛 fix: handle 500 error in quiz API
