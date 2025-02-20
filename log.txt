@@ -9372,3 +9372,4 @@
 0941. 🚀 perf: cache repeated calculations
 0142. ✨ feat: implement quiz timer feature
 0889. 🚀 perf: lazy-load components
+0801. ✨ feat: enable dark mode toggle
