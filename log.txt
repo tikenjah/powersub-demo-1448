@@ -1800,3 +1800,4 @@
 0020. ✅ test: add integration test for /submit endpoint
 0239. 🎨 style: standardize quote style
 0530. 🔧 refactor: refactor quiz grading logic
+0053. ✅ test: increase coverage on auth module
