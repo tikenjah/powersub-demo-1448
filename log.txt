@@ -10376,3 +10376,4 @@
 0503. ♻️ chore: rename env.example
 0775. 🐛 fix: fix null pointer exception on login
 0301. 🎨 style: apply consistent indentation
+0337. 📚 docs: document token refresh logic
