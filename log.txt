@@ -10380,3 +10380,4 @@
 0383. 🐛 fix: fix broken CSS in mobile view
 0172. 📚 docs: add API usage examples
 0347. ♻️ chore: update .gitignore
+0116. ✨ feat: support email verification
