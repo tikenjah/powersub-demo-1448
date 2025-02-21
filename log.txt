@@ -7360,3 +7360,4 @@
 0145. 📚 docs: improve code comments in utils
 0007. 🎨 style: rename variables for clarity
 0583. ✅ test: increase coverage on auth module
+0270. ♻️ chore: rename env.example
