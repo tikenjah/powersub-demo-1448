@@ -8359,3 +8359,4 @@
 0371. ✅ test: add integration test for /submit endpoint
 0795. 📚 docs: update README with setup steps
 0853. 🔧 refactor: refactor quiz grading logic
+0610. 🚀 perf: lazy-load components
