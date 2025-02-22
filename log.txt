@@ -1818,3 +1818,4 @@
 0757. 🔧 refactor: remove redundant code blocks
 0700. 🎨 style: rename variables for clarity
 0076. 🎨 style: reformat files with black
+0824. 🚀 perf: lazy-load components
