@@ -6385,3 +6385,4 @@
 0324. 📚 docs: document token refresh logic
 0588. 🔧 refactor: organize models into subfolders
 0826. 📚 docs: clarify environment setup
+0730. ✅ test: test user registration edge cases
