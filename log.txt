@@ -6383,3 +6383,4 @@
 0868. ✅ test: add unit test for quiz service
 0520. 🐛 fix: fix null pointer exception on login
 0324. 📚 docs: document token refresh logic
+0588. 🔧 refactor: organize models into subfolders
