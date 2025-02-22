@@ -7364,3 +7364,4 @@
 0194. 🎨 style: standardize quote style
 0875. ✅ test: increase coverage on auth module
 0343. 🚀 perf: optimize database query for quiz results
+0959. 🐛 fix: fix null pointer exception on login
