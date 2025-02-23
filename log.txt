@@ -1828,3 +1828,4 @@
 0283. ♻️ chore: add GitHub actions badge
 0834. ✅ test: increase coverage on auth module
 0161. ✨ feat: create admin dashboard
+0280. ✅ test: add integration test for /submit endpoint
