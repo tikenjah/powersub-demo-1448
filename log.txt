@@ -6387,3 +6387,4 @@
 0826. 📚 docs: clarify environment setup
 0730. ✅ test: test user registration edge cases
 0755. 🚀 perf: cache repeated calculations
+0778. 📚 docs: write FAQ section
