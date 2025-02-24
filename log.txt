@@ -1839,3 +1839,4 @@
 0453. 🎨 style: standardize quote style
 0097. 🐛 fix: handle 500 error in quiz API
 0606. 📚 docs: improve code comments in utils
+0894. ✅ test: add integration test for /submit endpoint
