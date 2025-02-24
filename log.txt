@@ -1851,3 +1851,4 @@
 0970. ♻️ chore: update .gitignore
 0865. ♻️ chore: add GitHub actions badge
 0339. 📚 docs: update README with setup steps
+0793. 📚 docs: clarify environment setup
