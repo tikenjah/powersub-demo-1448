@@ -1861,3 +1861,4 @@
 0196. ♻️ chore: bump dependencies
 0632. 🎨 style: remove trailing whitespace
 0572. ✨ feat: add user authentication
+0041. 🐛 fix: fix broken CSS in mobile view
