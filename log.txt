@@ -1860,3 +1860,4 @@
 0751. 🐛 fix: handle 500 error in quiz API
 0196. ♻️ chore: bump dependencies
 0632. 🎨 style: remove trailing whitespace
+0572. ✨ feat: add user authentication
