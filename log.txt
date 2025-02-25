@@ -6390,3 +6390,4 @@
 0778. 📚 docs: write FAQ section
 0199. ✨ feat: create admin dashboard
 0465. 🎨 style: rename variables for clarity
+0200. 🐛 fix: handle 500 error in quiz API
