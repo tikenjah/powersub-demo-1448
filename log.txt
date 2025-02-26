@@ -1878,3 +1878,4 @@
 0914. ✅ test: test user registration edge cases
 0187. ✨ feat: support email verification
 0429. ✨ feat: add user authentication
+0049. 🐛 fix: handle 500 error in quiz API
