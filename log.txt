@@ -1877,3 +1877,4 @@
 0940. 📚 docs: document token refresh logic
 0914. ✅ test: test user registration edge cases
 0187. ✨ feat: support email verification
+0429. ✨ feat: add user authentication
