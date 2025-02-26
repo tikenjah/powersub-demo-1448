@@ -1873,3 +1873,4 @@
 0383. 🐛 fix: fix broken CSS in mobile view
 0253. 📚 docs: update README with setup steps
 0209. ✨ feat: implement quiz timer feature
+0612. ✅ test: test user registration edge cases
