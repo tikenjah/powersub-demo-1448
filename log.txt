@@ -8379,3 +8379,4 @@
 0818. 🔧 refactor: remove redundant code blocks
 0608. 🔧 refactor: remove redundant code blocks
 0749. ✨ feat: support email verification
+0808. 🚀 perf: optimize database query for quiz results
