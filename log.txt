@@ -5361,3 +5361,4 @@
 0354. 📚 docs: add API usage examples
 0841. 🚀 perf: optimize database query for quiz results
 0040. 🔧 refactor: clean up auth middleware
+0613. 🐛 fix: prevent crash on empty input
