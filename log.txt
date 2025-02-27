@@ -6395,3 +6395,4 @@
 0202. 🔧 refactor: refactor quiz grading logic
 0351. ✨ feat: add export to CSV option
 0269. ✅ test: test user registration edge cases
+0456. 🚀 perf: optimize database query for quiz results
