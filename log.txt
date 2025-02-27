@@ -1887,3 +1887,4 @@
 0617. ✨ feat: support email verification
 0163. ✨ feat: implement quiz timer feature
 0202. 🔧 refactor: refactor quiz grading logic
+0066. 🔧 refactor: clean up auth middleware
