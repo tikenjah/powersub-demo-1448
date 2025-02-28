@@ -1897,3 +1897,4 @@
 0766. 🎨 style: reformat files with black
 0819. 🚀 perf: reduce image load time
 0754. 🐛 fix: handle 500 error in quiz API
+0461. ✨ feat: add user authentication
