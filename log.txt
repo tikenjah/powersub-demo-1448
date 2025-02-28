@@ -9388,3 +9388,4 @@
 0997. ✅ test: increase coverage on auth module
 0711. 🐛 fix: fix broken CSS in mobile view
 0515. 🚀 perf: optimize database query for quiz results
+0226. 🚀 perf: lazy-load components
