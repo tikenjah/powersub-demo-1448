@@ -1891,3 +1891,4 @@
 0612. ✅ test: test user registration edge cases
 0251. ♻️ chore: update .gitignore
 0364. 🐛 fix: resolve issue with date parsing
+0257. 📚 docs: clarify environment setup
