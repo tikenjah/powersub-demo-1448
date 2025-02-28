@@ -1894,3 +1894,4 @@
 0257. 📚 docs: clarify environment setup
 0250. 📚 docs: update README with setup steps
 0363. 📚 docs: clarify environment setup
+0766. 🎨 style: reformat files with black
