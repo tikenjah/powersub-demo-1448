@@ -1892,3 +1892,4 @@
 0251. ♻️ chore: update .gitignore
 0364. 🐛 fix: resolve issue with date parsing
 0257. 📚 docs: clarify environment setup
+0250. 📚 docs: update README with setup steps
