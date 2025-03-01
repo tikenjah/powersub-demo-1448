@@ -1909,3 +1909,4 @@
 0199. ✨ feat: create admin dashboard
 0197. 📚 docs: update README with setup steps
 0105. 🐛 fix: correct typo in registration form
+0291. 📚 docs: write FAQ section
