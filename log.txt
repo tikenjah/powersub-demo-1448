@@ -1906,3 +1906,4 @@
 0127. 🐛 fix: fix null pointer exception on login
 0607. 🐛 fix: prevent crash on empty input
 0374. 🎨 style: standardize quote style
+0199. ✨ feat: create admin dashboard
