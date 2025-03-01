@@ -1907,3 +1907,4 @@
 0607. 🐛 fix: prevent crash on empty input
 0374. 🎨 style: standardize quote style
 0199. ✨ feat: create admin dashboard
+0197. 📚 docs: update README with setup steps
