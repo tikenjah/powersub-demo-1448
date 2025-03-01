@@ -8392,3 +8392,4 @@
 0395. 📚 docs: write FAQ section
 0594. 🎨 style: reformat files with black
 0268. 🐛 fix: prevent crash on empty input
+0946. ✅ test: add unit test for quiz service
