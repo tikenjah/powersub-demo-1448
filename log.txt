@@ -1912,3 +1912,4 @@
 0291. 📚 docs: write FAQ section
 0752. ✅ test: add integration test for /submit endpoint
 0991. ♻️ chore: clean up unused files
+0485. 📚 docs: update README with setup steps
