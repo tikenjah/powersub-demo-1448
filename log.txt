@@ -8390,3 +8390,4 @@
 0228. 🔧 refactor: remove redundant code blocks
 0092. 🚀 perf: reduce image load time
 0395. 📚 docs: write FAQ section
+0594. 🎨 style: reformat files with black
