@@ -1918,3 +1918,4 @@
 0522. 🐛 fix: handle 500 error in quiz API
 0899. 🚀 perf: cache repeated calculations
 0489. 🔧 refactor: organize models into subfolders
+0169. 📚 docs: add API usage examples
