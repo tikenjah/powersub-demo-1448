@@ -5370,3 +5370,4 @@
 0247. 🎨 style: apply consistent indentation
 0008. 🚀 perf: reduce image load time
 0718. 🐛 fix: resolve issue with date parsing
+0270. ♻️ chore: rename env.example
