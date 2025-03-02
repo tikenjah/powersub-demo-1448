@@ -1920,3 +1920,4 @@
 0489. 🔧 refactor: organize models into subfolders
 0169. 📚 docs: add API usage examples
 0091. ✨ feat: add user authentication
+0178. ✨ feat: support email verification
