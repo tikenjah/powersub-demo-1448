@@ -7385,3 +7385,4 @@
 0221. ✨ feat: add user authentication
 0424. ✨ feat: add user authentication
 0240. 🔧 refactor: remove redundant code blocks
+0335. ♻️ chore: update .gitignore
