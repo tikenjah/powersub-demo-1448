@@ -7384,3 +7384,4 @@
 0005. ✅ test: add unit test for quiz service
 0221. ✨ feat: add user authentication
 0424. ✨ feat: add user authentication
+0240. 🔧 refactor: remove redundant code blocks
