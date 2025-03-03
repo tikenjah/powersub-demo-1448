@@ -1931,3 +1931,4 @@
 0331. 🐛 fix: fix broken CSS in mobile view
 0013. ✅ test: increase coverage on auth module
 0709. ♻️ chore: bump dependencies
+0788. 📚 docs: add API usage examples
