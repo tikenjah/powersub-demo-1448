@@ -5373,3 +5373,4 @@
 0270. ♻️ chore: rename env.example
 0245. 🐛 fix: resolve issue with date parsing
 0908. ♻️ chore: bump dependencies
+0939. 📚 docs: update README with setup steps
