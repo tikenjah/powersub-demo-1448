@@ -1928,3 +1928,4 @@
 0343. 🚀 perf: optimize database query for quiz results
 0525. ✅ test: mock database connection in test suite
 0062. ♻️ chore: update .gitignore
+0331. 🐛 fix: fix broken CSS in mobile view
