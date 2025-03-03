@@ -6410,3 +6410,4 @@
 0148. 🔧 refactor: organize models into subfolders
 0333. 🚀 perf: cache repeated calculations
 0406. ✨ feat: add export to CSV option
+0052. 🎨 style: standardize quote style
