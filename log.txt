@@ -1929,3 +1929,4 @@
 0525. ✅ test: mock database connection in test suite
 0062. ♻️ chore: update .gitignore
 0331. 🐛 fix: fix broken CSS in mobile view
+0013. ✅ test: increase coverage on auth module
