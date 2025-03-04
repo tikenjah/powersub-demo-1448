@@ -7389,3 +7389,4 @@
 0830. 🎨 style: apply consistent indentation
 0703. 🔧 refactor: clean up auth middleware
 0957. 🐛 fix: fix null pointer exception on login
+0268. 🐛 fix: prevent crash on empty input
