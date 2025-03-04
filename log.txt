@@ -1957,3 +1957,4 @@
 0205. 📚 docs: update README with setup steps
 0639. 🐛 fix: correct typo in registration form
 0717. 🔧 refactor: refactor quiz grading logic
+0861. ♻️ chore: clean up unused files
