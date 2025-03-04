@@ -6412,3 +6412,4 @@
 0406. ✨ feat: add export to CSV option
 0052. 🎨 style: standardize quote style
 0087. ✨ feat: add export to CSV option
+0613. 🐛 fix: prevent crash on empty input
