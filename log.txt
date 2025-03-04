@@ -8395,3 +8395,4 @@
 0946. ✅ test: add unit test for quiz service
 0824. 🚀 perf: lazy-load components
 0693. 📚 docs: add API usage examples
+0710. 🐛 fix: fix broken CSS in mobile view
