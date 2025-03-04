@@ -5377,3 +5377,4 @@
 0097. 🐛 fix: handle 500 error in quiz API
 0088. 📚 docs: add API usage examples
 0445. 📚 docs: improve code comments in utils
+0279. ✨ feat: support email verification
