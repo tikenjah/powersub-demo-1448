@@ -1949,3 +1949,4 @@
 0220. 🐛 fix: fix null pointer exception on login
 0339. 📚 docs: update README with setup steps
 0023. 📚 docs: clarify environment setup
+0200. 🐛 fix: handle 500 error in quiz API
