@@ -1947,3 +1947,4 @@
 0460. 📚 docs: write FAQ section
 0905. ♻️ chore: bump dependencies
 0220. 🐛 fix: fix null pointer exception on login
+0339. 📚 docs: update README with setup steps
