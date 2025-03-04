@@ -1942,3 +1942,4 @@
 0558. ✨ feat: enable dark mode toggle
 0586. 🎨 style: remove trailing whitespace
 0472. 🐛 fix: fix null pointer exception on login
+0940. 📚 docs: document token refresh logic
