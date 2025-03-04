@@ -7392,3 +7392,4 @@
 0268. 🐛 fix: prevent crash on empty input
 0869. ♻️ chore: bump dependencies
 0835. 🐛 fix: prevent crash on empty input
+0605. ✨ feat: support email verification
