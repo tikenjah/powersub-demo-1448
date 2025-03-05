@@ -1965,3 +1965,4 @@
 0602. 🔧 refactor: remove redundant code blocks
 0524. ♻️ chore: rename env.example
 0446. 🎨 style: apply consistent indentation
+0040. 🔧 refactor: clean up auth middleware
