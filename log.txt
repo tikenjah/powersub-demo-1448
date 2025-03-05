@@ -1964,3 +1964,4 @@
 0301. 🎨 style: apply consistent indentation
 0602. 🔧 refactor: remove redundant code blocks
 0524. ♻️ chore: rename env.example
+0446. 🎨 style: apply consistent indentation
