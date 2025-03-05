@@ -9399,3 +9399,4 @@
 0564. 📚 docs: clarify environment setup
 0079. 🐛 fix: correct typo in registration form
 0561. 📚 docs: write FAQ section
+0139. 📚 docs: document token refresh logic
