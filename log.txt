@@ -10406,3 +10406,4 @@
 0028. 🎨 style: standardize quote style
 0766. 🎨 style: reformat files with black
 0082. 🔧 refactor: refactor quiz grading logic
+0293. ✅ test: add integration test for /submit endpoint
