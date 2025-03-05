@@ -1970,3 +1970,4 @@
 0793. 📚 docs: clarify environment setup
 0362. 📚 docs: add API usage examples
 0768. 🎨 style: remove trailing whitespace
+0276. ✅ test: add integration test for /submit endpoint
