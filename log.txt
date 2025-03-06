@@ -1981,3 +1981,4 @@
 0435. ✅ test: add unit test for quiz service
 0399. ✅ test: mock database connection in test suite
 0519. 📚 docs: document token refresh logic
+0003. ✅ test: increase coverage on auth module
