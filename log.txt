@@ -9400,3 +9400,4 @@
 0079. 🐛 fix: correct typo in registration form
 0561. 📚 docs: write FAQ section
 0139. 📚 docs: document token refresh logic
+0440. 📚 docs: update README with setup steps
