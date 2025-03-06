@@ -10409,3 +10409,4 @@
 0293. ✅ test: add integration test for /submit endpoint
 0948. 🐛 fix: fix broken CSS in mobile view
 0294. 🐛 fix: prevent crash on empty input
+0372. ✨ feat: add user authentication
