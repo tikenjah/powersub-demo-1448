@@ -1986,3 +1986,4 @@
 0951. 🎨 style: rename variables for clarity
 0231. 🔧 refactor: clean up auth middleware
 0667. ✨ feat: add export to CSV option
+0830. 🎨 style: apply consistent indentation
