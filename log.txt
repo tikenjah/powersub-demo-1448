@@ -1985,3 +1985,4 @@
 0898. 🐛 fix: fix broken CSS in mobile view
 0951. 🎨 style: rename variables for clarity
 0231. 🔧 refactor: clean up auth middleware
+0667. ✨ feat: add export to CSV option
