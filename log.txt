@@ -1980,3 +1980,4 @@
 0002. 🚀 perf: cache repeated calculations
 0435. ✅ test: add unit test for quiz service
 0399. ✅ test: mock database connection in test suite
+0519. 📚 docs: document token refresh logic
