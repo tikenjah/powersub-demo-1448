@@ -9406,3 +9406,4 @@
 0214. 📚 docs: improve code comments in utils
 0365. 🚀 perf: reduce image load time
 0580. ♻️ chore: bump dependencies
+0222. 🐛 fix: handle 500 error in quiz API
