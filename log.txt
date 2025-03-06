@@ -1982,3 +1982,4 @@
 0399. ✅ test: mock database connection in test suite
 0519. 📚 docs: document token refresh logic
 0003. ✅ test: increase coverage on auth module
+0898. 🐛 fix: fix broken CSS in mobile view
