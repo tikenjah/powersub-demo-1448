@@ -1994,3 +1994,4 @@
 0386. 🚀 perf: optimize database query for quiz results
 0233. 🚀 perf: lazy-load components
 0469. 🚀 perf: lazy-load components
+0922. 📚 docs: write FAQ section
