@@ -10413,3 +10413,4 @@
 0590. 🐛 fix: fix null pointer exception on login
 0606. 📚 docs: improve code comments in utils
 0050. ✨ feat: enable dark mode toggle
+0825. 🔧 refactor: split large controller into smaller functions
