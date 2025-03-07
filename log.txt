@@ -1990,3 +1990,4 @@
 0672. 🐛 fix: fix broken CSS in mobile view
 0087. ✨ feat: add export to CSV option
 0605. ✨ feat: support email verification
+0470. 🎨 style: remove trailing whitespace
