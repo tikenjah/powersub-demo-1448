@@ -1998,3 +1998,4 @@
 0409. 🚀 perf: lazy-load components
 0299. 🐛 fix: resolve issue with date parsing
 0463. 🚀 perf: reduce image load time
+0391. 🐛 fix: fix null pointer exception on login
