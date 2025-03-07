@@ -10412,3 +10412,4 @@
 0372. ✨ feat: add user authentication
 0590. 🐛 fix: fix null pointer exception on login
 0606. 📚 docs: improve code comments in utils
+0050. ✨ feat: enable dark mode toggle
