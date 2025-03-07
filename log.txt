@@ -7397,3 +7397,4 @@
 0173. 🚀 perf: cache repeated calculations
 0366. 🔧 refactor: remove redundant code blocks
 0484. 🐛 fix: handle 500 error in quiz API
+0657. 🎨 style: standardize quote style
