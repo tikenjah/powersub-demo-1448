@@ -9415,3 +9415,4 @@
 0309. 🔧 refactor: refactor quiz grading logic
 0610. 🚀 perf: lazy-load components
 0832. 🔧 refactor: remove redundant code blocks
+0945. ♻️ chore: add GitHub actions badge
