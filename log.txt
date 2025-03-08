@@ -2007,3 +2007,4 @@
 0931. 🚀 perf: reduce image load time
 0431. 🎨 style: reformat files with black
 0177. 📚 docs: add API usage examples
+0973. 🔧 refactor: organize models into subfolders
