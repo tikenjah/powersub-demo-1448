@@ -2006,3 +2006,4 @@
 0356. 📚 docs: write FAQ section
 0931. 🚀 perf: reduce image load time
 0431. 🎨 style: reformat files with black
+0177. 📚 docs: add API usage examples
