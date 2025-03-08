@@ -2002,3 +2002,4 @@
 0922. 📚 docs: write FAQ section
 0908. ♻️ chore: bump dependencies
 0809. ♻️ chore: rename env.example
+0384. 📚 docs: clarify environment setup
