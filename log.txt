@@ -2004,3 +2004,4 @@
 0809. ♻️ chore: rename env.example
 0384. 📚 docs: clarify environment setup
 0356. 📚 docs: write FAQ section
+0931. 🚀 perf: reduce image load time
