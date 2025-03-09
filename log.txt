@@ -2019,3 +2019,4 @@
 0885. ♻️ chore: update .gitignore
 0774. 🔧 refactor: refactor quiz grading logic
 0308. 🚀 perf: reduce image load time
+0871. ✅ test: add integration test for /submit endpoint
