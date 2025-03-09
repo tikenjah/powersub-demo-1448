@@ -6429,3 +6429,4 @@
 0040. 🔧 refactor: clean up auth middleware
 0440. 📚 docs: update README with setup steps
 0924. ✅ test: mock database connection in test suite
+0020. ✅ test: add integration test for /submit endpoint
