@@ -8408,3 +8408,4 @@
 0933. 📚 docs: clarify environment setup
 0080. ✨ feat: support email verification
 0907. 🔧 refactor: split large controller into smaller functions
+0697. ♻️ chore: bump dependencies
