@@ -2018,3 +2018,4 @@
 0452. ✨ feat: implement quiz timer feature
 0885. ♻️ chore: update .gitignore
 0774. 🔧 refactor: refactor quiz grading logic
+0308. 🚀 perf: reduce image load time
