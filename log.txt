@@ -10418,3 +10418,4 @@
 0408. ♻️ chore: add GitHub actions badge
 0235. 🐛 fix: fix null pointer exception on login
 0784. ♻️ chore: clean up unused files
+0438. ♻️ chore: bump dependencies
