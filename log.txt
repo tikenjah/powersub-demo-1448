@@ -2009,3 +2009,4 @@
 0177. 📚 docs: add API usage examples
 0973. 🔧 refactor: organize models into subfolders
 0789. ✨ feat: create admin dashboard
+0377. ✨ feat: add user authentication
