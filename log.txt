@@ -7408,3 +7408,4 @@
 0254. 🚀 perf: reduce image load time
 0841. 🚀 perf: optimize database query for quiz results
 0279. ✨ feat: support email verification
+0595. ✨ feat: enable dark mode toggle
