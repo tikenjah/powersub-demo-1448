@@ -2032,3 +2032,4 @@
 0384. 📚 docs: clarify environment setup
 0410. 🎨 style: reformat files with black
 0388. 🎨 style: reformat files with black
+0207. 🐛 fix: prevent crash on empty input
