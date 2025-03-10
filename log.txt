@@ -2023,3 +2023,4 @@
 0303. 🎨 style: rename variables for clarity
 0365. 🚀 perf: reduce image load time
 0989. 📚 docs: write FAQ section
+0451. ✨ feat: support email verification
