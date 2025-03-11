@@ -2048,3 +2048,4 @@
 0003. ✅ test: increase coverage on auth module
 0153. ♻️ chore: rename env.example
 0687. 🎨 style: remove trailing whitespace
+0090. ✅ test: increase coverage on auth module
