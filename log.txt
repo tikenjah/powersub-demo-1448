@@ -7413,3 +7413,4 @@
 0111. 📚 docs: update README with setup steps
 0339. 📚 docs: update README with setup steps
 0475. 🔧 refactor: clean up auth middleware
+0641. 📚 docs: write FAQ section
