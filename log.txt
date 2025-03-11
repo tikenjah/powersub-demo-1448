@@ -2044,3 +2044,4 @@
 0433. 🐛 fix: prevent crash on empty input
 0717. 🔧 refactor: refactor quiz grading logic
 0162. ♻️ chore: add GitHub actions badge
+0759. 🔧 refactor: organize models into subfolders
