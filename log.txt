@@ -5403,3 +5403,4 @@
 0063. 🐛 fix: handle 500 error in quiz API
 0606. 📚 docs: improve code comments in utils
 0379. ✨ feat: support email verification
+0466. 🚀 perf: optimize database query for quiz results
