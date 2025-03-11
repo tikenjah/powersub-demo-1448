@@ -7410,3 +7410,4 @@
 0279. ✨ feat: support email verification
 0595. ✨ feat: enable dark mode toggle
 0630. 🚀 perf: lazy-load components
+0111. 📚 docs: update README with setup steps
