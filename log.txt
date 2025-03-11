@@ -2045,3 +2045,4 @@
 0717. 🔧 refactor: refactor quiz grading logic
 0162. ♻️ chore: add GitHub actions badge
 0759. 🔧 refactor: organize models into subfolders
+0003. ✅ test: increase coverage on auth module
