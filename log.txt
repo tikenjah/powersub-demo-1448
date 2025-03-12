@@ -2056,3 +2056,4 @@
 0159. 🚀 perf: lazy-load components
 0287. 📚 docs: write FAQ section
 0715. ✨ feat: create admin dashboard
+0152. ✨ feat: add user authentication
