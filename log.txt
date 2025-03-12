@@ -2057,3 +2057,4 @@
 0287. 📚 docs: write FAQ section
 0715. ✨ feat: create admin dashboard
 0152. ✨ feat: add user authentication
+0562. 🔧 refactor: clean up auth middleware
