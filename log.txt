@@ -5405,3 +5405,4 @@
 0379. ✨ feat: support email verification
 0466. 🚀 perf: optimize database query for quiz results
 0721. 🚀 perf: optimize database query for quiz results
+0609. 🐛 fix: handle 500 error in quiz API
