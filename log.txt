@@ -6436,3 +6436,4 @@
 0005. ✅ test: add unit test for quiz service
 0010. ✨ feat: add user authentication
 0090. ✅ test: increase coverage on auth module
+0223. 🔧 refactor: remove redundant code blocks
