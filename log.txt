@@ -8416,3 +8416,4 @@
 0084. 🐛 fix: handle 500 error in quiz API
 0414. 🔧 refactor: remove redundant code blocks
 0716. ✨ feat: implement quiz timer feature
+0809. ♻️ chore: rename env.example
