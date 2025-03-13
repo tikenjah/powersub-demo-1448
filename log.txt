@@ -9424,3 +9424,4 @@
 0274. 🔧 refactor: refactor quiz grading logic
 0652. 🔧 refactor: organize models into subfolders
 0985. 📚 docs: document token refresh logic
+0599. ✅ test: test user registration edge cases
