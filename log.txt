@@ -2070,3 +2070,4 @@
 0146. 🎨 style: apply consistent indentation
 0505. ♻️ chore: add GitHub actions badge
 0764. ✨ feat: add user authentication
+0208. 🔧 refactor: clean up auth middleware
