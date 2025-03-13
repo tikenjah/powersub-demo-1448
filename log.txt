@@ -2069,3 +2069,4 @@
 0881. 🔧 refactor: split large controller into smaller functions
 0146. 🎨 style: apply consistent indentation
 0505. ♻️ chore: add GitHub actions badge
+0764. ✨ feat: add user authentication
