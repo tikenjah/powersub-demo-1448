@@ -2083,3 +2083,4 @@
 0349. ✅ test: increase coverage on auth module
 0122. ✨ feat: support email verification
 0990. ♻️ chore: rename env.example
+0918. ✨ feat: enable dark mode toggle
