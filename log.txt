@@ -2080,3 +2080,4 @@
 0166. 🚀 perf: cache repeated calculations
 0133. 🐛 fix: fix null pointer exception on login
 0752. ✅ test: add integration test for /submit endpoint
+0349. ✅ test: increase coverage on auth module
