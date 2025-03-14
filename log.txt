@@ -2079,3 +2079,4 @@
 0490. ✨ feat: create admin dashboard
 0166. 🚀 perf: cache repeated calculations
 0133. 🐛 fix: fix null pointer exception on login
+0752. ✅ test: add integration test for /submit endpoint
