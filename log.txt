@@ -2082,3 +2082,4 @@
 0752. ✅ test: add integration test for /submit endpoint
 0349. ✅ test: increase coverage on auth module
 0122. ✨ feat: support email verification
+0990. ♻️ chore: rename env.example
