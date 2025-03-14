@@ -5415,3 +5415,4 @@
 0767. 🔧 refactor: remove redundant code blocks
 0566. 📚 docs: write FAQ section
 0349. ✅ test: increase coverage on auth module
+0011. ✅ test: add unit test for quiz service
