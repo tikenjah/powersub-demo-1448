@@ -5414,3 +5414,4 @@
 0984. ♻️ chore: clean up unused files
 0767. 🔧 refactor: remove redundant code blocks
 0566. 📚 docs: write FAQ section
+0349. ✅ test: increase coverage on auth module
