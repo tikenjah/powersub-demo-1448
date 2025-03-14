@@ -6448,3 +6448,4 @@
 0486. ✨ feat: add export to CSV option
 0185. 📚 docs: write FAQ section
 0219. ✅ test: increase coverage on auth module
+0689. 🎨 style: reformat files with black
