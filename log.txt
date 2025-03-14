@@ -2090,3 +2090,4 @@
 0307. ✨ feat: support email verification
 0247. 🎨 style: apply consistent indentation
 0182. 🔧 refactor: remove redundant code blocks
+0675. 🔧 refactor: organize models into subfolders
