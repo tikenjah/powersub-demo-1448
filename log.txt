@@ -10430,3 +10430,4 @@
 0133. 🐛 fix: fix null pointer exception on login
 0556. ✨ feat: support email verification
 0198. 📚 docs: clarify environment setup
+0529. 📚 docs: write FAQ section
