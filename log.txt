@@ -2092,3 +2092,4 @@
 0182. 🔧 refactor: remove redundant code blocks
 0675. 🔧 refactor: organize models into subfolders
 0873. 🚀 perf: cache repeated calculations
+0988. 🐛 fix: fix broken CSS in mobile view
