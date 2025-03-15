@@ -6451,3 +6451,4 @@
 0689. 🎨 style: reformat files with black
 0103. 🔧 refactor: remove redundant code blocks
 0925. ✨ feat: add export to CSV option
+0931. 🚀 perf: reduce image load time
