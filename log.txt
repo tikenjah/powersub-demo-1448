@@ -6450,3 +6450,4 @@
 0219. ✅ test: increase coverage on auth module
 0689. 🎨 style: reformat files with black
 0103. 🔧 refactor: remove redundant code blocks
+0925. ✨ feat: add export to CSV option
