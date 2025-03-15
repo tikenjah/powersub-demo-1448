@@ -10431,3 +10431,4 @@
 0556. ✨ feat: support email verification
 0198. 📚 docs: clarify environment setup
 0529. 📚 docs: write FAQ section
+0300. ✨ feat: add export to CSV option
