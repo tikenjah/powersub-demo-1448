@@ -2098,3 +2098,4 @@
 0829. 🔧 refactor: organize models into subfolders
 0801. ✨ feat: enable dark mode toggle
 0604. 📚 docs: add API usage examples
+0974. ✨ feat: add export to CSV option
