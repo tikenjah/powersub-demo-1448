@@ -2101,3 +2101,4 @@
 0974. ✨ feat: add export to CSV option
 0529. 📚 docs: write FAQ section
 0626. 🎨 style: standardize quote style
+0909. 🔧 refactor: organize models into subfolders
