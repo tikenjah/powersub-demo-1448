@@ -2102,3 +2102,4 @@
 0529. 📚 docs: write FAQ section
 0626. 🎨 style: standardize quote style
 0909. 🔧 refactor: organize models into subfolders
+0066. 🔧 refactor: clean up auth middleware
