@@ -7422,3 +7422,4 @@
 0283. ♻️ chore: add GitHub actions badge
 0481. ✅ test: add unit test for quiz service
 0405. ✅ test: mock database connection in test suite
+0433. 🐛 fix: prevent crash on empty input
