@@ -7421,3 +7421,4 @@
 0597. 🚀 perf: cache repeated calculations
 0283. ♻️ chore: add GitHub actions badge
 0481. ✅ test: add unit test for quiz service
+0405. ✅ test: mock database connection in test suite
