@@ -8428,3 +8428,4 @@
 0823. ✨ feat: add user authentication
 0001. 🚀 perf: cache repeated calculations
 0977. 🔧 refactor: organize models into subfolders
+0589. 🐛 fix: fix broken CSS in mobile view
