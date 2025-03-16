@@ -2121,3 +2121,4 @@
 0542. 🔧 refactor: organize models into subfolders
 0415. 🐛 fix: handle 500 error in quiz API
 0192. ✨ feat: enable dark mode toggle
+0136. 🚀 perf: lazy-load components
