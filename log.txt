@@ -2112,3 +2112,4 @@
 0875. ✅ test: increase coverage on auth module
 0870. ♻️ chore: clean up unused files
 0213. ✅ test: add integration test for /submit endpoint
+0828. ♻️ chore: add GitHub actions badge
