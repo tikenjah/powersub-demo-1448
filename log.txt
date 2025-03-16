@@ -7423,3 +7423,4 @@
 0481. ✅ test: add unit test for quiz service
 0405. ✅ test: mock database connection in test suite
 0433. 🐛 fix: prevent crash on empty input
+0406. ✨ feat: add export to CSV option
