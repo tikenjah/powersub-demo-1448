@@ -10434,3 +10434,4 @@
 0300. ✨ feat: add export to CSV option
 0159. 🚀 perf: lazy-load components
 0641. 📚 docs: write FAQ section
+0088. 📚 docs: add API usage examples
