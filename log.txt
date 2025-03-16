@@ -5419,3 +5419,4 @@
 0689. 🎨 style: reformat files with black
 0985. 📚 docs: document token refresh logic
 0825. 🔧 refactor: split large controller into smaller functions
+0639. 🐛 fix: correct typo in registration form
