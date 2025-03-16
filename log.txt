@@ -8431,3 +8431,4 @@
 0589. 🐛 fix: fix broken CSS in mobile view
 0988. 🐛 fix: fix broken CSS in mobile view
 0185. 📚 docs: write FAQ section
+0902. ✨ feat: enable dark mode toggle
