@@ -2138,3 +2138,4 @@
 0220. 🐛 fix: fix null pointer exception on login
 0543. ✨ feat: support email verification
 0064. 📚 docs: clarify environment setup
+0819. 🚀 perf: reduce image load time
