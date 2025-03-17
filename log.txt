@@ -6455,3 +6455,4 @@
 0956. 📚 docs: clarify environment setup
 0290. ✅ test: test user registration edge cases
 0265. 🎨 style: reformat files with black
+0345. 📚 docs: document token refresh logic
