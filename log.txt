@@ -9431,3 +9431,4 @@
 0633. ✨ feat: add user authentication
 0134. ✨ feat: implement quiz timer feature
 0467. ✅ test: add integration test for /submit endpoint
+0698. 🐛 fix: handle 500 error in quiz API
