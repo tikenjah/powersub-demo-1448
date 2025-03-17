@@ -2145,3 +2145,4 @@
 0393. 🚀 perf: lazy-load components
 0968. 🎨 style: standardize quote style
 0524. ♻️ chore: rename env.example
+0958. 🐛 fix: prevent crash on empty input
