@@ -2142,3 +2142,4 @@
 0099. 🚀 perf: reduce image load time
 0124. 🎨 style: reformat files with black
 0017. ✅ test: mock database connection in test suite
+0393. 🚀 perf: lazy-load components
