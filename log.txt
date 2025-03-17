@@ -6457,3 +6457,4 @@
 0265. 🎨 style: reformat files with black
 0345. 📚 docs: document token refresh logic
 0212. 🎨 style: standardize quote style
+0926. 🔧 refactor: organize models into subfolders
