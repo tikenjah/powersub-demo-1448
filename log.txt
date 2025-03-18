@@ -6460,3 +6460,4 @@
 0926. 🔧 refactor: organize models into subfolders
 0816. 🔧 refactor: organize models into subfolders
 0840. 🔧 refactor: refactor quiz grading logic
+0525. ✅ test: mock database connection in test suite
