@@ -2161,3 +2161,4 @@
 0984. ♻️ chore: clean up unused files
 0145. 📚 docs: improve code comments in utils
 0311. 🎨 style: apply consistent indentation
+0097. 🐛 fix: handle 500 error in quiz API
