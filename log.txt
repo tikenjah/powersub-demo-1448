@@ -2149,3 +2149,4 @@
 0858. ♻️ chore: clean up unused files
 0202. 🔧 refactor: refactor quiz grading logic
 0199. ✨ feat: create admin dashboard
+0484. 🐛 fix: handle 500 error in quiz API
