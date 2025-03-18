@@ -5423,3 +5423,4 @@
 0192. ✨ feat: enable dark mode toggle
 0582. ✨ feat: add export to CSV option
 0036. 🔧 refactor: clean up auth middleware
+0471. ✨ feat: support email verification
