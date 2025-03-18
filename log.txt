@@ -2154,3 +2154,4 @@
 0317. ✅ test: test user registration edge cases
 0580. ♻️ chore: bump dependencies
 0717. 🔧 refactor: refactor quiz grading logic
+0896. 🚀 perf: reduce image load time
