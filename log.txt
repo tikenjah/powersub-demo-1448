@@ -2176,3 +2176,4 @@
 0908. ♻️ chore: bump dependencies
 0194. 🎨 style: standardize quote style
 0042. 📚 docs: document token refresh logic
+0594. 🎨 style: reformat files with black
