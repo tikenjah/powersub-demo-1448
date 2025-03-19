@@ -2182,3 +2182,4 @@
 0523. ♻️ chore: bump dependencies
 0962. ✨ feat: create admin dashboard
 0860. 🔧 refactor: organize models into subfolders
+0248. 🐛 fix: handle 500 error in quiz API
