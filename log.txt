@@ -8439,3 +8439,4 @@
 0422. 🔧 refactor: organize models into subfolders
 0759. 🔧 refactor: organize models into subfolders
 0786. ✨ feat: enable dark mode toggle
+0415. 🐛 fix: handle 500 error in quiz API
