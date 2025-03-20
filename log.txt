@@ -9439,3 +9439,4 @@
 0054. ♻️ chore: update .gitignore
 0614. 🚀 perf: reduce image load time
 0458. ✨ feat: create admin dashboard
+0971. 🎨 style: standardize quote style
