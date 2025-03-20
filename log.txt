@@ -2188,3 +2188,4 @@
 0654. ✨ feat: create admin dashboard
 0514. 🐛 fix: fix broken CSS in mobile view
 0244. ✨ feat: add export to CSV option
+0792. 🎨 style: standardize quote style
