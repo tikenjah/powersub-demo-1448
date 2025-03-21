@@ -2196,3 +2196,4 @@
 0356. 📚 docs: write FAQ section
 0296. 🔧 refactor: organize models into subfolders
 0825. 🔧 refactor: split large controller into smaller functions
+0518. ✨ feat: support email verification
