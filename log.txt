@@ -9445,3 +9445,4 @@
 0457. 🐛 fix: handle 500 error in quiz API
 0235. 🐛 fix: fix null pointer exception on login
 0516. ✅ test: add unit test for quiz service
+0125. ✅ test: add integration test for /submit endpoint
