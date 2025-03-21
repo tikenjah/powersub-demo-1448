@@ -6472,3 +6472,4 @@
 0060. ♻️ chore: clean up unused files
 0311. 🎨 style: apply consistent indentation
 0155. ✨ feat: create admin dashboard
+0136. 🚀 perf: lazy-load components
