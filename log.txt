@@ -9441,3 +9441,4 @@
 0458. ✨ feat: create admin dashboard
 0971. 🎨 style: standardize quote style
 0628. ♻️ chore: add GitHub actions badge
+0090. ✅ test: increase coverage on auth module
