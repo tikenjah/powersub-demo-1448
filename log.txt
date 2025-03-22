@@ -2209,3 +2209,4 @@
 0408. ♻️ chore: add GitHub actions badge
 0772. 🐛 fix: fix null pointer exception on login
 0421. 🔧 refactor: split large controller into smaller functions
+0600. 🐛 fix: prevent crash on empty input
