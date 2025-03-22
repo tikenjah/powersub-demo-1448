@@ -2207,3 +2207,4 @@
 0799. ♻️ chore: clean up unused files
 0784. ♻️ chore: clean up unused files
 0408. ♻️ chore: add GitHub actions badge
+0772. 🐛 fix: fix null pointer exception on login
