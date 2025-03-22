@@ -2217,3 +2217,4 @@
 0492. 🎨 style: remove trailing whitespace
 0948. 🐛 fix: fix broken CSS in mobile view
 0072. 🚀 perf: optimize database query for quiz results
+0434. 📚 docs: document token refresh logic
