@@ -2215,3 +2215,4 @@
 0147. ♻️ chore: bump dependencies
 0083. 🎨 style: reformat files with black
 0492. 🎨 style: remove trailing whitespace
+0948. 🐛 fix: fix broken CSS in mobile view
