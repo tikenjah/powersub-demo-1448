@@ -9449,3 +9449,4 @@
 0205. 📚 docs: update README with setup steps
 0762. 🚀 perf: lazy-load components
 0391. 🐛 fix: fix null pointer exception on login
+0680. ♻️ chore: add GitHub actions badge
