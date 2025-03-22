@@ -2220,3 +2220,4 @@
 0434. 📚 docs: document token refresh logic
 0467. ✅ test: add integration test for /submit endpoint
 0273. 🚀 perf: reduce image load time
+0412. ✅ test: increase coverage on auth module
