@@ -10449,3 +10449,4 @@
 0465. 🎨 style: rename variables for clarity
 0970. ♻️ chore: update .gitignore
 0488. ♻️ chore: add GitHub actions badge
+0149. ✨ feat: add export to CSV option
