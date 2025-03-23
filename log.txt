@@ -10452,3 +10452,4 @@
 0149. ✨ feat: add export to CSV option
 0839. 🎨 style: apply consistent indentation
 0698. 🐛 fix: handle 500 error in quiz API
+0960. ✅ test: increase coverage on auth module
