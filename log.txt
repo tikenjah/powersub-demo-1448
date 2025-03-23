@@ -8448,3 +8448,4 @@
 0401. 🚀 perf: reduce image load time
 0833. ✨ feat: add user authentication
 0497. 🔧 refactor: refactor quiz grading logic
+0678. ✨ feat: add user authentication
