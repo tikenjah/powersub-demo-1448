@@ -2222,3 +2222,4 @@
 0273. 🚀 perf: reduce image load time
 0412. ✅ test: increase coverage on auth module
 0576. ♻️ chore: update .gitignore
+0974. ✨ feat: add export to CSV option
