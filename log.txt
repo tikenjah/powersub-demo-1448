@@ -10455,3 +10455,4 @@
 0960. ✅ test: increase coverage on auth module
 0910. 🎨 style: remove trailing whitespace
 0544. 🔧 refactor: organize models into subfolders
+0794. ♻️ chore: clean up unused files
