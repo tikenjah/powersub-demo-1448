@@ -9454,3 +9454,4 @@
 0153. ♻️ chore: rename env.example
 0083. 🎨 style: reformat files with black
 0217. 🚀 perf: reduce image load time
+0953. 🎨 style: remove trailing whitespace
