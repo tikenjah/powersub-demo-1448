@@ -2248,3 +2248,4 @@
 0900. 🐛 fix: handle 500 error in quiz API
 0708. ✅ test: add integration test for /submit endpoint
 0342. 🚀 perf: cache repeated calculations
+0008. 🚀 perf: reduce image load time
