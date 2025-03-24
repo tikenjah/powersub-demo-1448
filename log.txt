@@ -2240,3 +2240,4 @@
 0861. ♻️ chore: clean up unused files
 0769. ✨ feat: create admin dashboard
 0464. 🎨 style: remove trailing whitespace
+0050. ✨ feat: enable dark mode toggle
