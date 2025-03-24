@@ -2239,3 +2239,4 @@
 0100. ♻️ chore: update .gitignore
 0861. ♻️ chore: clean up unused files
 0769. ✨ feat: create admin dashboard
+0464. 🎨 style: remove trailing whitespace
