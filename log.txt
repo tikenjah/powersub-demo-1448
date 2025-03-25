@@ -6486,3 +6486,4 @@
 0953. 🎨 style: remove trailing whitespace
 0885. ♻️ chore: update .gitignore
 0388. 🎨 style: reformat files with black
+0055. 📚 docs: update README with setup steps
