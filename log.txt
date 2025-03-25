@@ -2253,3 +2253,4 @@
 0999. 🔧 refactor: split large controller into smaller functions
 0382. 📚 docs: improve code comments in utils
 0217. 🚀 perf: reduce image load time
+0843. 📚 docs: document token refresh logic
