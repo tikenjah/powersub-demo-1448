@@ -2273,3 +2273,4 @@
 0995. ✅ test: mock database connection in test suite
 0360. ✨ feat: add export to CSV option
 0200. 🐛 fix: handle 500 error in quiz API
+0763. 🔧 refactor: organize models into subfolders
