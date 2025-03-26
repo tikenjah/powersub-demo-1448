@@ -2266,3 +2266,4 @@
 0287. 📚 docs: write FAQ section
 0753. 🔧 refactor: remove redundant code blocks
 0530. 🔧 refactor: refactor quiz grading logic
+0961. 📚 docs: add API usage examples
