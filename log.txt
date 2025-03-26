@@ -10461,3 +10461,4 @@
 0428. 🐛 fix: fix null pointer exception on login
 0461. ✨ feat: add user authentication
 0760. 🐛 fix: resolve issue with date parsing
+0059. ♻️ chore: bump dependencies
