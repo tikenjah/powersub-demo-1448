@@ -2268,3 +2268,4 @@
 0530. 🔧 refactor: refactor quiz grading logic
 0961. 📚 docs: add API usage examples
 0892. ✅ test: add unit test for quiz service
+0573. ✅ test: add integration test for /submit endpoint
