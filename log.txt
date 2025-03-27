@@ -6491,3 +6491,4 @@
 0663. 🚀 perf: reduce image load time
 0291. 📚 docs: write FAQ section
 0643. 🎨 style: apply consistent indentation
+0040. 🔧 refactor: clean up auth middleware
