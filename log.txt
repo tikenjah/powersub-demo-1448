@@ -2277,3 +2277,4 @@
 0547. 📚 docs: write FAQ section
 0553. 🐛 fix: correct typo in registration form
 0022. 📚 docs: document token refresh logic
+0263. 📚 docs: add API usage examples
