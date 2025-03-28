@@ -8463,3 +8463,4 @@
 0858. ♻️ chore: clean up unused files
 0559. 🔧 refactor: split large controller into smaller functions
 0772. 🐛 fix: fix null pointer exception on login
+0227. ✅ test: test user registration edge cases
