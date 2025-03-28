@@ -10466,3 +10466,4 @@
 0358. 🚀 perf: reduce image load time
 0734. ✨ feat: add export to CSV option
 0760. 🐛 fix: resolve issue with date parsing
+0237. 🎨 style: standardize quote style
