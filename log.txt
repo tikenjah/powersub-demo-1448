@@ -2300,3 +2300,4 @@
 0571. 🔧 refactor: clean up auth middleware
 0895. ✨ feat: support email verification
 0688. 🚀 perf: reduce image load time
+0789. ✨ feat: create admin dashboard
