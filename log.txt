@@ -9463,3 +9463,4 @@
 0284. ✨ feat: implement quiz timer feature
 0486. ✨ feat: add export to CSV option
 0422. 🔧 refactor: organize models into subfolders
+0525. ✅ test: mock database connection in test suite
