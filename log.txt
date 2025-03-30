@@ -6500,3 +6500,4 @@
 0516. ✅ test: add unit test for quiz service
 0656. 🎨 style: apply consistent indentation
 0901. ✨ feat: add user authentication
+0466. 🚀 perf: optimize database query for quiz results
