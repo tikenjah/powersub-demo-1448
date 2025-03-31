@@ -5455,3 +5455,4 @@
 0432. 🎨 style: apply consistent indentation
 0720. ✨ feat: add export to CSV option
 0378. 🐛 fix: prevent crash on empty input
+0613. 🐛 fix: prevent crash on empty input
