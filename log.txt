@@ -2335,3 +2335,4 @@
 0096. 🐛 fix: prevent crash on empty input
 0293. ✅ test: add integration test for /submit endpoint
 0178. ✨ feat: support email verification
+0865. ♻️ chore: add GitHub actions badge
