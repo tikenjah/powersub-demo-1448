@@ -2337,3 +2337,4 @@
 0178. ✨ feat: support email verification
 0865. ♻️ chore: add GitHub actions badge
 0434. 📚 docs: document token refresh logic
+0096. 🐛 fix: prevent crash on empty input
