@@ -2329,3 +2329,4 @@
 0167. 🚀 perf: reduce image load time
 0304. 🔧 refactor: remove redundant code blocks
 0844. 📚 docs: update README with setup steps
+0756. ✨ feat: support email verification
