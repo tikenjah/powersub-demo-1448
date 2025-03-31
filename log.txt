@@ -10474,3 +10474,4 @@
 0263. 📚 docs: add API usage examples
 0961. 📚 docs: add API usage examples
 0730. ✅ test: test user registration edge cases
+0764. ✨ feat: add user authentication
