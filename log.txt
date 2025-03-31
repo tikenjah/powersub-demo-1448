@@ -5454,3 +5454,4 @@
 0794. ♻️ chore: clean up unused files
 0432. 🎨 style: apply consistent indentation
 0720. ✨ feat: add export to CSV option
+0378. 🐛 fix: prevent crash on empty input
