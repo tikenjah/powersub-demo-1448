@@ -2331,3 +2331,4 @@
 0844. 📚 docs: update README with setup steps
 0756. ✨ feat: support email verification
 0069. 🎨 style: rename variables for clarity
+0077. ♻️ chore: rename env.example
