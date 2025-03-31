@@ -8469,3 +8469,4 @@
 0178. ✨ feat: support email verification
 0598. 🔧 refactor: remove redundant code blocks
 0706. ✨ feat: support email verification
+0880. 🐛 fix: fix broken CSS in mobile view
