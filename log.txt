@@ -2357,3 +2357,4 @@
 0435. ✅ test: add unit test for quiz service
 0174. 📚 docs: clarify environment setup
 0188. 🎨 style: apply consistent indentation
+0084. 🐛 fix: handle 500 error in quiz API
