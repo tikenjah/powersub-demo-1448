@@ -7472,3 +7472,4 @@
 0177. 📚 docs: add API usage examples
 0093. ✅ test: add unit test for quiz service
 0513. ♻️ chore: bump dependencies
+0536. ✨ feat: add user authentication
