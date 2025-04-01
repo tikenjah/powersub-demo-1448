@@ -2341,3 +2341,4 @@
 0986. 📚 docs: document token refresh logic
 0062. ♻️ chore: update .gitignore
 0862. ♻️ chore: bump dependencies
+0798. 🚀 perf: reduce image load time
