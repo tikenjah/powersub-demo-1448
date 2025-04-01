@@ -10476,3 +10476,4 @@
 0730. ✅ test: test user registration edge cases
 0764. ✨ feat: add user authentication
 0118. 🚀 perf: reduce image load time
+0415. 🐛 fix: handle 500 error in quiz API
