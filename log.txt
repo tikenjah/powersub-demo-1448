@@ -6509,3 +6509,4 @@
 0600. 🐛 fix: prevent crash on empty input
 0311. 🎨 style: apply consistent indentation
 0933. 📚 docs: clarify environment setup
+0483. 📚 docs: update README with setup steps
