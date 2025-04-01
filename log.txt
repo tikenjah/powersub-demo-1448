@@ -9467,3 +9467,4 @@
 0030. 🐛 fix: fix null pointer exception on login
 0051. ✨ feat: enable dark mode toggle
 0867. 🔧 refactor: refactor quiz grading logic
+0319. 🐛 fix: handle 500 error in quiz API
