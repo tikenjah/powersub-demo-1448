@@ -2347,3 +2347,4 @@
 0928. 🎨 style: apply consistent indentation
 0796. 🔧 refactor: refactor quiz grading logic
 0898. 🐛 fix: fix broken CSS in mobile view
+0204. 🎨 style: standardize quote style
