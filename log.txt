@@ -2345,3 +2345,4 @@
 0987. ✨ feat: create admin dashboard
 0612. ✅ test: test user registration edge cases
 0928. 🎨 style: apply consistent indentation
+0796. 🔧 refactor: refactor quiz grading logic
