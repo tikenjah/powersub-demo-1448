@@ -2343,3 +2343,4 @@
 0862. ♻️ chore: bump dependencies
 0798. 🚀 perf: reduce image load time
 0987. ✨ feat: create admin dashboard
+0612. ✅ test: test user registration edge cases
