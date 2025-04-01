@@ -2353,3 +2353,4 @@
 0498. ✅ test: mock database connection in test suite
 0468. 📚 docs: update README with setup steps
 0022. 📚 docs: document token refresh logic
+0172. 📚 docs: add API usage examples
