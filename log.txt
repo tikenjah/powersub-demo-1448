@@ -2371,3 +2371,4 @@
 0587. 🔧 refactor: remove redundant code blocks
 0040. 🔧 refactor: clean up auth middleware
 0315. ✅ test: add integration test for /submit endpoint
+0923. ✨ feat: support email verification
