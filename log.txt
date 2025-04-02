@@ -5461,3 +5461,4 @@
 0455. ♻️ chore: clean up unused files
 0217. 🚀 perf: reduce image load time
 0618. ✨ feat: support email verification
+0852. ✨ feat: enable dark mode toggle
