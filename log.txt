@@ -2367,3 +2367,4 @@
 0400. 🐛 fix: fix null pointer exception on login
 0638. 📚 docs: improve code comments in utils
 0121. ✨ feat: support email verification
+0564. 📚 docs: clarify environment setup
