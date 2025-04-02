@@ -2376,3 +2376,4 @@
 0189. 📚 docs: clarify environment setup
 0128. ♻️ chore: rename env.example
 0839. 🎨 style: apply consistent indentation
+0021. ✨ feat: support email verification
