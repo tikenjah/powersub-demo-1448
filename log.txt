@@ -5462,3 +5462,4 @@
 0217. 🚀 perf: reduce image load time
 0618. ✨ feat: support email verification
 0852. ✨ feat: enable dark mode toggle
+0726. ✨ feat: enable dark mode toggle
