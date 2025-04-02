@@ -2379,3 +2379,4 @@
 0021. ✨ feat: support email verification
 0485. 📚 docs: update README with setup steps
 0502. 📚 docs: update README with setup steps
+0822. 🔧 refactor: remove redundant code blocks
