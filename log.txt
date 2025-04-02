@@ -5460,3 +5460,4 @@
 0713. 🐛 fix: handle 500 error in quiz API
 0455. ♻️ chore: clean up unused files
 0217. 🚀 perf: reduce image load time
+0618. ✨ feat: support email verification
