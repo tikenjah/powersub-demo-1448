@@ -5465,3 +5465,4 @@
 0726. ✨ feat: enable dark mode toggle
 0027. 📚 docs: clarify environment setup
 0489. 🔧 refactor: organize models into subfolders
+0423. ✅ test: mock database connection in test suite
