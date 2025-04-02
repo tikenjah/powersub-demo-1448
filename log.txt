@@ -6510,3 +6510,4 @@
 0311. 🎨 style: apply consistent indentation
 0933. 📚 docs: clarify environment setup
 0483. 📚 docs: update README with setup steps
+0339. 📚 docs: update README with setup steps
