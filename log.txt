@@ -2369,3 +2369,4 @@
 0121. ✨ feat: support email verification
 0564. 📚 docs: clarify environment setup
 0587. 🔧 refactor: remove redundant code blocks
+0040. 🔧 refactor: clean up auth middleware
