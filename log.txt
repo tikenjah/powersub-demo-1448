@@ -5463,3 +5463,4 @@
 0618. ✨ feat: support email verification
 0852. ✨ feat: enable dark mode toggle
 0726. ✨ feat: enable dark mode toggle
+0027. 📚 docs: clarify environment setup
