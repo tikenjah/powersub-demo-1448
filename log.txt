@@ -7478,3 +7478,4 @@
 0436. ✅ test: add integration test for /submit endpoint
 0390. 🎨 style: standardize quote style
 0165. 🎨 style: remove trailing whitespace
+0248. 🐛 fix: handle 500 error in quiz API
