@@ -2392,3 +2392,4 @@
 0972. 🔧 refactor: refactor quiz grading logic
 0908. ♻️ chore: bump dependencies
 0699. 🎨 style: standardize quote style
+0096. 🐛 fix: prevent crash on empty input
