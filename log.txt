@@ -10484,3 +10484,4 @@
 0609. 🐛 fix: handle 500 error in quiz API
 0474. ✅ test: add unit test for quiz service
 0033. 🎨 style: apply consistent indentation
+0097. 🐛 fix: handle 500 error in quiz API
