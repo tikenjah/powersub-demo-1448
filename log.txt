@@ -2388,3 +2388,4 @@
 0898. 🐛 fix: fix broken CSS in mobile view
 0702. ✨ feat: add user authentication
 0118. 🚀 perf: reduce image load time
+0842. 🎨 style: remove trailing whitespace
