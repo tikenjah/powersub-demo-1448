@@ -10481,3 +10481,4 @@
 0890. 🔧 refactor: organize models into subfolders
 0147. ♻️ chore: bump dependencies
 0542. 🔧 refactor: organize models into subfolders
+0609. 🐛 fix: handle 500 error in quiz API
