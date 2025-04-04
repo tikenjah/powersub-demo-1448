@@ -7481,3 +7481,4 @@
 0248. 🐛 fix: handle 500 error in quiz API
 0687. 🎨 style: remove trailing whitespace
 0762. 🚀 perf: lazy-load components
+0012. 🚀 perf: cache repeated calculations
