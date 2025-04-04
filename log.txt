@@ -6522,3 +6522,4 @@
 0326. 🚀 perf: cache repeated calculations
 0067. 🔧 refactor: remove redundant code blocks
 0556. ✨ feat: support email verification
+0275. 🎨 style: standardize quote style
