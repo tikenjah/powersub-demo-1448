@@ -2406,3 +2406,4 @@
 0325. 🎨 style: rename variables for clarity
 0576. ♻️ chore: update .gitignore
 0804. ♻️ chore: add GitHub actions badge
+0455. ♻️ chore: clean up unused files
