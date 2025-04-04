@@ -6521,3 +6521,4 @@
 0312. ✨ feat: add user authentication
 0326. 🚀 perf: cache repeated calculations
 0067. 🔧 refactor: remove redundant code blocks
+0556. ✨ feat: support email verification
