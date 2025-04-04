@@ -2407,3 +2407,4 @@
 0576. ♻️ chore: update .gitignore
 0804. ♻️ chore: add GitHub actions badge
 0455. ♻️ chore: clean up unused files
+0055. 📚 docs: update README with setup steps
