@@ -2413,3 +2413,4 @@
 0533. ♻️ chore: add GitHub actions badge
 0224. 🐛 fix: fix broken CSS in mobile view
 0470. 🎨 style: remove trailing whitespace
+0131. 📚 docs: write FAQ section
