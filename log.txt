@@ -7485,3 +7485,4 @@
 0838. 🎨 style: standardize quote style
 0162. ♻️ chore: add GitHub actions badge
 0495. 🔧 refactor: remove redundant code blocks
+0131. 📚 docs: write FAQ section
