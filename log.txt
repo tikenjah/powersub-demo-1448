@@ -2417,3 +2417,4 @@
 0484. 🐛 fix: handle 500 error in quiz API
 0756. ✨ feat: support email verification
 0226. 🚀 perf: lazy-load components
+0390. 🎨 style: standardize quote style
