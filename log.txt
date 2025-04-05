@@ -8482,3 +8482,4 @@
 0625. 🐛 fix: handle 500 error in quiz API
 0847. ♻️ chore: clean up unused files
 0561. 📚 docs: write FAQ section
+0330. ✅ test: test user registration edge cases
