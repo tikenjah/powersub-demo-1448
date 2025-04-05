@@ -2419,3 +2419,4 @@
 0226. 🚀 perf: lazy-load components
 0390. 🎨 style: standardize quote style
 0971. 🎨 style: standardize quote style
+0544. 🔧 refactor: organize models into subfolders
