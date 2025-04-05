@@ -7486,3 +7486,4 @@
 0162. ♻️ chore: add GitHub actions badge
 0495. 🔧 refactor: remove redundant code blocks
 0131. 📚 docs: write FAQ section
+0558. ✨ feat: enable dark mode toggle
