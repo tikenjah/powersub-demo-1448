@@ -6524,3 +6524,4 @@
 0556. ✨ feat: support email verification
 0275. 🎨 style: standardize quote style
 0822. 🔧 refactor: remove redundant code blocks
+0787. ♻️ chore: rename env.example
