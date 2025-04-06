@@ -2432,3 +2432,4 @@
 0700. 🎨 style: rename variables for clarity
 0028. 🎨 style: standardize quote style
 0701. 🔧 refactor: clean up auth middleware
+0503. ♻️ chore: rename env.example
