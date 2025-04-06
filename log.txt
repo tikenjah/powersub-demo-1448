@@ -5473,3 +5473,4 @@
 0855. 🎨 style: reformat files with black
 0961. 📚 docs: add API usage examples
 0863. 🐛 fix: correct typo in registration form
+0775. 🐛 fix: fix null pointer exception on login
