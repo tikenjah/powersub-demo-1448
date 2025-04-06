@@ -6525,3 +6525,4 @@
 0275. 🎨 style: standardize quote style
 0822. 🔧 refactor: remove redundant code blocks
 0787. ♻️ chore: rename env.example
+0422. 🔧 refactor: organize models into subfolders
