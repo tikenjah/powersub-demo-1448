@@ -9478,3 +9478,4 @@
 0942. ✅ test: increase coverage on auth module
 0976. ✨ feat: implement quiz timer feature
 0699. 🎨 style: standardize quote style
+0889. 🚀 perf: lazy-load components
