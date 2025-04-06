@@ -6527,3 +6527,4 @@
 0787. ♻️ chore: rename env.example
 0422. 🔧 refactor: organize models into subfolders
 0144. ✅ test: increase coverage on auth module
+0988. 🐛 fix: fix broken CSS in mobile view
