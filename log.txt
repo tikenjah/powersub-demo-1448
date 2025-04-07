@@ -7492,3 +7492,4 @@
 0166. 🚀 perf: cache repeated calculations
 0784. ♻️ chore: clean up unused files
 0329. 📚 docs: update README with setup steps
+0653. 🐛 fix: prevent crash on empty input
