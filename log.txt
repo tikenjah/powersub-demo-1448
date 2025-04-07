@@ -2445,3 +2445,4 @@
 0793. 📚 docs: clarify environment setup
 0845. 🚀 perf: cache repeated calculations
 0635. 🎨 style: apply consistent indentation
+0397. 🐛 fix: handle 500 error in quiz API
