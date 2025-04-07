@@ -7494,3 +7494,4 @@
 0329. 📚 docs: update README with setup steps
 0653. 🐛 fix: prevent crash on empty input
 0149. ✨ feat: add export to CSV option
+0234. ♻️ chore: rename env.example
