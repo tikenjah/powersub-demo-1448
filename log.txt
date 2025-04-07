@@ -5477,3 +5477,4 @@
 0483. 📚 docs: update README with setup steps
 0448. 🐛 fix: correct typo in registration form
 0149. ✨ feat: add export to CSV option
+0427. ✅ test: mock database connection in test suite
