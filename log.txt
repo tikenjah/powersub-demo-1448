@@ -2447,3 +2447,4 @@
 0635. 🎨 style: apply consistent indentation
 0397. 🐛 fix: handle 500 error in quiz API
 0967. ♻️ chore: add GitHub actions badge
+0809. ♻️ chore: rename env.example
