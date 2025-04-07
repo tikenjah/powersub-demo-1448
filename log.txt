@@ -10496,3 +10496,4 @@
 0272. 🔧 refactor: remove redundant code blocks
 0363. 📚 docs: clarify environment setup
 0076. 🎨 style: reformat files with black
+0973. 🔧 refactor: organize models into subfolders
