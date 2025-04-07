@@ -2450,3 +2450,4 @@
 0809. ♻️ chore: rename env.example
 0983. 🔧 refactor: split large controller into smaller functions
 0553. 🐛 fix: correct typo in registration form
+0988. 🐛 fix: fix broken CSS in mobile view
