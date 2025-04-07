@@ -5476,3 +5476,4 @@
 0775. 🐛 fix: fix null pointer exception on login
 0483. 📚 docs: update README with setup steps
 0448. 🐛 fix: correct typo in registration form
+0149. ✨ feat: add export to CSV option
