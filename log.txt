@@ -2442,3 +2442,4 @@
 0045. 🎨 style: apply consistent indentation
 0249. ✅ test: increase coverage on auth module
 0789. ✨ feat: create admin dashboard
+0793. 📚 docs: clarify environment setup
