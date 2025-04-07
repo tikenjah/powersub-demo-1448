@@ -2440,3 +2440,4 @@
 0291. 📚 docs: write FAQ section
 0945. ♻️ chore: add GitHub actions badge
 0045. 🎨 style: apply consistent indentation
+0249. ✅ test: increase coverage on auth module
