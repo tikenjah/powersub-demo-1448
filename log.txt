@@ -7491,3 +7491,4 @@
 0942. ✅ test: increase coverage on auth module
 0166. 🚀 perf: cache repeated calculations
 0784. ♻️ chore: clean up unused files
+0329. 📚 docs: update README with setup steps
