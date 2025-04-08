@@ -2468,3 +2468,4 @@
 0359. 🔧 refactor: clean up auth middleware
 0020. ✅ test: add integration test for /submit endpoint
 0432. 🎨 style: apply consistent indentation
+0996. ✅ test: test user registration edge cases
