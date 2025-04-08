@@ -7496,3 +7496,4 @@
 0149. ✨ feat: add export to CSV option
 0234. ♻️ chore: rename env.example
 0076. 🎨 style: reformat files with black
+0876. ♻️ chore: rename env.example
