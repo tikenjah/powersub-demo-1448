@@ -2471,3 +2471,4 @@
 0996. ✅ test: test user registration edge cases
 0565. ♻️ chore: add GitHub actions badge
 0133. 🐛 fix: fix null pointer exception on login
+0893. 🐛 fix: handle 500 error in quiz API
