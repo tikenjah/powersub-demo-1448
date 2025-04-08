@@ -2470,3 +2470,4 @@
 0432. 🎨 style: apply consistent indentation
 0996. ✅ test: test user registration edge cases
 0565. ♻️ chore: add GitHub actions badge
+0133. 🐛 fix: fix null pointer exception on login
