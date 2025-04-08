@@ -7495,3 +7495,4 @@
 0653. 🐛 fix: prevent crash on empty input
 0149. ✨ feat: add export to CSV option
 0234. ♻️ chore: rename env.example
+0076. 🎨 style: reformat files with black
