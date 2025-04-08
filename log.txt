@@ -9489,3 +9489,4 @@
 0835. 🐛 fix: prevent crash on empty input
 0523. ♻️ chore: bump dependencies
 0710. 🐛 fix: fix broken CSS in mobile view
+0337. 📚 docs: document token refresh logic
