@@ -7498,3 +7498,4 @@
 0076. 🎨 style: reformat files with black
 0876. ♻️ chore: rename env.example
 0381. ♻️ chore: clean up unused files
+0066. 🔧 refactor: clean up auth middleware
