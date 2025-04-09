@@ -10498,3 +10498,4 @@
 0076. 🎨 style: reformat files with black
 0973. 🔧 refactor: organize models into subfolders
 0773. 📚 docs: document token refresh logic
+0250. 📚 docs: update README with setup steps
