@@ -7499,3 +7499,4 @@
 0876. ♻️ chore: rename env.example
 0381. ♻️ chore: clean up unused files
 0066. 🔧 refactor: clean up auth middleware
+0115. 🚀 perf: reduce image load time
