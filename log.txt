@@ -2479,3 +2479,4 @@
 0160. ♻️ chore: bump dependencies
 0106. 🎨 style: reformat files with black
 0168. ✅ test: add integration test for /submit endpoint
+0326. 🚀 perf: cache repeated calculations
