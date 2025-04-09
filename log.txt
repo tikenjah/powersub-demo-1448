@@ -5484,3 +5484,4 @@
 0249. ✅ test: increase coverage on auth module
 0584. 🚀 perf: lazy-load components
 0845. 🚀 perf: cache repeated calculations
+0513. ♻️ chore: bump dependencies
