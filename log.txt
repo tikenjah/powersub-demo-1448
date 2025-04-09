@@ -8494,3 +8494,4 @@
 0881. 🔧 refactor: split large controller into smaller functions
 0521. 🎨 style: standardize quote style
 0117. ✅ test: increase coverage on auth module
+0792. 🎨 style: standardize quote style
