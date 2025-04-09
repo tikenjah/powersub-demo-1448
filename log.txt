@@ -6535,3 +6535,4 @@
 0362. 📚 docs: add API usage examples
 0894. ✅ test: add integration test for /submit endpoint
 0276. ✅ test: add integration test for /submit endpoint
+0498. ✅ test: mock database connection in test suite
