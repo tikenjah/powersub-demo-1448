@@ -2501,3 +2501,4 @@
 0512. 🚀 perf: reduce image load time
 0196. ♻️ chore: bump dependencies
 0961. 📚 docs: add API usage examples
+0120. ✅ test: add integration test for /submit endpoint
