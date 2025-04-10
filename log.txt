@@ -2486,3 +2486,4 @@
 0452. ✨ feat: implement quiz timer feature
 0403. ✅ test: mock database connection in test suite
 0734. ✨ feat: add export to CSV option
+0264. 🚀 perf: optimize database query for quiz results
