@@ -10501,3 +10501,4 @@
 0250. 📚 docs: update README with setup steps
 0722. 📚 docs: add API usage examples
 0133. 🐛 fix: fix null pointer exception on login
+0890. 🔧 refactor: organize models into subfolders
