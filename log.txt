@@ -8495,3 +8495,4 @@
 0521. 🎨 style: standardize quote style
 0117. ✅ test: increase coverage on auth module
 0792. 🎨 style: standardize quote style
+0397. 🐛 fix: handle 500 error in quiz API
