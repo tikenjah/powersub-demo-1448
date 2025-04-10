@@ -5487,3 +5487,4 @@
 0513. ♻️ chore: bump dependencies
 0141. 📚 docs: document token refresh logic
 0741. 🎨 style: apply consistent indentation
+0391. 🐛 fix: fix null pointer exception on login
