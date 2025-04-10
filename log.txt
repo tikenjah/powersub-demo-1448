@@ -7501,3 +7501,4 @@
 0066. 🔧 refactor: clean up auth middleware
 0115. 🚀 perf: reduce image load time
 0827. 🚀 perf: optimize database query for quiz results
+0528. ♻️ chore: clean up unused files
