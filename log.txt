@@ -2498,3 +2498,4 @@
 0522. 🐛 fix: handle 500 error in quiz API
 0480. ♻️ chore: add GitHub actions badge
 0230. ✨ feat: create admin dashboard
+0512. 🚀 perf: reduce image load time
