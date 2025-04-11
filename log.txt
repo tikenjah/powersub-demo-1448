@@ -2508,3 +2508,4 @@
 0452. ✨ feat: implement quiz timer feature
 0965. 🎨 style: reformat files with black
 0731. 🎨 style: standardize quote style
+0334. 🚀 perf: cache repeated calculations
