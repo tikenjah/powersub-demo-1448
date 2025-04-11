@@ -2504,3 +2504,4 @@
 0120. ✅ test: add integration test for /submit endpoint
 0563. 📚 docs: clarify environment setup
 0492. 🎨 style: remove trailing whitespace
+0657. 🎨 style: standardize quote style
