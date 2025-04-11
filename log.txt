@@ -2510,3 +2510,4 @@
 0731. 🎨 style: standardize quote style
 0334. 🚀 perf: cache repeated calculations
 0300. ✨ feat: add export to CSV option
+0036. 🔧 refactor: clean up auth middleware
