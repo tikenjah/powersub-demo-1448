@@ -2506,3 +2506,4 @@
 0492. 🎨 style: remove trailing whitespace
 0657. 🎨 style: standardize quote style
 0452. ✨ feat: implement quiz timer feature
+0965. 🎨 style: reformat files with black
