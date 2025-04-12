@@ -9497,3 +9497,4 @@
 0512. 🚀 perf: reduce image load time
 0530. 🔧 refactor: refactor quiz grading logic
 0322. 🔧 refactor: split large controller into smaller functions
+0371. ✅ test: add integration test for /submit endpoint
