@@ -2522,3 +2522,4 @@
 0657. 🎨 style: standardize quote style
 0575. ✅ test: add unit test for quiz service
 0165. 🎨 style: remove trailing whitespace
+0026. 🔧 refactor: clean up auth middleware
