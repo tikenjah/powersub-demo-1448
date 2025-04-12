@@ -2527,3 +2527,4 @@
 0855. 🎨 style: reformat files with black
 0189. 📚 docs: clarify environment setup
 0426. ✅ test: add integration test for /submit endpoint
+0493. ✨ feat: add user authentication
