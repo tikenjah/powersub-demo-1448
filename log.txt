@@ -2521,3 +2521,4 @@
 0418. ✅ test: mock database connection in test suite
 0657. 🎨 style: standardize quote style
 0575. ✅ test: add unit test for quiz service
+0165. 🎨 style: remove trailing whitespace
