@@ -10506,3 +10506,4 @@
 0021. ✨ feat: support email verification
 0797. 📚 docs: add API usage examples
 0375. 🐛 fix: handle 500 error in quiz API
+0579. 📚 docs: clarify environment setup
