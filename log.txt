@@ -7507,3 +7507,4 @@
 0828. ♻️ chore: add GitHub actions badge
 0772. 🐛 fix: fix null pointer exception on login
 0323. 📚 docs: clarify environment setup
+0229. 🚀 perf: optimize database query for quiz results
