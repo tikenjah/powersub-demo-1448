@@ -2538,3 +2538,4 @@
 0142. ✨ feat: implement quiz timer feature
 0955. 🔧 refactor: remove redundant code blocks
 0600. 🐛 fix: prevent crash on empty input
+0529. 📚 docs: write FAQ section
