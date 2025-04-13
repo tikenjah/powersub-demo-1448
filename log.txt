@@ -2530,3 +2530,4 @@
 0493. ✨ feat: add user authentication
 0464. 🎨 style: remove trailing whitespace
 0772. 🐛 fix: fix null pointer exception on login
+0275. 🎨 style: standardize quote style
