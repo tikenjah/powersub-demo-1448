@@ -2543,3 +2543,4 @@
 0236. 🔧 refactor: remove redundant code blocks
 0078. ♻️ chore: update .gitignore
 0379. ✨ feat: support email verification
+0189. 📚 docs: clarify environment setup
