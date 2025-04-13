@@ -6546,3 +6546,4 @@
 0257. 📚 docs: clarify environment setup
 0518. ✨ feat: support email verification
 0448. 🐛 fix: correct typo in registration form
+0686. 🎨 style: standardize quote style
