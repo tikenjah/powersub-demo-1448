@@ -2532,3 +2532,4 @@
 0772. 🐛 fix: fix null pointer exception on login
 0275. 🎨 style: standardize quote style
 0772. 🐛 fix: fix null pointer exception on login
+0829. 🔧 refactor: organize models into subfolders
