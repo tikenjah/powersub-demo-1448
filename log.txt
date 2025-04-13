@@ -10512,3 +10512,4 @@
 0505. ♻️ chore: add GitHub actions badge
 0067. 🔧 refactor: remove redundant code blocks
 0676. 🐛 fix: prevent crash on empty input
+0893. 🐛 fix: handle 500 error in quiz API
