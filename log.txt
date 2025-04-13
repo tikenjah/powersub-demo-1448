@@ -7510,3 +7510,4 @@
 0229. 🚀 perf: optimize database query for quiz results
 0594. 🎨 style: reformat files with black
 0556. ✨ feat: support email verification
+0441. 📚 docs: add API usage examples
