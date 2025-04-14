@@ -9500,3 +9500,4 @@
 0371. ✅ test: add integration test for /submit endpoint
 0127. 🐛 fix: fix null pointer exception on login
 0953. 🎨 style: remove trailing whitespace
+0099. 🚀 perf: reduce image load time
