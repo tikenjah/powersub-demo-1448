@@ -2554,3 +2554,4 @@
 0733. 🐛 fix: fix null pointer exception on login
 0756. ✨ feat: support email verification
 0471. ✨ feat: support email verification
+0149. ✨ feat: add export to CSV option
