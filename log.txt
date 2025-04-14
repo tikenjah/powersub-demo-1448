@@ -6554,3 +6554,4 @@
 0313. 🎨 style: apply consistent indentation
 0310. 🔧 refactor: refactor quiz grading logic
 0143. ✨ feat: implement quiz timer feature
+0213. ✅ test: add integration test for /submit endpoint
