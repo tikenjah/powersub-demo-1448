@@ -2547,3 +2547,4 @@
 0080. ✨ feat: support email verification
 0737. 🐛 fix: handle 500 error in quiz API
 0413. ✅ test: add integration test for /submit endpoint
+0846. ✨ feat: implement quiz timer feature
