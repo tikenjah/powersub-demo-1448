@@ -2555,3 +2555,4 @@
 0756. ✨ feat: support email verification
 0471. ✨ feat: support email verification
 0149. ✨ feat: add export to CSV option
+0548. 📚 docs: write FAQ section
