@@ -7511,3 +7511,4 @@
 0594. 🎨 style: reformat files with black
 0556. ✨ feat: support email verification
 0441. 📚 docs: add API usage examples
+0945. ♻️ chore: add GitHub actions badge
