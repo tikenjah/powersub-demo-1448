@@ -2570,3 +2570,4 @@
 0857. 🎨 style: rename variables for clarity
 0349. ✅ test: increase coverage on auth module
 0689. 🎨 style: reformat files with black
+0254. 🚀 perf: reduce image load time
