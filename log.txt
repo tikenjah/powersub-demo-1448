@@ -2569,3 +2569,4 @@
 0641. 📚 docs: write FAQ section
 0857. 🎨 style: rename variables for clarity
 0349. ✅ test: increase coverage on auth module
+0689. 🎨 style: reformat files with black
