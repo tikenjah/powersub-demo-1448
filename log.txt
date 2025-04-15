@@ -5497,3 +5497,4 @@
 0180. ✨ feat: add export to CSV option
 0823. ✨ feat: add user authentication
 0573. ✅ test: add integration test for /submit endpoint
+0611. ✅ test: test user registration edge cases
