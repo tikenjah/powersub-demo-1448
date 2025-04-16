@@ -2577,3 +2577,4 @@
 0294. 🐛 fix: prevent crash on empty input
 0419. 🎨 style: remove trailing whitespace
 0645. 🐛 fix: resolve issue with date parsing
+0459. 🔧 refactor: organize models into subfolders
