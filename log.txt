@@ -2572,3 +2572,4 @@
 0689. 🎨 style: reformat files with black
 0254. 🚀 perf: reduce image load time
 0215. 🎨 style: reformat files with black
+0201. 🔧 refactor: clean up auth middleware
