@@ -5500,3 +5500,4 @@
 0611. ✅ test: test user registration edge cases
 0886. ♻️ chore: clean up unused files
 0763. 🔧 refactor: organize models into subfolders
+0562. 🔧 refactor: clean up auth middleware
