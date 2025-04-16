@@ -6560,3 +6560,4 @@
 0071. 🔧 refactor: refactor quiz grading logic
 0684. 🚀 perf: reduce image load time
 0805. ♻️ chore: add GitHub actions badge
+0698. 🐛 fix: handle 500 error in quiz API
