@@ -6564,3 +6564,4 @@
 0885. ♻️ chore: update .gitignore
 0117. ✅ test: increase coverage on auth module
 0047. 🎨 style: rename variables for clarity
+0178. ✨ feat: support email verification
