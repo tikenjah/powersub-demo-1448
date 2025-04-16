@@ -5499,3 +5499,4 @@
 0573. ✅ test: add integration test for /submit endpoint
 0611. ✅ test: test user registration edge cases
 0886. ♻️ chore: clean up unused files
+0763. 🔧 refactor: organize models into subfolders
