@@ -7526,3 +7526,4 @@
 0872. 🎨 style: rename variables for clarity
 0444. ✅ test: add unit test for quiz service
 0637. 🎨 style: apply consistent indentation
+0170. ✅ test: increase coverage on auth module
