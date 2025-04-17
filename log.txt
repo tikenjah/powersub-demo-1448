@@ -2596,3 +2596,4 @@
 0935. 📚 docs: update README with setup steps
 0552. 🐛 fix: fix null pointer exception on login
 0696. 🔧 refactor: clean up auth middleware
+0578. ✅ test: add integration test for /submit endpoint
