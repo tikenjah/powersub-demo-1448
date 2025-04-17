@@ -2585,3 +2585,4 @@
 0458. ✨ feat: create admin dashboard
 0313. 🎨 style: apply consistent indentation
 0583. ✅ test: increase coverage on auth module
+0190. 🎨 style: rename variables for clarity
