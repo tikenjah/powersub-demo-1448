@@ -7527,3 +7527,4 @@
 0444. ✅ test: add unit test for quiz service
 0637. 🎨 style: apply consistent indentation
 0170. ✅ test: increase coverage on auth module
+0430. 🐛 fix: fix null pointer exception on login
