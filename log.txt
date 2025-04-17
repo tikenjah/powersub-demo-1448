@@ -8511,3 +8511,4 @@
 0863. 🐛 fix: correct typo in registration form
 0952. 🔧 refactor: split large controller into smaller functions
 0842. 🎨 style: remove trailing whitespace
+0958. 🐛 fix: prevent crash on empty input
