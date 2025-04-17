@@ -2584,3 +2584,4 @@
 0510. 🎨 style: rename variables for clarity
 0458. ✨ feat: create admin dashboard
 0313. 🎨 style: apply consistent indentation
+0583. ✅ test: increase coverage on auth module
