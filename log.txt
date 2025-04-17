@@ -2589,3 +2589,4 @@
 0474. ✅ test: add unit test for quiz service
 0570. 🎨 style: apply consistent indentation
 0085. ✨ feat: support email verification
+0572. ✨ feat: add user authentication
