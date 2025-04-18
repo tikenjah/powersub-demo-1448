@@ -10521,3 +10521,4 @@
 0969. ✨ feat: create admin dashboard
 0130. 🔧 refactor: split large controller into smaller functions
 0829. 🔧 refactor: organize models into subfolders
+0628. ♻️ chore: add GitHub actions badge
