@@ -9506,3 +9506,4 @@
 0587. 🔧 refactor: remove redundant code blocks
 0679. ♻️ chore: bump dependencies
 0061. ✨ feat: create admin dashboard
+0201. 🔧 refactor: clean up auth middleware
