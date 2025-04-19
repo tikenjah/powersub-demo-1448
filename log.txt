@@ -2623,3 +2623,4 @@
 0538. 🐛 fix: fix broken CSS in mobile view
 0030. 🐛 fix: fix null pointer exception on login
 0199. ✨ feat: create admin dashboard
+0791. 🔧 refactor: clean up auth middleware
