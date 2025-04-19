@@ -2620,3 +2620,4 @@
 0420. 🚀 perf: reduce image load time
 0101. 📚 docs: clarify environment setup
 0347. ♻️ chore: update .gitignore
+0538. 🐛 fix: fix broken CSS in mobile view
