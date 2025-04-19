@@ -2616,3 +2616,4 @@
 0341. 🚀 perf: lazy-load components
 0910. 🎨 style: remove trailing whitespace
 0530. 🔧 refactor: refactor quiz grading logic
+0502. 📚 docs: update README with setup steps
