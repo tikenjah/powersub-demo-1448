@@ -2611,3 +2611,4 @@
 0421. 🔧 refactor: split large controller into smaller functions
 0129. 🔧 refactor: organize models into subfolders
 0716. ✨ feat: implement quiz timer feature
+0898. 🐛 fix: fix broken CSS in mobile view
