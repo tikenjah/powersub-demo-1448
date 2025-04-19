@@ -2613,3 +2613,4 @@
 0716. ✨ feat: implement quiz timer feature
 0898. 🐛 fix: fix broken CSS in mobile view
 0831. 📚 docs: clarify environment setup
+0341. 🚀 perf: lazy-load components
