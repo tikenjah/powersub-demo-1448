@@ -2633,3 +2633,4 @@
 0304. 🔧 refactor: remove redundant code blocks
 0344. ♻️ chore: add GitHub actions badge
 0244. ✨ feat: add export to CSV option
+0621. 🔧 refactor: clean up auth middleware
