@@ -10533,3 +10533,4 @@
 0495. 🔧 refactor: remove redundant code blocks
 0160. ♻️ chore: bump dependencies
 0676. 🐛 fix: prevent crash on empty input
+0244. ✨ feat: add export to CSV option
