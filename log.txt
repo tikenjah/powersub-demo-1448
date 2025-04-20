@@ -10532,3 +10532,4 @@
 0755. 🚀 perf: cache repeated calculations
 0495. 🔧 refactor: remove redundant code blocks
 0160. ♻️ chore: bump dependencies
+0676. 🐛 fix: prevent crash on empty input
