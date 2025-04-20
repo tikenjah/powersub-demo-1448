@@ -8517,3 +8517,4 @@
 0742. 📚 docs: clarify environment setup
 0923. ✨ feat: support email verification
 0053. ✅ test: increase coverage on auth module
+0485. 📚 docs: update README with setup steps
