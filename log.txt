@@ -6569,3 +6569,4 @@
 0666. 🐛 fix: fix broken CSS in mobile view
 0901. ✨ feat: add user authentication
 0847. ♻️ chore: clean up unused files
+0675. 🔧 refactor: organize models into subfolders
