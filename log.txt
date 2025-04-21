@@ -6579,3 +6579,4 @@
 0063. 🐛 fix: handle 500 error in quiz API
 0934. ✨ feat: support email verification
 0698. 🐛 fix: handle 500 error in quiz API
+0877. 🚀 perf: optimize database query for quiz results
