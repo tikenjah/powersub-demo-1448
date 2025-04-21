@@ -8525,3 +8525,4 @@
 0968. 🎨 style: standardize quote style
 0860. 🔧 refactor: organize models into subfolders
 0945. ♻️ chore: add GitHub actions badge
+0885. ♻️ chore: update .gitignore
