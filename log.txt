@@ -2646,3 +2646,4 @@
 0054. ♻️ chore: update .gitignore
 0079. 🐛 fix: correct typo in registration form
 0606. 📚 docs: improve code comments in utils
+0250. 📚 docs: update README with setup steps
