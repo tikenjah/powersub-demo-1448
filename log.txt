@@ -2650,3 +2650,4 @@
 0742. 📚 docs: clarify environment setup
 0443. 🎨 style: standardize quote style
 0351. ✨ feat: add export to CSV option
+0536. ✨ feat: add user authentication
