@@ -9517,3 +9517,4 @@
 0586. 🎨 style: remove trailing whitespace
 0041. 🐛 fix: fix broken CSS in mobile view
 0610. 🚀 perf: lazy-load components
+0397. 🐛 fix: handle 500 error in quiz API
