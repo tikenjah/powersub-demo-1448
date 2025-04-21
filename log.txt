@@ -5512,3 +5512,4 @@
 0638. 📚 docs: improve code comments in utils
 0982. 🚀 perf: lazy-load components
 0286. ✅ test: mock database connection in test suite
+0111. 📚 docs: update README with setup steps
