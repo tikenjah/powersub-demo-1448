@@ -10534,3 +10534,4 @@
 0160. ♻️ chore: bump dependencies
 0676. 🐛 fix: prevent crash on empty input
 0244. ✨ feat: add export to CSV option
+0863. 🐛 fix: correct typo in registration form
