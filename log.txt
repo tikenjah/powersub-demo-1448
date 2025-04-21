@@ -8523,3 +8523,4 @@
 0679. ♻️ chore: bump dependencies
 0342. 🚀 perf: cache repeated calculations
 0968. 🎨 style: standardize quote style
+0860. 🔧 refactor: organize models into subfolders
