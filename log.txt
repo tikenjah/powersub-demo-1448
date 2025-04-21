@@ -2642,3 +2642,4 @@
 0428. 🐛 fix: fix null pointer exception on login
 0668. 🚀 perf: optimize database query for quiz results
 0026. 🔧 refactor: clean up auth middleware
+0824. 🚀 perf: lazy-load components
