@@ -2665,3 +2665,4 @@
 0115. 🚀 perf: reduce image load time
 0143. ✨ feat: implement quiz timer feature
 0737. 🐛 fix: handle 500 error in quiz API
+0282. 🔧 refactor: remove redundant code blocks
