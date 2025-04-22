@@ -8526,3 +8526,4 @@
 0860. 🔧 refactor: organize models into subfolders
 0945. ♻️ chore: add GitHub actions badge
 0885. ♻️ chore: update .gitignore
+0621. 🔧 refactor: clean up auth middleware
