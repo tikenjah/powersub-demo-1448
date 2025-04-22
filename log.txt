@@ -10541,3 +10541,4 @@
 0723. 🔧 refactor: remove redundant code blocks
 0770. ♻️ chore: rename env.example
 0406. ✨ feat: add export to CSV option
+0269. ✅ test: test user registration edge cases
