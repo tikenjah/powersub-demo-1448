@@ -2669,3 +2669,4 @@
 0543. ✨ feat: support email verification
 0168. ✅ test: add integration test for /submit endpoint
 0818. 🔧 refactor: remove redundant code blocks
+0317. ✅ test: test user registration edge cases
