@@ -2672,3 +2672,4 @@
 0317. ✅ test: test user registration edge cases
 0427. ✅ test: mock database connection in test suite
 0936. 🔧 refactor: organize models into subfolders
+0678. ✨ feat: add user authentication
