@@ -10544,3 +10544,4 @@
 0269. ✅ test: test user registration edge cases
 0390. 🎨 style: standardize quote style
 0350. 🚀 perf: cache repeated calculations
+0440. 📚 docs: update README with setup steps
