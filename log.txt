@@ -5515,3 +5515,4 @@
 0111. 📚 docs: update README with setup steps
 0740. 🐛 fix: resolve issue with date parsing
 0297. 🎨 style: remove trailing whitespace
+0457. 🐛 fix: handle 500 error in quiz API
