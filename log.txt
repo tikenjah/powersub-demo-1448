@@ -2679,3 +2679,4 @@
 0024. 📚 docs: write FAQ section
 0081. 🐛 fix: fix null pointer exception on login
 0746. ♻️ chore: add GitHub actions badge
+0932. ✅ test: add integration test for /submit endpoint
