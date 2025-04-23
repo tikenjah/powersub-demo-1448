@@ -2677,3 +2677,4 @@
 0913. 🚀 perf: optimize database query for quiz results
 0132. ✅ test: add unit test for quiz service
 0024. 📚 docs: write FAQ section
+0081. 🐛 fix: fix null pointer exception on login
