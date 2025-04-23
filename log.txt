@@ -2678,3 +2678,4 @@
 0132. ✅ test: add unit test for quiz service
 0024. 📚 docs: write FAQ section
 0081. 🐛 fix: fix null pointer exception on login
+0746. ♻️ chore: add GitHub actions badge
