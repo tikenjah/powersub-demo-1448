@@ -2671,3 +2671,4 @@
 0818. 🔧 refactor: remove redundant code blocks
 0317. ✅ test: test user registration edge cases
 0427. ✅ test: mock database connection in test suite
+0936. 🔧 refactor: organize models into subfolders
