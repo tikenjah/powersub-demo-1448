@@ -8534,3 +8534,4 @@
 0609. 🐛 fix: handle 500 error in quiz API
 0137. 🎨 style: rename variables for clarity
 0628. ♻️ chore: add GitHub actions badge
+0545. 🎨 style: standardize quote style
