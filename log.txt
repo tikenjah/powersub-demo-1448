@@ -10545,3 +10545,4 @@
 0390. 🎨 style: standardize quote style
 0350. 🚀 perf: cache repeated calculations
 0440. 📚 docs: update README with setup steps
+0843. 📚 docs: document token refresh logic
