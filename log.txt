@@ -2684,3 +2684,4 @@
 0458. ✨ feat: create admin dashboard
 0709. ♻️ chore: bump dependencies
 0310. 🔧 refactor: refactor quiz grading logic
+0460. 📚 docs: write FAQ section
