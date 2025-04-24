@@ -10548,3 +10548,4 @@
 0843. 📚 docs: document token refresh logic
 0295. 🎨 style: remove trailing whitespace
 0405. ✅ test: mock database connection in test suite
+0155. ✨ feat: create admin dashboard
