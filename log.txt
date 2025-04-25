@@ -7541,3 +7541,4 @@
 0722. 📚 docs: add API usage examples
 0687. 🎨 style: remove trailing whitespace
 0506. 🐛 fix: handle 500 error in quiz API
+0545. 🎨 style: standardize quote style
