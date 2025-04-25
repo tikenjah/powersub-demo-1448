@@ -2698,3 +2698,4 @@
 0373. 📚 docs: document token refresh logic
 0222. 🐛 fix: handle 500 error in quiz API
 0051. ✨ feat: enable dark mode toggle
+0708. ✅ test: add integration test for /submit endpoint
