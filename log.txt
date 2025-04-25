@@ -2704,3 +2704,4 @@
 0329. 📚 docs: update README with setup steps
 0135. ✅ test: test user registration edge cases
 0533. ♻️ chore: add GitHub actions badge
+0875. ✅ test: increase coverage on auth module
