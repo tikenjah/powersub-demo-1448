@@ -2694,3 +2694,4 @@
 0200. 🐛 fix: handle 500 error in quiz API
 0496. ✅ test: add integration test for /submit endpoint
 0209. ✨ feat: implement quiz timer feature
+0095. ✅ test: mock database connection in test suite
