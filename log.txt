@@ -10552,3 +10552,4 @@
 0866. 📚 docs: add API usage examples
 0625. 🐛 fix: handle 500 error in quiz API
 0730. ✅ test: test user registration edge cases
+0880. 🐛 fix: fix broken CSS in mobile view
