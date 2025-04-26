@@ -2714,3 +2714,4 @@
 0720. ✨ feat: add export to CSV option
 0761. ✅ test: add unit test for quiz service
 0901. ✨ feat: add user authentication
+0540. ♻️ chore: add GitHub actions badge
