@@ -6589,3 +6589,4 @@
 0912. 📚 docs: document token refresh logic
 0959. 🐛 fix: fix null pointer exception on login
 0037. 🐛 fix: correct typo in registration form
+0311. 🎨 style: apply consistent indentation
