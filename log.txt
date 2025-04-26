@@ -7544,3 +7544,4 @@
 0545. 🎨 style: standardize quote style
 0307. ✨ feat: support email verification
 0235. 🐛 fix: fix null pointer exception on login
+0927. ♻️ chore: bump dependencies
