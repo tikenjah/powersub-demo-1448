@@ -2724,3 +2724,4 @@
 0706. ✨ feat: support email verification
 0480. ♻️ chore: add GitHub actions badge
 0009. ✨ feat: enable dark mode toggle
+0963. 🚀 perf: reduce image load time
