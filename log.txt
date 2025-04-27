@@ -7547,3 +7547,4 @@
 0927. ♻️ chore: bump dependencies
 0788. 📚 docs: add API usage examples
 0376. 🎨 style: apply consistent indentation
+0268. 🐛 fix: prevent crash on empty input
