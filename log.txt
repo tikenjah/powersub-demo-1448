@@ -9531,3 +9531,4 @@
 0333. 🚀 perf: cache repeated calculations
 0736. 🐛 fix: fix null pointer exception on login
 0990. ♻️ chore: rename env.example
+0127. 🐛 fix: fix null pointer exception on login
