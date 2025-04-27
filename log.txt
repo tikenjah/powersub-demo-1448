@@ -2742,3 +2742,4 @@
 0836. 🚀 perf: optimize database query for quiz results
 0948. 🐛 fix: fix broken CSS in mobile view
 0358. 🚀 perf: reduce image load time
+0671. 🐛 fix: fix null pointer exception on login
