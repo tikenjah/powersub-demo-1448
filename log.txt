@@ -7548,3 +7548,4 @@
 0788. 📚 docs: add API usage examples
 0376. 🎨 style: apply consistent indentation
 0268. 🐛 fix: prevent crash on empty input
+0185. 📚 docs: write FAQ section
