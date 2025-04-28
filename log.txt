@@ -2747,3 +2747,4 @@
 0256. ✅ test: mock database connection in test suite
 0205. 📚 docs: update README with setup steps
 0856. 🐛 fix: fix null pointer exception on login
+0539. 🔧 refactor: organize models into subfolders
