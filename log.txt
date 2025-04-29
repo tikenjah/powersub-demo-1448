@@ -8548,3 +8548,4 @@
 0207. 🐛 fix: prevent crash on empty input
 0870. ♻️ chore: clean up unused files
 0743. 🎨 style: apply consistent indentation
+0936. 🔧 refactor: organize models into subfolders
