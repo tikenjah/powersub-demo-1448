@@ -6595,3 +6595,4 @@
 0426. ✅ test: add integration test for /submit endpoint
 0022. 📚 docs: document token refresh logic
 0538. 🐛 fix: fix broken CSS in mobile view
+0911. ✅ test: increase coverage on auth module
