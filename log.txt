@@ -2759,3 +2759,4 @@
 0684. 🚀 perf: reduce image load time
 0225. 🚀 perf: reduce image load time
 0409. 🚀 perf: lazy-load components
+0149. ✨ feat: add export to CSV option
