@@ -2773,3 +2773,4 @@
 0980. 🎨 style: reformat files with black
 0068. 🐛 fix: fix null pointer exception on login
 0674. 🔧 refactor: split large controller into smaller functions
+0495. 🔧 refactor: remove redundant code blocks
