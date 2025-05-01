@@ -2798,3 +2798,4 @@
 0336. ✨ feat: add export to CSV option
 0427. ✅ test: mock database connection in test suite
 0879. 🎨 style: standardize quote style
+0084. 🐛 fix: handle 500 error in quiz API
