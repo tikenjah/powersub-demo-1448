@@ -2791,3 +2791,4 @@
 0095. ✅ test: mock database connection in test suite
 0557. 🔧 refactor: clean up auth middleware
 0078. ♻️ chore: update .gitignore
+0556. ✨ feat: support email verification
