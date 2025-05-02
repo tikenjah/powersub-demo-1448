@@ -2819,3 +2819,4 @@
 0862. ♻️ chore: bump dependencies
 0204. 🎨 style: standardize quote style
 0527. 🎨 style: remove trailing whitespace
+0581. ✅ test: add integration test for /submit endpoint
