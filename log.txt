@@ -2807,3 +2807,4 @@
 0460. 📚 docs: write FAQ section
 0258. 🐛 fix: prevent crash on empty input
 0578. ✅ test: add integration test for /submit endpoint
+0245. 🐛 fix: resolve issue with date parsing
