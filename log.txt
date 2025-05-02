@@ -2813,3 +2813,4 @@
 0135. ✅ test: test user registration edge cases
 0510. 🎨 style: rename variables for clarity
 0181. ♻️ chore: add GitHub actions badge
+0165. 🎨 style: remove trailing whitespace
