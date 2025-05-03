@@ -2837,3 +2837,4 @@
 0021. ✨ feat: support email verification
 0088. 📚 docs: add API usage examples
 0210. 🎨 style: apply consistent indentation
+0823. ✨ feat: add user authentication
