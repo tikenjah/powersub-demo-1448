@@ -6601,3 +6601,4 @@
 0607. 🐛 fix: prevent crash on empty input
 0200. 🐛 fix: handle 500 error in quiz API
 0995. ✅ test: mock database connection in test suite
+0758. 🚀 perf: optimize database query for quiz results
