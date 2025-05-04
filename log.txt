@@ -7567,3 +7567,4 @@
 0669. ✨ feat: enable dark mode toggle
 0569. 📚 docs: document token refresh logic
 0846. ✨ feat: implement quiz timer feature
+0287. 📚 docs: write FAQ section
