@@ -2858,3 +2858,4 @@
 0645. 🐛 fix: resolve issue with date parsing
 0448. 🐛 fix: correct typo in registration form
 0350. 🚀 perf: cache repeated calculations
+0518. ✨ feat: support email verification
