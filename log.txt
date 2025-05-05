@@ -10576,3 +10576,4 @@
 0422. 🔧 refactor: organize models into subfolders
 0312. ✨ feat: add user authentication
 0953. 🎨 style: remove trailing whitespace
+0442. 🎨 style: standardize quote style
