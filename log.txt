@@ -9554,3 +9554,4 @@
 0268. 🐛 fix: prevent crash on empty input
 0091. ✨ feat: add user authentication
 0847. ♻️ chore: clean up unused files
+0582. ✨ feat: add export to CSV option
