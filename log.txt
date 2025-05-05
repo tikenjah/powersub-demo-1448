@@ -2868,3 +2868,4 @@
 0298. ♻️ chore: update .gitignore
 0892. ✅ test: add unit test for quiz service
 0954. 🚀 perf: cache repeated calculations
+0393. 🚀 perf: lazy-load components
