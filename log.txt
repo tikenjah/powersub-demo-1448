@@ -2861,3 +2861,4 @@
 0518. ✨ feat: support email verification
 0046. 🎨 style: rename variables for clarity
 0476. 🚀 perf: reduce image load time
+0997. ✅ test: increase coverage on auth module
