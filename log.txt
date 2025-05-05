@@ -2866,3 +2866,4 @@
 0235. 🐛 fix: fix null pointer exception on login
 0176. 🔧 refactor: remove redundant code blocks
 0298. ♻️ chore: update .gitignore
+0892. ✅ test: add unit test for quiz service
