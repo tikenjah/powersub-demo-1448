@@ -6606,3 +6606,4 @@
 0061. ✨ feat: create admin dashboard
 0963. 🚀 perf: reduce image load time
 0512. 🚀 perf: reduce image load time
+0710. 🐛 fix: fix broken CSS in mobile view
