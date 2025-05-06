@@ -2871,3 +2871,4 @@
 0393. 🚀 perf: lazy-load components
 0554. 📚 docs: improve code comments in utils
 1000. ✅ test: increase coverage on auth module
+0061. ✨ feat: create admin dashboard
