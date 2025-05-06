@@ -2880,3 +2880,4 @@
 0915. 🚀 perf: cache repeated calculations
 0907. 🔧 refactor: split large controller into smaller functions
 0210. 🎨 style: apply consistent indentation
+0578. ✅ test: add integration test for /submit endpoint
