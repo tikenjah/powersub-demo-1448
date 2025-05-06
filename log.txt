@@ -2876,3 +2876,4 @@
 0009. ✨ feat: enable dark mode toggle
 0483. 📚 docs: update README with setup steps
 0537. 🔧 refactor: remove redundant code blocks
+0361. ✨ feat: support email verification
