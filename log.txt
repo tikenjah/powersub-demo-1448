@@ -2873,3 +2873,4 @@
 1000. ✅ test: increase coverage on auth module
 0061. ✨ feat: create admin dashboard
 0197. 📚 docs: update README with setup steps
+0009. ✨ feat: enable dark mode toggle
