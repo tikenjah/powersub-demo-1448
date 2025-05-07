@@ -2884,3 +2884,4 @@
 0747. 🔧 refactor: clean up auth middleware
 0783. 🐛 fix: handle 500 error in quiz API
 0694. 🎨 style: rename variables for clarity
+0839. 🎨 style: apply consistent indentation
