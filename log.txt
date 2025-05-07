@@ -8569,3 +8569,4 @@
 0903. ✅ test: mock database connection in test suite
 0224. 🐛 fix: fix broken CSS in mobile view
 0331. 🐛 fix: fix broken CSS in mobile view
+0375. 🐛 fix: handle 500 error in quiz API
