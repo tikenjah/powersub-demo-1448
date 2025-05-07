@@ -9560,3 +9560,4 @@
 0143. ✨ feat: implement quiz timer feature
 0253. 📚 docs: update README with setup steps
 0682. ♻️ chore: rename env.example
+0062. ♻️ chore: update .gitignore
