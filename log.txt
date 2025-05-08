@@ -2899,3 +2899,4 @@
 0515. 🚀 perf: optimize database query for quiz results
 0588. 🔧 refactor: organize models into subfolders
 0198. 📚 docs: clarify environment setup
+0557. 🔧 refactor: clean up auth middleware
