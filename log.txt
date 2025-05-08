@@ -6613,3 +6613,4 @@
 0314. ✨ feat: implement quiz timer feature
 0896. 🚀 perf: reduce image load time
 0790. 📚 docs: write FAQ section
+0629. 🔧 refactor: organize models into subfolders
