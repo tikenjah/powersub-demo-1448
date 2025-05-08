@@ -8572,3 +8572,4 @@
 0375. 🐛 fix: handle 500 error in quiz API
 0525. ✅ test: mock database connection in test suite
 0151. ✅ test: add unit test for quiz service
+0253. 📚 docs: update README with setup steps
