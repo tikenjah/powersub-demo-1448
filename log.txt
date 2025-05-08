@@ -8571,3 +8571,4 @@
 0331. 🐛 fix: fix broken CSS in mobile view
 0375. 🐛 fix: handle 500 error in quiz API
 0525. ✅ test: mock database connection in test suite
+0151. ✅ test: add unit test for quiz service
