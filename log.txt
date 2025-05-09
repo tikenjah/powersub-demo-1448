@@ -6616,3 +6616,4 @@
 0629. 🔧 refactor: organize models into subfolders
 0031. 📚 docs: document token refresh logic
 0844. 📚 docs: update README with setup steps
+0961. 📚 docs: add API usage examples
