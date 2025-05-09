@@ -2917,3 +2917,4 @@
 0775. 🐛 fix: fix null pointer exception on login
 0829. 🔧 refactor: organize models into subfolders
 0655. 🚀 perf: cache repeated calculations
+0682. ♻️ chore: rename env.example
