@@ -2922,3 +2922,4 @@
 0461. ✨ feat: add user authentication
 0905. ♻️ chore: bump dependencies
 0141. 📚 docs: document token refresh logic
+0433. 🐛 fix: prevent crash on empty input
