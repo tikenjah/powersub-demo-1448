@@ -5560,3 +5560,4 @@
 0959. 🐛 fix: fix null pointer exception on login
 0182. 🔧 refactor: remove redundant code blocks
 0090. ✅ test: increase coverage on auth module
+0682. ♻️ chore: rename env.example
