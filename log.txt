@@ -2912,3 +2912,4 @@
 0458. ✨ feat: create admin dashboard
 0466. 🚀 perf: optimize database query for quiz results
 0590. 🐛 fix: fix null pointer exception on login
+0436. ✅ test: add integration test for /submit endpoint
