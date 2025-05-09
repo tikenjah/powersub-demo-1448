@@ -7572,3 +7572,4 @@
 0604. 📚 docs: add API usage examples
 0966. 📚 docs: improve code comments in utils
 0666. 🐛 fix: fix broken CSS in mobile view
+0063. 🐛 fix: handle 500 error in quiz API
