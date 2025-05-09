@@ -6615,3 +6615,4 @@
 0790. 📚 docs: write FAQ section
 0629. 🔧 refactor: organize models into subfolders
 0031. 📚 docs: document token refresh logic
+0844. 📚 docs: update README with setup steps
