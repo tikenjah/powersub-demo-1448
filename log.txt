@@ -8575,3 +8575,4 @@
 0253. 📚 docs: update README with setup steps
 0694. 🎨 style: rename variables for clarity
 0147. ♻️ chore: bump dependencies
+0017. ✅ test: mock database connection in test suite
