@@ -6618,3 +6618,4 @@
 0844. 📚 docs: update README with setup steps
 0961. 📚 docs: add API usage examples
 0092. 🚀 perf: reduce image load time
+0287. 📚 docs: write FAQ section
