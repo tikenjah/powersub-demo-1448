@@ -2921,3 +2921,4 @@
 0834. ✅ test: increase coverage on auth module
 0461. ✨ feat: add user authentication
 0905. ♻️ chore: bump dependencies
+0141. 📚 docs: document token refresh logic
