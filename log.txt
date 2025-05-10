@@ -2932,3 +2932,4 @@
 0220. 🐛 fix: fix null pointer exception on login
 0530. 🔧 refactor: refactor quiz grading logic
 0963. 🚀 perf: reduce image load time
+0058. ♻️ chore: add GitHub actions badge
