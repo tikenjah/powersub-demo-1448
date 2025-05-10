@@ -2928,3 +2928,4 @@
 0346. ✅ test: mock database connection in test suite
 0821. ✅ test: add integration test for /submit endpoint
 0865. ♻️ chore: add GitHub actions badge
+0718. 🐛 fix: resolve issue with date parsing
