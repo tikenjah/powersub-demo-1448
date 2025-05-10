@@ -2936,3 +2936,4 @@
 0014. 🔧 refactor: remove redundant code blocks
 0960. ✅ test: increase coverage on auth module
 0240. 🔧 refactor: remove redundant code blocks
+0800. 🚀 perf: optimize database query for quiz results
