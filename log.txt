@@ -2948,3 +2948,4 @@
 0157. ✅ test: mock database connection in test suite
 0089. 🔧 refactor: remove redundant code blocks
 0290. ✅ test: test user registration edge cases
+0036. 🔧 refactor: clean up auth middleware
