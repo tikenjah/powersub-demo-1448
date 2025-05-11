@@ -2940,3 +2940,4 @@
 0360. ✨ feat: add export to CSV option
 0965. 🎨 style: reformat files with black
 0943. 🎨 style: rename variables for clarity
+0073. 🔧 refactor: split large controller into smaller functions
