@@ -2943,3 +2943,4 @@
 0073. 🔧 refactor: split large controller into smaller functions
 0807. 🔧 refactor: remove redundant code blocks
 0295. 🎨 style: remove trailing whitespace
+0246. ✅ test: add integration test for /submit endpoint
