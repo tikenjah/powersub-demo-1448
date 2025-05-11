@@ -2949,3 +2949,4 @@
 0089. 🔧 refactor: remove redundant code blocks
 0290. ✅ test: test user registration edge cases
 0036. 🔧 refactor: clean up auth middleware
+0117. ✅ test: increase coverage on auth module
