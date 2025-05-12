@@ -2958,3 +2958,4 @@
 0228. 🔧 refactor: remove redundant code blocks
 0360. ✨ feat: add export to CSV option
 0563. 📚 docs: clarify environment setup
+0903. ✅ test: mock database connection in test suite
