@@ -2964,3 +2964,4 @@
 0945. ♻️ chore: add GitHub actions badge
 0258. 🐛 fix: prevent crash on empty input
 0186. ✅ test: test user registration edge cases
+0791. 🔧 refactor: clean up auth middleware
