@@ -2963,3 +2963,4 @@
 0711. 🐛 fix: fix broken CSS in mobile view
 0945. ♻️ chore: add GitHub actions badge
 0258. 🐛 fix: prevent crash on empty input
+0186. ✅ test: test user registration edge cases
