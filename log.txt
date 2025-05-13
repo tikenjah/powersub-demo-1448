@@ -8581,3 +8581,4 @@
 0234. ♻️ chore: rename env.example
 0754. 🐛 fix: handle 500 error in quiz API
 0036. 🔧 refactor: clean up auth middleware
+0471. ✨ feat: support email verification
