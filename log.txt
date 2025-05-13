@@ -2971,3 +2971,4 @@
 0449. ✅ test: add unit test for quiz service
 0156. 🎨 style: rename variables for clarity
 0290. ✅ test: test user registration edge cases
+0093. ✅ test: add unit test for quiz service
