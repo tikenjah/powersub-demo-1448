@@ -2973,3 +2973,4 @@
 0290. ✅ test: test user registration edge cases
 0093. ✅ test: add unit test for quiz service
 0672. 🐛 fix: fix broken CSS in mobile view
+0568. 🐛 fix: handle 500 error in quiz API
