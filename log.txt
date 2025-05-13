@@ -10600,3 +10600,4 @@
 0452. ✨ feat: implement quiz timer feature
 0824. 🚀 perf: lazy-load components
 0044. ✅ test: add unit test for quiz service
+0875. ✅ test: increase coverage on auth module
