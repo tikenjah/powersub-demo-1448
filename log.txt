@@ -2988,3 +2988,4 @@
 0187. ✨ feat: support email verification
 0419. 🎨 style: remove trailing whitespace
 0826. 📚 docs: clarify environment setup
+0280. ✅ test: add integration test for /submit endpoint
