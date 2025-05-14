@@ -2995,3 +2995,4 @@
 0092. 🚀 perf: reduce image load time
 0217. 🚀 perf: reduce image load time
 0260. ✨ feat: create admin dashboard
+0615. 🐛 fix: correct typo in registration form
