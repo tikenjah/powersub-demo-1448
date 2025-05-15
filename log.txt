@@ -6630,3 +6630,4 @@
 0434. 📚 docs: document token refresh logic
 0161. ✨ feat: create admin dashboard
 0897. 🐛 fix: prevent crash on empty input
+0088. 📚 docs: add API usage examples
