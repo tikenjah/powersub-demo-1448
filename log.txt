@@ -8585,3 +8585,4 @@
 0084. 🐛 fix: handle 500 error in quiz API
 0681. ✨ feat: create admin dashboard
 0178. ✨ feat: support email verification
+0257. 📚 docs: clarify environment setup
