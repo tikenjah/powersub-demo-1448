@@ -2998,3 +2998,4 @@
 0615. 🐛 fix: correct typo in registration form
 0765. ♻️ chore: clean up unused files
 0762. 🚀 perf: lazy-load components
+0929. ✨ feat: support email verification
