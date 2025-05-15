@@ -10606,3 +10606,4 @@
 0089. 🔧 refactor: remove redundant code blocks
 0320. 📚 docs: update README with setup steps
 0973. 🔧 refactor: organize models into subfolders
+0932. ✅ test: add integration test for /submit endpoint
