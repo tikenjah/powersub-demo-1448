@@ -3010,3 +3010,4 @@
 0516. ✅ test: add unit test for quiz service
 0367. 🐛 fix: fix null pointer exception on login
 0650. ✅ test: add unit test for quiz service
+0377. ✨ feat: add user authentication
