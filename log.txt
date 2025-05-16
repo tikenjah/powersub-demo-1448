@@ -3017,3 +3017,4 @@
 0760. 🐛 fix: resolve issue with date parsing
 0337. 📚 docs: document token refresh logic
 0323. 📚 docs: clarify environment setup
+0036. 🔧 refactor: clean up auth middleware
