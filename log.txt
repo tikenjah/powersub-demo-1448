@@ -3022,3 +3022,4 @@
 0704. 🚀 perf: cache repeated calculations
 0216. 🎨 style: rename variables for clarity
 0269. ✅ test: test user registration edge cases
+0605. ✨ feat: support email verification
