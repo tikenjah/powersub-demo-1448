@@ -3012,3 +3012,4 @@
 0650. ✅ test: add unit test for quiz service
 0377. ✨ feat: add user authentication
 0569. 📚 docs: document token refresh logic
+0354. 📚 docs: add API usage examples
