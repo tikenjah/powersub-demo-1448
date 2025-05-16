@@ -6636,3 +6636,4 @@
 0504. 📚 docs: document token refresh logic
 0852. ✨ feat: enable dark mode toggle
 0685. ✅ test: test user registration edge cases
+0759. 🔧 refactor: organize models into subfolders
