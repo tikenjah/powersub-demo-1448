@@ -5574,3 +5574,4 @@
 0885. ♻️ chore: update .gitignore
 0936. 🔧 refactor: organize models into subfolders
 0133. 🐛 fix: fix null pointer exception on login
+0256. ✅ test: mock database connection in test suite
