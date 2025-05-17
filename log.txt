@@ -3024,3 +3024,4 @@
 0269. ✅ test: test user registration edge cases
 0605. ✨ feat: support email verification
 0234. ♻️ chore: rename env.example
+0284. ✨ feat: implement quiz timer feature
