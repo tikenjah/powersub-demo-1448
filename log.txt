@@ -7597,3 +7597,4 @@
 0880. 🐛 fix: fix broken CSS in mobile view
 0755. 🚀 perf: cache repeated calculations
 0352. ✨ feat: add export to CSV option
+0409. 🚀 perf: lazy-load components
