@@ -7598,3 +7598,4 @@
 0755. 🚀 perf: cache repeated calculations
 0352. ✨ feat: add export to CSV option
 0409. 🚀 perf: lazy-load components
+0301. 🎨 style: apply consistent indentation
