@@ -3029,3 +3029,4 @@
 0735. ♻️ chore: add GitHub actions badge
 0874. 🔧 refactor: split large controller into smaller functions
 0649. 📚 docs: update README with setup steps
+0063. 🐛 fix: handle 500 error in quiz API
