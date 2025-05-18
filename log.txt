@@ -5583,3 +5583,4 @@
 0123. ✨ feat: implement quiz timer feature
 0770. ♻️ chore: rename env.example
 0312. ✨ feat: add user authentication
+0590. 🐛 fix: fix null pointer exception on login
