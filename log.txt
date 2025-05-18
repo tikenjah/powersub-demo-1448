@@ -5581,3 +5581,4 @@
 0494. 🎨 style: rename variables for clarity
 0581. ✅ test: add integration test for /submit endpoint
 0123. ✨ feat: implement quiz timer feature
+0770. ♻️ chore: rename env.example
