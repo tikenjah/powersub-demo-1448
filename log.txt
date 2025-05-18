@@ -3035,3 +3035,4 @@
 0241. 📚 docs: add API usage examples
 0318. 🔧 refactor: refactor quiz grading logic
 0601. ✨ feat: implement quiz timer feature
+0374. 🎨 style: standardize quote style
