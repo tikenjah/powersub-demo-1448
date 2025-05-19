@@ -6644,3 +6644,4 @@
 0608. 🔧 refactor: remove redundant code blocks
 0783. 🐛 fix: handle 500 error in quiz API
 0880. 🐛 fix: fix broken CSS in mobile view
+0329. 📚 docs: update README with setup steps
