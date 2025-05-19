@@ -6643,3 +6643,4 @@
 0670. ✨ feat: add export to CSV option
 0608. 🔧 refactor: remove redundant code blocks
 0783. 🐛 fix: handle 500 error in quiz API
+0880. 🐛 fix: fix broken CSS in mobile view
