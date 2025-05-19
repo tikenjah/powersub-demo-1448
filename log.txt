@@ -5585,3 +5585,4 @@
 0312. ✨ feat: add user authentication
 0590. 🐛 fix: fix null pointer exception on login
 0672. 🐛 fix: fix broken CSS in mobile view
+0581. ✅ test: add integration test for /submit endpoint
