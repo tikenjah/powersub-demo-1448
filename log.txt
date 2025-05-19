@@ -6647,3 +6647,4 @@
 0329. 📚 docs: update README with setup steps
 0970. ♻️ chore: update .gitignore
 0519. 📚 docs: document token refresh logic
+0965. 🎨 style: reformat files with black
