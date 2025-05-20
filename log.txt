@@ -3056,3 +3056,4 @@
 0744. 🔧 refactor: remove redundant code blocks
 0178. ✨ feat: support email verification
 0331. 🐛 fix: fix broken CSS in mobile view
+0430. 🐛 fix: fix null pointer exception on login
