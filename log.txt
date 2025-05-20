@@ -3054,3 +3054,4 @@
 0867. 🔧 refactor: refactor quiz grading logic
 0241. 📚 docs: add API usage examples
 0744. 🔧 refactor: remove redundant code blocks
+0178. ✨ feat: support email verification
