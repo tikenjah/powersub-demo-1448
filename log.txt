@@ -3055,3 +3055,4 @@
 0241. 📚 docs: add API usage examples
 0744. 🔧 refactor: remove redundant code blocks
 0178. ✨ feat: support email verification
+0331. 🐛 fix: fix broken CSS in mobile view
