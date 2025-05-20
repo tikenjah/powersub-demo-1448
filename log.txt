@@ -3059,3 +3059,4 @@
 0430. 🐛 fix: fix null pointer exception on login
 0817. 🔧 refactor: remove redundant code blocks
 0222. 🐛 fix: handle 500 error in quiz API
+0405. ✅ test: mock database connection in test suite
