@@ -8593,3 +8593,4 @@
 0124. 🎨 style: reformat files with black
 0519. 📚 docs: document token refresh logic
 0283. ♻️ chore: add GitHub actions badge
+0615. 🐛 fix: correct typo in registration form
