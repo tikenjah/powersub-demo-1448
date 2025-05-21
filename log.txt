@@ -3062,3 +3062,4 @@
 0405. ✅ test: mock database connection in test suite
 0005. ✅ test: add unit test for quiz service
 0443. 🎨 style: standardize quote style
+0337. 📚 docs: document token refresh logic
