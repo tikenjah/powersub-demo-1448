@@ -6653,3 +6653,4 @@
 0003. ✅ test: increase coverage on auth module
 0583. ✅ test: increase coverage on auth module
 0845. 🚀 perf: cache repeated calculations
+0280. ✅ test: add integration test for /submit endpoint
