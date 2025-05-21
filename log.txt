@@ -3074,3 +3074,4 @@
 0787. ♻️ chore: rename env.example
 0037. 🐛 fix: correct typo in registration form
 0507. 🔧 refactor: clean up auth middleware
+0164. 📚 docs: document token refresh logic
