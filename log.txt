@@ -6657,3 +6657,4 @@
 0162. ♻️ chore: add GitHub actions badge
 0427. ✅ test: mock database connection in test suite
 0628. ♻️ chore: add GitHub actions badge
+0940. 📚 docs: document token refresh logic
