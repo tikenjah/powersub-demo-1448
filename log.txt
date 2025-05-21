@@ -7614,3 +7614,4 @@
 0886. ♻️ chore: clean up unused files
 0548. 📚 docs: write FAQ section
 0934. ✨ feat: support email verification
+0652. 🔧 refactor: organize models into subfolders
