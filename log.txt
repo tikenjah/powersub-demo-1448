@@ -10620,3 +10620,4 @@
 0707. 🎨 style: apply consistent indentation
 0429. ✨ feat: add user authentication
 0536. ✨ feat: add user authentication
+0400. 🐛 fix: fix null pointer exception on login
