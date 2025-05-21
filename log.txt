@@ -3071,3 +3071,4 @@
 0116. ✨ feat: support email verification
 0134. ✨ feat: implement quiz timer feature
 0500. ✅ test: add integration test for /submit endpoint
+0787. ♻️ chore: rename env.example
