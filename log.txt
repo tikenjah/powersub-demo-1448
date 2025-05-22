@@ -3088,3 +3088,4 @@
 0957. 🐛 fix: fix null pointer exception on login
 0078. ♻️ chore: update .gitignore
 0219. ✅ test: increase coverage on auth module
+0299. 🐛 fix: resolve issue with date parsing
