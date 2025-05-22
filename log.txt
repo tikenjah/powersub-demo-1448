@@ -8604,3 +8604,4 @@
 0975. 🎨 style: apply consistent indentation
 0784. ♻️ chore: clean up unused files
 0167. 🚀 perf: reduce image load time
+0971. 🎨 style: standardize quote style
