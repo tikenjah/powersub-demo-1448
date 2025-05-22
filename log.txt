@@ -3092,3 +3092,4 @@
 0069. 🎨 style: rename variables for clarity
 0660. 🐛 fix: correct typo in registration form
 0993. ✨ feat: implement quiz timer feature
+0399. ✅ test: mock database connection in test suite
