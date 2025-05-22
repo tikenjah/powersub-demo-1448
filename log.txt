@@ -3086,3 +3086,4 @@
 0657. 🎨 style: standardize quote style
 0426. ✅ test: add integration test for /submit endpoint
 0957. 🐛 fix: fix null pointer exception on login
+0078. ♻️ chore: update .gitignore
