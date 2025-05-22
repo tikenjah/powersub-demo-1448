@@ -9592,3 +9592,4 @@
 0182. 🔧 refactor: remove redundant code blocks
 0224. 🐛 fix: fix broken CSS in mobile view
 0768. 🎨 style: remove trailing whitespace
+0605. ✨ feat: support email verification
