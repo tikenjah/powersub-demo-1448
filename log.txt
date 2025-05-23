@@ -7619,3 +7619,4 @@
 0727. ♻️ chore: add GitHub actions badge
 0059. ♻️ chore: bump dependencies
 0255. 🔧 refactor: refactor quiz grading logic
+0742. 📚 docs: clarify environment setup
