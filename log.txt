@@ -9593,3 +9593,4 @@
 0224. 🐛 fix: fix broken CSS in mobile view
 0768. 🎨 style: remove trailing whitespace
 0605. ✨ feat: support email verification
+0277. 🎨 style: standardize quote style
