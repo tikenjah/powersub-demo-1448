@@ -7622,3 +7622,4 @@
 0742. 📚 docs: clarify environment setup
 0154. 🐛 fix: prevent crash on empty input
 0770. ♻️ chore: rename env.example
+0529. 📚 docs: write FAQ section
