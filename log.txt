@@ -5598,3 +5598,4 @@
 0447. ♻️ chore: bump dependencies
 0958. 🐛 fix: prevent crash on empty input
 0070. ✨ feat: implement quiz timer feature
+0625. 🐛 fix: handle 500 error in quiz API
