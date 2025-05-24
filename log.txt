@@ -8609,3 +8609,4 @@
 0523. ♻️ chore: bump dependencies
 0152. ✨ feat: add user authentication
 0757. 🔧 refactor: remove redundant code blocks
+0816. 🔧 refactor: organize models into subfolders
