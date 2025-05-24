@@ -9600,3 +9600,4 @@
 0682. ♻️ chore: rename env.example
 0328. 🐛 fix: resolve issue with date parsing
 0851. ✅ test: mock database connection in test suite
+0556. ✨ feat: support email verification
