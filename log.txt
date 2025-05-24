@@ -7623,3 +7623,4 @@
 0154. 🐛 fix: prevent crash on empty input
 0770. ♻️ chore: rename env.example
 0529. 📚 docs: write FAQ section
+0829. 🔧 refactor: organize models into subfolders
