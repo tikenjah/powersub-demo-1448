@@ -3107,3 +3107,4 @@
 0866. 📚 docs: add API usage examples
 0164. 📚 docs: document token refresh logic
 0324. 📚 docs: document token refresh logic
+0572. ✨ feat: add user authentication
