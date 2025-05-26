@@ -8615,3 +8615,4 @@
 0628. ♻️ chore: add GitHub actions badge
 0308. 🚀 perf: reduce image load time
 0525. ✅ test: mock database connection in test suite
+0213. ✅ test: add integration test for /submit endpoint
