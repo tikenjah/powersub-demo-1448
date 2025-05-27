@@ -3142,3 +3142,4 @@
 0725. 🚀 perf: lazy-load components
 0287. 📚 docs: write FAQ section
 0666. 🐛 fix: fix broken CSS in mobile view
+0365. 🚀 perf: reduce image load time
