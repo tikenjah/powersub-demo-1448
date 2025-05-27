@@ -5601,3 +5601,4 @@
 0625. 🐛 fix: handle 500 error in quiz API
 0620. ✨ feat: implement quiz timer feature
 0512. 🚀 perf: reduce image load time
+0264. 🚀 perf: optimize database query for quiz results
