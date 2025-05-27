@@ -3139,3 +3139,4 @@
 1000. ✅ test: increase coverage on auth module
 0328. 🐛 fix: resolve issue with date parsing
 0947. 📚 docs: write FAQ section
+0725. 🚀 perf: lazy-load components
