@@ -3143,3 +3143,4 @@
 0287. 📚 docs: write FAQ section
 0666. 🐛 fix: fix broken CSS in mobile view
 0365. 🚀 perf: reduce image load time
+0678. ✨ feat: add user authentication
