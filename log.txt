@@ -3147,3 +3147,4 @@
 0108. 🎨 style: remove trailing whitespace
 0565. ♻️ chore: add GitHub actions badge
 0884. 📚 docs: clarify environment setup
+0086. 🐛 fix: correct typo in registration form
