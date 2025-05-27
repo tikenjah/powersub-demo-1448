@@ -9607,3 +9607,4 @@
 0748. 🚀 perf: optimize database query for quiz results
 0893. 🐛 fix: handle 500 error in quiz API
 0380. 🐛 fix: fix null pointer exception on login
+0931. 🚀 perf: reduce image load time
