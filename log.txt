@@ -3146,3 +3146,4 @@
 0678. ✨ feat: add user authentication
 0108. 🎨 style: remove trailing whitespace
 0565. ♻️ chore: add GitHub actions badge
+0884. 📚 docs: clarify environment setup
