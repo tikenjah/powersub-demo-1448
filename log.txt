@@ -10646,3 +10646,4 @@
 0177. 📚 docs: add API usage examples
 0979. 🎨 style: standardize quote style
 0254. 🚀 perf: reduce image load time
+0860. 🔧 refactor: organize models into subfolders
