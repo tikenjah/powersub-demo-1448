@@ -9611,3 +9611,4 @@
 0075. ✅ test: mock database connection in test suite
 0064. 📚 docs: clarify environment setup
 0831. 📚 docs: clarify environment setup
+0503. ♻️ chore: rename env.example
