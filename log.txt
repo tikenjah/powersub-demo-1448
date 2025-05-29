@@ -3163,3 +3163,4 @@
 0240. 🔧 refactor: remove redundant code blocks
 0249. ✅ test: increase coverage on auth module
 0763. 🔧 refactor: organize models into subfolders
+0109. 🚀 perf: lazy-load components
