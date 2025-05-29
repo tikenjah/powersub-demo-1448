@@ -3162,3 +3162,4 @@
 0575. ✅ test: add unit test for quiz service
 0240. 🔧 refactor: remove redundant code blocks
 0249. ✅ test: increase coverage on auth module
+0763. 🔧 refactor: organize models into subfolders
