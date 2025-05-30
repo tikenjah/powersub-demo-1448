@@ -3182,3 +3182,4 @@
 0556. ✨ feat: support email verification
 0597. 🚀 perf: cache repeated calculations
 0077. ♻️ chore: rename env.example
+0672. 🐛 fix: fix broken CSS in mobile view
