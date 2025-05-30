@@ -7641,3 +7641,4 @@
 0493. ✨ feat: add user authentication
 0377. ✨ feat: add user authentication
 0046. 🎨 style: rename variables for clarity
+0646. ✅ test: test user registration edge cases
