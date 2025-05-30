@@ -3184,3 +3184,4 @@
 0077. ♻️ chore: rename env.example
 0672. 🐛 fix: fix broken CSS in mobile view
 0028. 🎨 style: standardize quote style
+0670. ✨ feat: add export to CSV option
