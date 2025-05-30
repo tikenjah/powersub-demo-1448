@@ -3188,3 +3188,4 @@
 0006. 🐛 fix: prevent crash on empty input
 0430. 🐛 fix: fix null pointer exception on login
 0920. 🔧 refactor: organize models into subfolders
+0787. ♻️ chore: rename env.example
