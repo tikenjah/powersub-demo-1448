@@ -3190,3 +3190,4 @@
 0920. 🔧 refactor: organize models into subfolders
 0787. ♻️ chore: rename env.example
 0089. 🔧 refactor: remove redundant code blocks
+0699. 🎨 style: standardize quote style
