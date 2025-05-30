@@ -3178,3 +3178,4 @@
 0359. 🔧 refactor: clean up auth middleware
 0110. 🐛 fix: prevent crash on empty input
 0813. 🔧 refactor: organize models into subfolders
+0171. 🐛 fix: fix broken CSS in mobile view
