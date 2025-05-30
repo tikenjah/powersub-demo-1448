@@ -3174,3 +3174,4 @@
 0983. 🔧 refactor: split large controller into smaller functions
 0312. ✨ feat: add user authentication
 0811. 🎨 style: reformat files with black
+0653. 🐛 fix: prevent crash on empty input
