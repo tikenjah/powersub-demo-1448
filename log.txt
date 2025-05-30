@@ -9613,3 +9613,4 @@
 0831. 📚 docs: clarify environment setup
 0503. ♻️ chore: rename env.example
 0257. 📚 docs: clarify environment setup
+0777. 📚 docs: document token refresh logic
