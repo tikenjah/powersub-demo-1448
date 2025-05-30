@@ -5611,3 +5611,4 @@
 0617. ✨ feat: support email verification
 0701. 🔧 refactor: clean up auth middleware
 0076. 🎨 style: reformat files with black
+0251. ♻️ chore: update .gitignore
