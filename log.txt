@@ -7638,3 +7638,4 @@
 0309. 🔧 refactor: refactor quiz grading logic
 0481. ✅ test: add unit test for quiz service
 0160. ♻️ chore: bump dependencies
+0493. ✨ feat: add user authentication
