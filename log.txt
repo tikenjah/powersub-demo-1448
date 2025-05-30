@@ -3191,3 +3191,4 @@
 0787. ♻️ chore: rename env.example
 0089. 🔧 refactor: remove redundant code blocks
 0699. 🎨 style: standardize quote style
+0780. 📚 docs: add API usage examples
