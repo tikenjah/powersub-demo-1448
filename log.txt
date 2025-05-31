@@ -3196,3 +3196,4 @@
 0238. 🎨 style: apply consistent indentation
 0465. 🎨 style: rename variables for clarity
 0442. 🎨 style: standardize quote style
+0473. 📚 docs: write FAQ section
