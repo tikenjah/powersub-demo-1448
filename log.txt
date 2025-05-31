@@ -9617,3 +9617,4 @@
 0582. ✨ feat: add export to CSV option
 0073. 🔧 refactor: split large controller into smaller functions
 0505. ♻️ chore: add GitHub actions badge
+0018. 🔧 refactor: organize models into subfolders
