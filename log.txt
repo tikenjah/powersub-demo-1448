@@ -6674,3 +6674,4 @@
 0601. ✨ feat: implement quiz timer feature
 0446. 🎨 style: apply consistent indentation
 0799. ♻️ chore: clean up unused files
+0346. ✅ test: mock database connection in test suite
