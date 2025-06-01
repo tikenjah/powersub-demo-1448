@@ -7644,3 +7644,4 @@
 0646. ✅ test: test user registration edge cases
 0565. ♻️ chore: add GitHub actions badge
 0116. ✨ feat: support email verification
+0100. ♻️ chore: update .gitignore
