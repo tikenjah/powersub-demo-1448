@@ -9623,3 +9623,4 @@
 0369. 🎨 style: standardize quote style
 0998. 🐛 fix: fix null pointer exception on login
 0884. 📚 docs: clarify environment setup
+0049. 🐛 fix: handle 500 error in quiz API
