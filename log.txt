@@ -3209,3 +3209,4 @@
 0474. ✅ test: add unit test for quiz service
 0590. 🐛 fix: fix null pointer exception on login
 0019. ✨ feat: enable dark mode toggle
+0231. 🔧 refactor: clean up auth middleware
