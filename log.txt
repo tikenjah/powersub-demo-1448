@@ -3205,3 +3205,4 @@
 0112. ✨ feat: enable dark mode toggle
 0410. 🎨 style: reformat files with black
 0565. ♻️ chore: add GitHub actions badge
+0711. 🐛 fix: fix broken CSS in mobile view
