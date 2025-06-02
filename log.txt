@@ -3217,3 +3217,4 @@
 0061. ✨ feat: create admin dashboard
 0727. ♻️ chore: add GitHub actions badge
 0838. 🎨 style: standardize quote style
+0369. 🎨 style: standardize quote style
