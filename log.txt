@@ -8630,3 +8630,4 @@
 0771. 🚀 perf: cache repeated calculations
 0463. 🚀 perf: reduce image load time
 0550. 🔧 refactor: split large controller into smaller functions
+0320. 📚 docs: update README with setup steps
