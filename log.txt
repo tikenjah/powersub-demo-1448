@@ -9627,3 +9627,4 @@
 0060. ♻️ chore: clean up unused files
 0079. 🐛 fix: correct typo in registration form
 0189. 📚 docs: clarify environment setup
+0324. 📚 docs: document token refresh logic
