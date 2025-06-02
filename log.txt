@@ -5619,3 +5619,4 @@
 0440. 📚 docs: update README with setup steps
 0539. 🔧 refactor: organize models into subfolders
 0996. ✅ test: test user registration edge cases
+0109. 🚀 perf: lazy-load components
