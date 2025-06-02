@@ -3224,3 +3224,4 @@
 0093. ✅ test: add unit test for quiz service
 0361. ✨ feat: support email verification
 0927. ♻️ chore: bump dependencies
+0652. 🔧 refactor: organize models into subfolders
