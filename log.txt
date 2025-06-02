@@ -3225,3 +3225,4 @@
 0361. ✨ feat: support email verification
 0927. ♻️ chore: bump dependencies
 0652. 🔧 refactor: organize models into subfolders
+0689. 🎨 style: reformat files with black
