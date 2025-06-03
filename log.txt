@@ -3232,3 +3232,4 @@
 0067. 🔧 refactor: remove redundant code blocks
 0662. ♻️ chore: clean up unused files
 0400. 🐛 fix: fix null pointer exception on login
+0848. 📚 docs: update README with setup steps
