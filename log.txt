@@ -3245,3 +3245,4 @@
 0611. ✅ test: test user registration edge cases
 0855. 🎨 style: reformat files with black
 0431. 🎨 style: reformat files with black
+0187. ✨ feat: support email verification
