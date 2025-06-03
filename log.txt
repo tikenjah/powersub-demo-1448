@@ -6679,3 +6679,4 @@
 0181. ♻️ chore: add GitHub actions badge
 0008. 🚀 perf: reduce image load time
 0278. 🔧 refactor: clean up auth middleware
+0057. 🚀 perf: optimize database query for quiz results
