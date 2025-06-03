@@ -5622,3 +5622,4 @@
 0109. 🚀 perf: lazy-load components
 0614. 🚀 perf: reduce image load time
 0820. 📚 docs: add API usage examples
+0434. 📚 docs: document token refresh logic
