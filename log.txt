@@ -3240,3 +3240,4 @@
 0329. 📚 docs: update README with setup steps
 0171. 🐛 fix: fix broken CSS in mobile view
 0439. 🐛 fix: correct typo in registration form
+0526. ✨ feat: add user authentication
