@@ -3237,3 +3237,4 @@
 0974. ✨ feat: add export to CSV option
 0428. 🐛 fix: fix null pointer exception on login
 0539. 🔧 refactor: organize models into subfolders
+0329. 📚 docs: update README with setup steps
