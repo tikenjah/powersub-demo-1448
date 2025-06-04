@@ -8641,3 +8641,4 @@
 0308. 🚀 perf: reduce image load time
 0274. 🔧 refactor: refactor quiz grading logic
 0847. ♻️ chore: clean up unused files
+0397. 🐛 fix: handle 500 error in quiz API
