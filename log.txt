@@ -3251,3 +3251,4 @@
 0172. 📚 docs: add API usage examples
 0225. 🚀 perf: reduce image load time
 0907. 🔧 refactor: split large controller into smaller functions
+0049. 🐛 fix: handle 500 error in quiz API
