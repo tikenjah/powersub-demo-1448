@@ -5623,3 +5623,4 @@
 0614. 🚀 perf: reduce image load time
 0820. 📚 docs: add API usage examples
 0434. 📚 docs: document token refresh logic
+0051. ✨ feat: enable dark mode toggle
