@@ -3255,3 +3255,4 @@
 0713. 🐛 fix: handle 500 error in quiz API
 0925. ✨ feat: add export to CSV option
 0601. ✨ feat: implement quiz timer feature
+0335. ♻️ chore: update .gitignore
