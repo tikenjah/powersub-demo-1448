@@ -9641,3 +9641,4 @@
 0170. ✅ test: increase coverage on auth module
 0642. 🚀 perf: optimize database query for quiz results
 0962. ✨ feat: create admin dashboard
+0613. 🐛 fix: prevent crash on empty input
