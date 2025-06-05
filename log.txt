@@ -9640,3 +9640,4 @@
 0316. 🐛 fix: fix broken CSS in mobile view
 0170. ✅ test: increase coverage on auth module
 0642. 🚀 perf: optimize database query for quiz results
+0962. ✨ feat: create admin dashboard
