@@ -3258,3 +3258,4 @@
 0335. ♻️ chore: update .gitignore
 0687. 🎨 style: remove trailing whitespace
 0170. ✅ test: increase coverage on auth module
+0215. 🎨 style: reformat files with black
