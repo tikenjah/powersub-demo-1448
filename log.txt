@@ -5625,3 +5625,4 @@
 0434. 📚 docs: document token refresh logic
 0051. ✨ feat: enable dark mode toggle
 0989. 📚 docs: write FAQ section
+0127. 🐛 fix: fix null pointer exception on login
