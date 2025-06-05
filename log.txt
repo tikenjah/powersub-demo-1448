@@ -3265,3 +3265,4 @@
 0907. 🔧 refactor: split large controller into smaller functions
 0306. 🎨 style: apply consistent indentation
 0473. 📚 docs: write FAQ section
+0005. ✅ test: add unit test for quiz service
