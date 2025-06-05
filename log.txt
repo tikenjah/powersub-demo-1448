@@ -5624,3 +5624,4 @@
 0820. 📚 docs: add API usage examples
 0434. 📚 docs: document token refresh logic
 0051. ✨ feat: enable dark mode toggle
+0989. 📚 docs: write FAQ section
