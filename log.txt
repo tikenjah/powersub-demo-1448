@@ -6687,3 +6687,4 @@
 0323. 📚 docs: clarify environment setup
 0930. 🎨 style: apply consistent indentation
 0561. 📚 docs: write FAQ section
+0467. ✅ test: add integration test for /submit endpoint
