@@ -3268,3 +3268,4 @@
 0005. ✅ test: add unit test for quiz service
 0423. ✅ test: mock database connection in test suite
 0623. 🎨 style: standardize quote style
+0181. ♻️ chore: add GitHub actions badge
