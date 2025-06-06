@@ -3272,3 +3272,4 @@
 0497. 🔧 refactor: refactor quiz grading logic
 0949. 📚 docs: write FAQ section
 0018. 🔧 refactor: organize models into subfolders
+0461. ✨ feat: add user authentication
