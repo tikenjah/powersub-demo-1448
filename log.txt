@@ -3279,3 +3279,4 @@
 0580. ♻️ chore: bump dependencies
 0689. 🎨 style: reformat files with black
 0974. ✨ feat: add export to CSV option
+0693. 📚 docs: add API usage examples
