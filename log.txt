@@ -9647,3 +9647,4 @@
 0377. ✨ feat: add user authentication
 0749. ✨ feat: support email verification
 0284. ✨ feat: implement quiz timer feature
+0709. ♻️ chore: bump dependencies
