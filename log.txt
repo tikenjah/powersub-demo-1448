@@ -3297,3 +3297,4 @@
 0722. 📚 docs: add API usage examples
 0886. ♻️ chore: clean up unused files
 0481. ✅ test: add unit test for quiz service
+0477. 🐛 fix: fix broken CSS in mobile view
