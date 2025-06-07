@@ -5631,3 +5631,4 @@
 0299. 🐛 fix: resolve issue with date parsing
 0502. 📚 docs: update README with setup steps
 0529. 📚 docs: write FAQ section
+0294. 🐛 fix: prevent crash on empty input
