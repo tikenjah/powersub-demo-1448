@@ -3282,3 +3282,4 @@
 0693. 📚 docs: add API usage examples
 0927. ♻️ chore: bump dependencies
 0537. 🔧 refactor: remove redundant code blocks
+0978. 🐛 fix: prevent crash on empty input
