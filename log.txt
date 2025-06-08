@@ -10664,3 +10664,4 @@
 0382. 📚 docs: improve code comments in utils
 0530. 🔧 refactor: refactor quiz grading logic
 0455. ♻️ chore: clean up unused files
+0243. 🔧 refactor: clean up auth middleware
