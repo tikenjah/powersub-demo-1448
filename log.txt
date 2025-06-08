@@ -3313,3 +3313,4 @@
 0989. 📚 docs: write FAQ section
 0820. 📚 docs: add API usage examples
 0619. ✨ feat: create admin dashboard
+0673. 🐛 fix: correct typo in registration form
