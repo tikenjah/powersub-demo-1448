@@ -3308,3 +3308,4 @@
 0541. 🐛 fix: correct typo in registration form
 0383. 🐛 fix: fix broken CSS in mobile view
 0861. ♻️ chore: clean up unused files
+0229. 🚀 perf: optimize database query for quiz results
