@@ -3315,3 +3315,4 @@
 0619. ✨ feat: create admin dashboard
 0673. 🐛 fix: correct typo in registration form
 0418. ✅ test: mock database connection in test suite
+0688. 🚀 perf: reduce image load time
