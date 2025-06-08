@@ -3307,3 +3307,4 @@
 0228. 🔧 refactor: remove redundant code blocks
 0541. 🐛 fix: correct typo in registration form
 0383. 🐛 fix: fix broken CSS in mobile view
+0861. ♻️ chore: clean up unused files
