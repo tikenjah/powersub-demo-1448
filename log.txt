@@ -9648,3 +9648,4 @@
 0749. ✨ feat: support email verification
 0284. ✨ feat: implement quiz timer feature
 0709. ♻️ chore: bump dependencies
+0997. ✅ test: increase coverage on auth module
