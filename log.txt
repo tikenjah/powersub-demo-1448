@@ -3305,3 +3305,4 @@
 0619. ✨ feat: create admin dashboard
 0126. 🎨 style: rename variables for clarity
 0228. 🔧 refactor: remove redundant code blocks
+0541. 🐛 fix: correct typo in registration form
