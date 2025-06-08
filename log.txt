@@ -9649,3 +9649,4 @@
 0284. ✨ feat: implement quiz timer feature
 0709. ♻️ chore: bump dependencies
 0997. ✅ test: increase coverage on auth module
+0243. 🔧 refactor: clean up auth middleware
