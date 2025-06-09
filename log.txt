@@ -9651,3 +9651,4 @@
 0997. ✅ test: increase coverage on auth module
 0243. 🔧 refactor: clean up auth middleware
 0372. ✨ feat: add user authentication
+0591. ♻️ chore: clean up unused files
