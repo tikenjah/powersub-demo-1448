@@ -3334,3 +3334,4 @@
 0154. 🐛 fix: prevent crash on empty input
 0814. 🔧 refactor: remove redundant code blocks
 0561. 📚 docs: write FAQ section
+0198. 📚 docs: clarify environment setup
