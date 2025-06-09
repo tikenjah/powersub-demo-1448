@@ -9650,3 +9650,4 @@
 0709. ♻️ chore: bump dependencies
 0997. ✅ test: increase coverage on auth module
 0243. 🔧 refactor: clean up auth middleware
+0372. ✨ feat: add user authentication
