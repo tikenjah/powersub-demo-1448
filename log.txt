@@ -6696,3 +6696,4 @@
 0933. 📚 docs: clarify environment setup
 0285. 🐛 fix: resolve issue with date parsing
 0990. ♻️ chore: rename env.example
+0415. 🐛 fix: handle 500 error in quiz API
