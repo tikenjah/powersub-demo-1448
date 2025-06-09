@@ -8658,3 +8658,4 @@
 0239. 🎨 style: standardize quote style
 0948. 🐛 fix: fix broken CSS in mobile view
 0171. 🐛 fix: fix broken CSS in mobile view
+0571. 🔧 refactor: clean up auth middleware
