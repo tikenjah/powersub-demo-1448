@@ -5646,3 +5646,4 @@
 0873. 🚀 perf: cache repeated calculations
 0127. 🐛 fix: fix null pointer exception on login
 0582. ✨ feat: add export to CSV option
+0643. 🎨 style: apply consistent indentation
