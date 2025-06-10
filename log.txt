@@ -3339,3 +3339,4 @@
 0814. 🔧 refactor: remove redundant code blocks
 0746. ♻️ chore: add GitHub actions badge
 0148. 🔧 refactor: organize models into subfolders
+0507. 🔧 refactor: clean up auth middleware
