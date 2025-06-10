@@ -3338,3 +3338,4 @@
 0372. ✨ feat: add user authentication
 0814. 🔧 refactor: remove redundant code blocks
 0746. ♻️ chore: add GitHub actions badge
+0148. 🔧 refactor: organize models into subfolders
