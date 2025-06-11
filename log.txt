@@ -3359,3 +3359,4 @@
 0104. 🎨 style: apply consistent indentation
 0638. 📚 docs: improve code comments in utils
 0174. 📚 docs: clarify environment setup
+0706. ✨ feat: support email verification
