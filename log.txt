@@ -3352,3 +3352,4 @@
 0525. ✅ test: mock database connection in test suite
 0332. 🎨 style: standardize quote style
 0334. 🚀 perf: cache repeated calculations
+0947. 📚 docs: write FAQ section
