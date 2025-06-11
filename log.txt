@@ -6704,3 +6704,4 @@
 0637. 🎨 style: apply consistent indentation
 0474. ✅ test: add unit test for quiz service
 0085. ✨ feat: support email verification
+0774. 🔧 refactor: refactor quiz grading logic
