@@ -3362,3 +3362,4 @@
 0706. ✨ feat: support email verification
 0995. ✅ test: mock database connection in test suite
 0701. 🔧 refactor: clean up auth middleware
+0847. ♻️ chore: clean up unused files
