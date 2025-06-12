@@ -3367,3 +3367,4 @@
 0123. ✨ feat: implement quiz timer feature
 0348. ✅ test: test user registration edge cases
 0478. 🐛 fix: resolve issue with date parsing
+0120. ✅ test: add integration test for /submit endpoint
