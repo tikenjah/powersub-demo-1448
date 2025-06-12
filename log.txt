@@ -8668,3 +8668,4 @@
 0204. 🎨 style: standardize quote style
 0709. ♻️ chore: bump dependencies
 0470. 🎨 style: remove trailing whitespace
+0986. 📚 docs: document token refresh logic
