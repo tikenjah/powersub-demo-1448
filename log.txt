@@ -3374,3 +3374,4 @@
 0219. ✅ test: increase coverage on auth module
 0586. 🎨 style: remove trailing whitespace
 0442. 🎨 style: standardize quote style
+0937. 🐛 fix: handle 500 error in quiz API
