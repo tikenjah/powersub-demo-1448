@@ -7679,3 +7679,4 @@
 0290. ✅ test: test user registration edge cases
 0061. ✨ feat: create admin dashboard
 0549. ✨ feat: enable dark mode toggle
+0796. 🔧 refactor: refactor quiz grading logic
