@@ -8673,3 +8673,4 @@
 0320. 📚 docs: update README with setup steps
 0681. ✨ feat: create admin dashboard
 0345. 📚 docs: document token refresh logic
+0417. 🎨 style: rename variables for clarity
