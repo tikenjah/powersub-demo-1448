@@ -7681,3 +7681,4 @@
 0549. ✨ feat: enable dark mode toggle
 0796. 🔧 refactor: refactor quiz grading logic
 0637. 🎨 style: apply consistent indentation
+0713. 🐛 fix: handle 500 error in quiz API
