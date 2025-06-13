@@ -9663,3 +9663,4 @@
 0699. 🎨 style: standardize quote style
 0289. 🐛 fix: resolve issue with date parsing
 0415. 🐛 fix: handle 500 error in quiz API
+0187. ✨ feat: support email verification
