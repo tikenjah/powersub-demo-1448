@@ -7685,3 +7685,4 @@
 0443. 🎨 style: standardize quote style
 0655. 🚀 perf: cache repeated calculations
 0689. 🎨 style: reformat files with black
+0592. 📚 docs: add API usage examples
