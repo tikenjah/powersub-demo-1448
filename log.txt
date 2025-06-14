@@ -8676,3 +8676,4 @@
 0417. 🎨 style: rename variables for clarity
 0539. 🔧 refactor: organize models into subfolders
 0217. 🚀 perf: reduce image load time
+0783. 🐛 fix: handle 500 error in quiz API
