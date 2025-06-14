@@ -3403,3 +3403,4 @@
 0462. ♻️ chore: update .gitignore
 0156. 🎨 style: rename variables for clarity
 0930. 🎨 style: apply consistent indentation
+0024. 📚 docs: write FAQ section
