@@ -3420,3 +3420,4 @@
 0989. 📚 docs: write FAQ section
 0785. ✨ feat: enable dark mode toggle
 0339. 📚 docs: update README with setup steps
+0345. 📚 docs: document token refresh logic
