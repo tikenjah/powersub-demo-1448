@@ -3418,3 +3418,4 @@
 0797. 📚 docs: add API usage examples
 0368. 🚀 perf: lazy-load components
 0989. 📚 docs: write FAQ section
+0785. ✨ feat: enable dark mode toggle
