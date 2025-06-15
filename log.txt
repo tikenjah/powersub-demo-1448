@@ -3419,3 +3419,4 @@
 0368. 🚀 perf: lazy-load components
 0989. 📚 docs: write FAQ section
 0785. ✨ feat: enable dark mode toggle
+0339. 📚 docs: update README with setup steps
