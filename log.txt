@@ -9670,3 +9670,4 @@
 0330. ✅ test: test user registration edge cases
 0648. ♻️ chore: bump dependencies
 0937. 🐛 fix: handle 500 error in quiz API
+0489. 🔧 refactor: organize models into subfolders
