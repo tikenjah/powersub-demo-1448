@@ -10688,3 +10688,4 @@
 0559. 🔧 refactor: split large controller into smaller functions
 0934. ✨ feat: support email verification
 0356. 📚 docs: write FAQ section
+0526. ✨ feat: add user authentication
