@@ -5663,3 +5663,4 @@
 0655. 🚀 perf: cache repeated calculations
 0817. 🔧 refactor: remove redundant code blocks
 0283. ♻️ chore: add GitHub actions badge
+0330. ✅ test: test user registration edge cases
