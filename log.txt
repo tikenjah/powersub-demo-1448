@@ -3431,3 +3431,4 @@
 0837. 🚀 perf: cache repeated calculations
 0880. 🐛 fix: fix broken CSS in mobile view
 0773. 📚 docs: document token refresh logic
+0651. ✨ feat: enable dark mode toggle
