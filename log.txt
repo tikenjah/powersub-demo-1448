@@ -3430,3 +3430,4 @@
 0070. ✨ feat: implement quiz timer feature
 0837. 🚀 perf: cache repeated calculations
 0880. 🐛 fix: fix broken CSS in mobile view
+0773. 📚 docs: document token refresh logic
