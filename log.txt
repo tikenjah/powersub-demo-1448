@@ -5659,3 +5659,4 @@
 0205. 📚 docs: update README with setup steps
 0186. ✅ test: test user registration edge cases
 0399. ✅ test: mock database connection in test suite
+0715. ✨ feat: create admin dashboard
