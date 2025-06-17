@@ -3441,3 +3441,4 @@
 0038. 🎨 style: rename variables for clarity
 0854. ♻️ chore: rename env.example
 0285. 🐛 fix: resolve issue with date parsing
+0359. 🔧 refactor: clean up auth middleware
