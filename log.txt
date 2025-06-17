@@ -5669,3 +5669,4 @@
 0946. ✅ test: add unit test for quiz service
 0015. ✨ feat: implement quiz timer feature
 0991. ♻️ chore: clean up unused files
+0349. ✅ test: increase coverage on auth module
