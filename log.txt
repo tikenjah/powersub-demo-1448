@@ -8690,3 +8690,4 @@
 0688. 🚀 perf: reduce image load time
 0286. ✅ test: mock database connection in test suite
 0923. ✨ feat: support email verification
+0136. 🚀 perf: lazy-load components
