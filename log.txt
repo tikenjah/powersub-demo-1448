@@ -9678,3 +9678,4 @@
 0267. 📚 docs: improve code comments in utils
 0348. ✅ test: test user registration edge cases
 0495. 🔧 refactor: remove redundant code blocks
+0081. 🐛 fix: fix null pointer exception on login
