@@ -6719,3 +6719,4 @@
 0725. 🚀 perf: lazy-load components
 0640. ♻️ chore: bump dependencies
 0287. 📚 docs: write FAQ section
+0466. 🚀 perf: optimize database query for quiz results
