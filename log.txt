@@ -3448,3 +3448,4 @@
 0692. ✅ test: add integration test for /submit endpoint
 0969. ✨ feat: create admin dashboard
 0200. 🐛 fix: handle 500 error in quiz API
+0387. ✨ feat: enable dark mode toggle
