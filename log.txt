@@ -5671,3 +5671,4 @@
 0991. ♻️ chore: clean up unused files
 0349. ✅ test: increase coverage on auth module
 0105. 🐛 fix: correct typo in registration form
+0023. 📚 docs: clarify environment setup
