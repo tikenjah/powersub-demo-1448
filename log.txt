@@ -9680,3 +9680,4 @@
 0495. 🔧 refactor: remove redundant code blocks
 0081. 🐛 fix: fix null pointer exception on login
 0271. ✅ test: add unit test for quiz service
+0200. 🐛 fix: handle 500 error in quiz API
