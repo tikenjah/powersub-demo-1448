@@ -3467,3 +3467,4 @@
 0114. ♻️ chore: update .gitignore
 0571. 🔧 refactor: clean up auth middleware
 0116. ✨ feat: support email verification
+0066. 🔧 refactor: clean up auth middleware
