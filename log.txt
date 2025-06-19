@@ -3461,3 +3461,4 @@
 0239. 🎨 style: standardize quote style
 0290. ✅ test: test user registration edge cases
 0366. 🔧 refactor: remove redundant code blocks
+0383. 🐛 fix: fix broken CSS in mobile view
