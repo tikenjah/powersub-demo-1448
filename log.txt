@@ -3468,3 +3468,4 @@
 0571. 🔧 refactor: clean up auth middleware
 0116. ✨ feat: support email verification
 0066. 🔧 refactor: clean up auth middleware
+0703. 🔧 refactor: clean up auth middleware
