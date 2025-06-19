@@ -8693,3 +8693,4 @@
 0136. 🚀 perf: lazy-load components
 0232. 🎨 style: apply consistent indentation
 0252. 🎨 style: remove trailing whitespace
+0782. 📚 docs: improve code comments in utils
