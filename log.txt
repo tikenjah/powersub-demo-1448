@@ -10696,3 +10696,4 @@
 0982. 🚀 perf: lazy-load components
 0690. 🚀 perf: lazy-load components
 0750. 🎨 style: apply consistent indentation
+0850. ♻️ chore: rename env.example
