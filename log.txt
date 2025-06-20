@@ -6721,3 +6721,4 @@
 0287. 📚 docs: write FAQ section
 0466. 🚀 perf: optimize database query for quiz results
 0679. ♻️ chore: bump dependencies
+0551. 📚 docs: write FAQ section
