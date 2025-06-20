@@ -9686,3 +9686,4 @@
 0745. ✅ test: add unit test for quiz service
 0124. 🎨 style: reformat files with black
 0647. 🐛 fix: prevent crash on empty input
+0493. ✨ feat: add user authentication
