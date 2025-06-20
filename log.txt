@@ -9688,3 +9688,4 @@
 0647. 🐛 fix: prevent crash on empty input
 0493. ✨ feat: add user authentication
 0123. ✨ feat: implement quiz timer feature
+0451. ✨ feat: support email verification
