@@ -3472,3 +3472,4 @@
 0477. 🐛 fix: fix broken CSS in mobile view
 0863. 🐛 fix: correct typo in registration form
 0063. 🐛 fix: handle 500 error in quiz API
+0454. ♻️ chore: bump dependencies
