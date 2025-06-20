@@ -9690,3 +9690,4 @@
 0123. ✨ feat: implement quiz timer feature
 0451. ✨ feat: support email verification
 0077. ♻️ chore: rename env.example
+0341. 🚀 perf: lazy-load components
