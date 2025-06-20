@@ -6723,3 +6723,4 @@
 0679. ♻️ chore: bump dependencies
 0551. 📚 docs: write FAQ section
 0247. 🎨 style: apply consistent indentation
+0889. 🚀 perf: lazy-load components
