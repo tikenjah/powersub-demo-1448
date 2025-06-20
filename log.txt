@@ -3470,3 +3470,4 @@
 0066. 🔧 refactor: clean up auth middleware
 0703. 🔧 refactor: clean up auth middleware
 0477. 🐛 fix: fix broken CSS in mobile view
+0863. 🐛 fix: correct typo in registration form
