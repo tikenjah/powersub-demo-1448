@@ -5676,3 +5676,4 @@
 0201. 🔧 refactor: clean up auth middleware
 0402. 🎨 style: reformat files with black
 0826. 📚 docs: clarify environment setup
+0279. ✨ feat: support email verification
