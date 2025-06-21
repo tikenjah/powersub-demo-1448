@@ -3481,3 +3481,4 @@
 0385. ♻️ chore: clean up unused files
 0391. 🐛 fix: fix null pointer exception on login
 0194. 🎨 style: standardize quote style
+0447. ♻️ chore: bump dependencies
