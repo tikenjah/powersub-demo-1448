@@ -9691,3 +9691,4 @@
 0451. ✨ feat: support email verification
 0077. ♻️ chore: rename env.example
 0341. 🚀 perf: lazy-load components
+0517. ✅ test: mock database connection in test suite
