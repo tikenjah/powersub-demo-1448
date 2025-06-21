@@ -7706,3 +7706,4 @@
 0018. 🔧 refactor: organize models into subfolders
 0639. 🐛 fix: correct typo in registration form
 0967. ♻️ chore: add GitHub actions badge
+0636. ✅ test: increase coverage on auth module
