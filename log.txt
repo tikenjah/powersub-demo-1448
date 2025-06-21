@@ -3485,3 +3485,4 @@
 0675. 🔧 refactor: organize models into subfolders
 0479. 🐛 fix: fix null pointer exception on login
 0505. ♻️ chore: add GitHub actions badge
+0718. 🐛 fix: resolve issue with date parsing
