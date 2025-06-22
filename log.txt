@@ -3492,3 +3492,4 @@
 0646. ✅ test: test user registration edge cases
 0730. ✅ test: test user registration edge cases
 0289. 🐛 fix: resolve issue with date parsing
+0152. ✨ feat: add user authentication
