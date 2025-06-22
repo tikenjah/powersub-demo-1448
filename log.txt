@@ -3491,3 +3491,4 @@
 0339. 📚 docs: update README with setup steps
 0646. ✅ test: test user registration edge cases
 0730. ✅ test: test user registration edge cases
+0289. 🐛 fix: resolve issue with date parsing
