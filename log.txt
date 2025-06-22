@@ -3490,3 +3490,4 @@
 0087. ✨ feat: add export to CSV option
 0339. 📚 docs: update README with setup steps
 0646. ✅ test: test user registration edge cases
+0730. ✅ test: test user registration edge cases
