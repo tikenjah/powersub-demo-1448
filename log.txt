@@ -6729,3 +6729,4 @@
 0919. 🚀 perf: optimize database query for quiz results
 0366. 🔧 refactor: remove redundant code blocks
 0138. 🎨 style: rename variables for clarity
+0246. ✅ test: add integration test for /submit endpoint
