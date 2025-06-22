@@ -3489,3 +3489,4 @@
 0583. ✅ test: increase coverage on auth module
 0087. ✨ feat: add export to CSV option
 0339. 📚 docs: update README with setup steps
+0646. ✅ test: test user registration edge cases
