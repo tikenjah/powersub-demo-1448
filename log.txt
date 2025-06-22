@@ -5681,3 +5681,4 @@
 0684. 🚀 perf: reduce image load time
 0087. ✨ feat: add export to CSV option
 0991. ♻️ chore: clean up unused files
+0944. ✨ feat: add user authentication
