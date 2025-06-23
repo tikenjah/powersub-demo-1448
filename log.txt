@@ -7709,3 +7709,4 @@
 0636. ✅ test: increase coverage on auth module
 0934. ✨ feat: support email verification
 0709. ♻️ chore: bump dependencies
+0487. 🎨 style: reformat files with black
