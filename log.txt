@@ -3501,3 +3501,4 @@
 0332. 🎨 style: standardize quote style
 0651. ✨ feat: enable dark mode toggle
 0695. ✨ feat: create admin dashboard
+0628. ♻️ chore: add GitHub actions badge
