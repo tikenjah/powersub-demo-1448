@@ -3499,3 +3499,4 @@
 0766. 🎨 style: reformat files with black
 0209. ✨ feat: implement quiz timer feature
 0332. 🎨 style: standardize quote style
+0651. ✨ feat: enable dark mode toggle
