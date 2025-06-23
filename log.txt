@@ -9695,3 +9695,4 @@
 0220. 🐛 fix: fix null pointer exception on login
 0256. ✅ test: mock database connection in test suite
 0877. 🚀 perf: optimize database query for quiz results
+0277. 🎨 style: standardize quote style
