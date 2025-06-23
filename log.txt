@@ -3500,3 +3500,4 @@
 0209. ✨ feat: implement quiz timer feature
 0332. 🎨 style: standardize quote style
 0651. ✨ feat: enable dark mode toggle
+0695. ✨ feat: create admin dashboard
