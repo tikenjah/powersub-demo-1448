@@ -5684,3 +5684,4 @@
 0944. ✨ feat: add user authentication
 0290. ✅ test: test user registration edge cases
 0606. 📚 docs: improve code comments in utils
+0592. 📚 docs: add API usage examples
