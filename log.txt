@@ -5687,3 +5687,4 @@
 0592. 📚 docs: add API usage examples
 0254. 🚀 perf: reduce image load time
 0659. 📚 docs: add API usage examples
+0859. ✨ feat: create admin dashboard
