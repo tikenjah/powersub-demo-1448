@@ -3512,3 +3512,4 @@
 0115. 🚀 perf: reduce image load time
 0316. 🐛 fix: fix broken CSS in mobile view
 0177. 📚 docs: add API usage examples
+0766. 🎨 style: reformat files with black
