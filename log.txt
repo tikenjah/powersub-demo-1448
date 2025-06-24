@@ -3504,3 +3504,4 @@
 0628. ♻️ chore: add GitHub actions badge
 0370. 🚀 perf: reduce image load time
 0049. 🐛 fix: handle 500 error in quiz API
+0620. ✨ feat: implement quiz timer feature
