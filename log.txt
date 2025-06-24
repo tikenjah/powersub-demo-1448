@@ -3510,3 +3510,4 @@
 0702. ✨ feat: add user authentication
 0626. 🎨 style: standardize quote style
 0115. 🚀 perf: reduce image load time
+0316. 🐛 fix: fix broken CSS in mobile view
