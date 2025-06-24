@@ -3507,3 +3507,4 @@
 0620. ✨ feat: implement quiz timer feature
 0123. ✨ feat: implement quiz timer feature
 0897. 🐛 fix: prevent crash on empty input
+0702. ✨ feat: add user authentication
