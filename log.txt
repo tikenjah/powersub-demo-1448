@@ -3531,3 +3531,4 @@
 0596. ♻️ chore: update .gitignore
 0027. 📚 docs: clarify environment setup
 0124. 🎨 style: reformat files with black
+0629. 🔧 refactor: organize models into subfolders
