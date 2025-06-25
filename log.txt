@@ -3528,3 +3528,4 @@
 0346. ✅ test: mock database connection in test suite
 0797. 📚 docs: add API usage examples
 0939. 📚 docs: update README with setup steps
+0596. ♻️ chore: update .gitignore
