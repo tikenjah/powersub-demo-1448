@@ -6742,3 +6742,4 @@
 0142. ✨ feat: implement quiz timer feature
 0353. ♻️ chore: rename env.example
 0860. 🔧 refactor: organize models into subfolders
+0098. 🎨 style: rename variables for clarity
