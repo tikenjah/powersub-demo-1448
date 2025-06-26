@@ -3541,3 +3541,4 @@
 0588. 🔧 refactor: organize models into subfolders
 0444. ✅ test: add unit test for quiz service
 0978. 🐛 fix: prevent crash on empty input
+0207. 🐛 fix: prevent crash on empty input
