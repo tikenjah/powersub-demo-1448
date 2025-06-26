@@ -9701,3 +9701,4 @@
 0384. 📚 docs: clarify environment setup
 0235. 🐛 fix: fix null pointer exception on login
 0288. 🔧 refactor: refactor quiz grading logic
+0511. 🐛 fix: fix broken CSS in mobile view
