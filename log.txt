@@ -3544,3 +3544,4 @@
 0207. 🐛 fix: prevent crash on empty input
 0463. 🚀 perf: reduce image load time
 0949. 📚 docs: write FAQ section
+0206. 🐛 fix: handle 500 error in quiz API
