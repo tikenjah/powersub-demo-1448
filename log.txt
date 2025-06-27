@@ -7725,3 +7725,4 @@
 0473. 📚 docs: write FAQ section
 0594. 🎨 style: reformat files with black
 0998. 🐛 fix: fix null pointer exception on login
+0651. ✨ feat: enable dark mode toggle
