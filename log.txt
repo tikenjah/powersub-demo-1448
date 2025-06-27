@@ -3552,3 +3552,4 @@
 0300. ✨ feat: add export to CSV option
 0722. 📚 docs: add API usage examples
 0666. 🐛 fix: fix broken CSS in mobile view
+0277. 🎨 style: standardize quote style
