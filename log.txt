@@ -7720,3 +7720,4 @@
 0552. 🐛 fix: fix null pointer exception on login
 0504. 📚 docs: document token refresh logic
 0084. 🐛 fix: handle 500 error in quiz API
+0523. ♻️ chore: bump dependencies
