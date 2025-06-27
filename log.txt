@@ -3557,3 +3557,4 @@
 0321. 🔧 refactor: organize models into subfolders
 0564. 📚 docs: clarify environment setup
 0926. 🔧 refactor: organize models into subfolders
+0590. 🐛 fix: fix null pointer exception on login
