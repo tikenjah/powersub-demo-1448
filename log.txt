@@ -6751,3 +6751,4 @@
 0705. 🔧 refactor: refactor quiz grading logic
 0099. 🚀 perf: reduce image load time
 0704. 🚀 perf: cache repeated calculations
+0118. 🚀 perf: reduce image load time
