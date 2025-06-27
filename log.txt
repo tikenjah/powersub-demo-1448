@@ -7719,3 +7719,4 @@
 0124. 🎨 style: reformat files with black
 0552. 🐛 fix: fix null pointer exception on login
 0504. 📚 docs: document token refresh logic
+0084. 🐛 fix: handle 500 error in quiz API
