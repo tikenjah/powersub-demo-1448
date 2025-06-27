@@ -8714,3 +8714,4 @@
 0367. 🐛 fix: fix null pointer exception on login
 1000. ✅ test: increase coverage on auth module
 0394. 🚀 perf: lazy-load components
+0377. ✨ feat: add user authentication
