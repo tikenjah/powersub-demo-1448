@@ -9706,3 +9706,4 @@
 0548. 📚 docs: write FAQ section
 0730. ✅ test: test user registration edge cases
 0181. ♻️ chore: add GitHub actions badge
+0576. ♻️ chore: update .gitignore
