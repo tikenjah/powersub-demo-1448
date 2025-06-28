@@ -7727,3 +7727,4 @@
 0998. 🐛 fix: fix null pointer exception on login
 0651. ✨ feat: enable dark mode toggle
 0151. ✅ test: add unit test for quiz service
+0136. 🚀 perf: lazy-load components
