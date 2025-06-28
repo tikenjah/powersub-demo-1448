@@ -3568,3 +3568,4 @@
 0858. ♻️ chore: clean up unused files
 0847. ♻️ chore: clean up unused files
 0180. ✨ feat: add export to CSV option
+0111. 📚 docs: update README with setup steps
