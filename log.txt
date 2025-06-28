@@ -10716,3 +10716,4 @@
 0654. ✨ feat: create admin dashboard
 0040. 🔧 refactor: clean up auth middleware
 0966. 📚 docs: improve code comments in utils
+0887. 📚 docs: add API usage examples
