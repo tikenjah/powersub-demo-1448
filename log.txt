@@ -7728,3 +7728,4 @@
 0651. ✨ feat: enable dark mode toggle
 0151. ✅ test: add unit test for quiz service
 0136. 🚀 perf: lazy-load components
+0738. 🐛 fix: prevent crash on empty input
