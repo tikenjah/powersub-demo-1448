@@ -3563,3 +3563,4 @@
 0378. 🐛 fix: prevent crash on empty input
 0408. ♻️ chore: add GitHub actions badge
 0158. 📚 docs: clarify environment setup
+0127. 🐛 fix: fix null pointer exception on login
