@@ -3576,3 +3576,4 @@
 0570. 🎨 style: apply consistent indentation
 0830. 🎨 style: apply consistent indentation
 0349. ✅ test: increase coverage on auth module
+0996. ✅ test: test user registration edge cases
