@@ -6755,3 +6755,4 @@
 0878. 🔧 refactor: split large controller into smaller functions
 0382. 📚 docs: improve code comments in utils
 0150. 🎨 style: remove trailing whitespace
+0556. ✨ feat: support email verification
