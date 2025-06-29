@@ -7729,3 +7729,4 @@
 0151. ✅ test: add unit test for quiz service
 0136. 🚀 perf: lazy-load components
 0738. 🐛 fix: prevent crash on empty input
+0359. 🔧 refactor: clean up auth middleware
