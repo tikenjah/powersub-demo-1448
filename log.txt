@@ -6757,3 +6757,4 @@
 0150. 🎨 style: remove trailing whitespace
 0556. ✨ feat: support email verification
 0002. 🚀 perf: cache repeated calculations
+0259. 🚀 perf: lazy-load components
