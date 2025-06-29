@@ -8720,3 +8720,4 @@
 0937. 🐛 fix: handle 500 error in quiz API
 0533. ♻️ chore: add GitHub actions badge
 0972. 🔧 refactor: refactor quiz grading logic
+0371. ✅ test: add integration test for /submit endpoint
