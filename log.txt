@@ -3570,3 +3570,4 @@
 0180. ✨ feat: add export to CSV option
 0111. 📚 docs: update README with setup steps
 0539. 🔧 refactor: organize models into subfolders
+0049. 🐛 fix: handle 500 error in quiz API
