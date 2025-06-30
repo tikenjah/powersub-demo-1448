@@ -5699,3 +5699,4 @@
 0966. 📚 docs: improve code comments in utils
 0332. 🎨 style: standardize quote style
 0320. 📚 docs: update README with setup steps
+0538. 🐛 fix: fix broken CSS in mobile view
