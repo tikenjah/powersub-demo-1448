@@ -7734,3 +7734,4 @@
 0069. 🎨 style: rename variables for clarity
 0108. 🎨 style: remove trailing whitespace
 0452. ✨ feat: implement quiz timer feature
+0485. 📚 docs: update README with setup steps
