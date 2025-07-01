@@ -3605,3 +3605,4 @@
 0163. ✨ feat: implement quiz timer feature
 0400. 🐛 fix: fix null pointer exception on login
 0545. 🎨 style: standardize quote style
+0517. ✅ test: mock database connection in test suite
