@@ -3594,3 +3594,4 @@
 0826. 📚 docs: clarify environment setup
 0236. 🔧 refactor: remove redundant code blocks
 0499. 🎨 style: reformat files with black
+0921. 🐛 fix: correct typo in registration form
