@@ -3603,3 +3603,4 @@
 0833. ✨ feat: add user authentication
 0274. 🔧 refactor: refactor quiz grading logic
 0163. ✨ feat: implement quiz timer feature
+0400. 🐛 fix: fix null pointer exception on login
