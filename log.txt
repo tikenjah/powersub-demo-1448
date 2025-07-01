@@ -8723,3 +8723,4 @@
 0371. ✅ test: add integration test for /submit endpoint
 0463. 🚀 perf: reduce image load time
 0387. ✨ feat: enable dark mode toggle
+0284. ✨ feat: implement quiz timer feature
