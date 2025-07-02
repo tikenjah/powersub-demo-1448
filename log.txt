@@ -7735,3 +7735,4 @@
 0108. 🎨 style: remove trailing whitespace
 0452. ✨ feat: implement quiz timer feature
 0485. 📚 docs: update README with setup steps
+0835. 🐛 fix: prevent crash on empty input
