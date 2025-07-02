@@ -6766,3 +6766,4 @@
 0451. ✨ feat: support email verification
 0045. 🎨 style: apply consistent indentation
 0260. ✨ feat: create admin dashboard
+0408. ♻️ chore: add GitHub actions badge
