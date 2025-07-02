@@ -3614,3 +3614,4 @@
 0407. 🚀 perf: cache repeated calculations
 0912. 📚 docs: document token refresh logic
 0298. ♻️ chore: update .gitignore
+0475. 🔧 refactor: clean up auth middleware
