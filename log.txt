@@ -10724,3 +10724,4 @@
 0054. ♻️ chore: update .gitignore
 0024. 📚 docs: write FAQ section
 0061. ✨ feat: create admin dashboard
+0461. ✨ feat: add user authentication
