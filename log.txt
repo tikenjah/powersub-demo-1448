@@ -9722,3 +9722,4 @@
 0492. 🎨 style: remove trailing whitespace
 0393. 🚀 perf: lazy-load components
 0437. 📚 docs: clarify environment setup
+0551. 📚 docs: write FAQ section
