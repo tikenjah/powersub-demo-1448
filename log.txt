@@ -5712,3 +5712,4 @@
 0572. ✨ feat: add user authentication
 0243. 🔧 refactor: clean up auth middleware
 0607. 🐛 fix: prevent crash on empty input
+0140. 🐛 fix: handle 500 error in quiz API
