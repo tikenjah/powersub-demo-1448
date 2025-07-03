@@ -6767,3 +6767,4 @@
 0045. 🎨 style: apply consistent indentation
 0260. ✨ feat: create admin dashboard
 0408. ♻️ chore: add GitHub actions badge
+0242. ♻️ chore: clean up unused files
