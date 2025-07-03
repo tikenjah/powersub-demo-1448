@@ -5710,3 +5710,4 @@
 0495. 🔧 refactor: remove redundant code blocks
 0353. ♻️ chore: rename env.example
 0572. ✨ feat: add user authentication
+0243. 🔧 refactor: clean up auth middleware
