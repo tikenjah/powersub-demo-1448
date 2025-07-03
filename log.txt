@@ -5709,3 +5709,4 @@
 0993. ✨ feat: implement quiz timer feature
 0495. 🔧 refactor: remove redundant code blocks
 0353. ♻️ chore: rename env.example
+0572. ✨ feat: add user authentication
