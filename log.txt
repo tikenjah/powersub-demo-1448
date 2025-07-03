@@ -3633,3 +3633,4 @@
 0422. 🔧 refactor: organize models into subfolders
 0618. ✨ feat: support email verification
 0827. 🚀 perf: optimize database query for quiz results
+0464. 🎨 style: remove trailing whitespace
