@@ -10727,3 +10727,4 @@
 0461. ✨ feat: add user authentication
 0973. 🔧 refactor: organize models into subfolders
 0302. ✨ feat: implement quiz timer feature
+0224. 🐛 fix: fix broken CSS in mobile view
