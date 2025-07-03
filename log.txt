@@ -3619,3 +3619,4 @@
 0892. ✅ test: add unit test for quiz service
 0341. 🚀 perf: lazy-load components
 0150. 🎨 style: remove trailing whitespace
+0273. 🚀 perf: reduce image load time
