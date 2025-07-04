@@ -3639,3 +3639,4 @@
 0441. 📚 docs: add API usage examples
 0544. 🔧 refactor: organize models into subfolders
 0026. 🔧 refactor: clean up auth middleware
+0647. 🐛 fix: prevent crash on empty input
