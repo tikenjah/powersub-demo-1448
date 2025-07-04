@@ -5715,3 +5715,4 @@
 0140. 🐛 fix: handle 500 error in quiz API
 0489. 🔧 refactor: organize models into subfolders
 0012. 🚀 perf: cache repeated calculations
+0371. ✅ test: add integration test for /submit endpoint
