@@ -3638,3 +3638,4 @@
 0685. ✅ test: test user registration edge cases
 0441. 📚 docs: add API usage examples
 0544. 🔧 refactor: organize models into subfolders
+0026. 🔧 refactor: clean up auth middleware
