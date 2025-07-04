@@ -3646,3 +3646,4 @@
 0945. ♻️ chore: add GitHub actions badge
 0579. 📚 docs: clarify environment setup
 0132. ✅ test: add unit test for quiz service
+0359. 🔧 refactor: clean up auth middleware
