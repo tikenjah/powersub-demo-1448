@@ -10732,3 +10732,4 @@
 0968. 🎨 style: standardize quote style
 0369. 🎨 style: standardize quote style
 0980. 🎨 style: reformat files with black
+0580. ♻️ chore: bump dependencies
