@@ -3658,3 +3658,4 @@
 0555. ✨ feat: create admin dashboard
 0832. 🔧 refactor: remove redundant code blocks
 0161. ✨ feat: create admin dashboard
+0224. 🐛 fix: fix broken CSS in mobile view
