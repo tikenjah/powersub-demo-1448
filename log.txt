@@ -6770,3 +6770,4 @@
 0242. ♻️ chore: clean up unused files
 0381. ♻️ chore: clean up unused files
 0045. 🎨 style: apply consistent indentation
+0109. 🚀 perf: lazy-load components
