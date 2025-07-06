@@ -10734,3 +10734,4 @@
 0980. 🎨 style: reformat files with black
 0580. ♻️ chore: bump dependencies
 0494. 🎨 style: rename variables for clarity
+0233. 🚀 perf: lazy-load components
