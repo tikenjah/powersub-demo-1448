@@ -3662,3 +3662,4 @@
 0942. ✅ test: increase coverage on auth module
 0430. 🐛 fix: fix null pointer exception on login
 0552. 🐛 fix: fix null pointer exception on login
+0056. ♻️ chore: rename env.example
