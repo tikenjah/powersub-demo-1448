@@ -3674,3 +3674,4 @@
 0448. 🐛 fix: correct typo in registration form
 0996. ✅ test: test user registration edge cases
 0762. 🚀 perf: lazy-load components
+0292. 📚 docs: clarify environment setup
