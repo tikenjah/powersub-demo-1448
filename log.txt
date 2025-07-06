@@ -6771,3 +6771,4 @@
 0381. ♻️ chore: clean up unused files
 0045. 🎨 style: apply consistent indentation
 0109. 🚀 perf: lazy-load components
+0428. 🐛 fix: fix null pointer exception on login
