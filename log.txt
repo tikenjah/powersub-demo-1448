@@ -3660,3 +3660,4 @@
 0161. ✨ feat: create admin dashboard
 0224. 🐛 fix: fix broken CSS in mobile view
 0942. ✅ test: increase coverage on auth module
+0430. 🐛 fix: fix null pointer exception on login
