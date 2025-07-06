@@ -10737,3 +10737,4 @@
 0233. 🚀 perf: lazy-load components
 0115. 🚀 perf: reduce image load time
 0298. ♻️ chore: update .gitignore
+0178. ✨ feat: support email verification
