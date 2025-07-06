@@ -3663,3 +3663,4 @@
 0430. 🐛 fix: fix null pointer exception on login
 0552. 🐛 fix: fix null pointer exception on login
 0056. ♻️ chore: rename env.example
+0034. 📚 docs: improve code comments in utils
