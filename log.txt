@@ -3672,3 +3672,4 @@
 0272. 🔧 refactor: remove redundant code blocks
 0121. ✨ feat: support email verification
 0448. 🐛 fix: correct typo in registration form
+0996. ✅ test: test user registration edge cases
