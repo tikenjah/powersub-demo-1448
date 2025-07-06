@@ -3670,3 +3670,4 @@
 0270. ♻️ chore: rename env.example
 0856. 🐛 fix: fix null pointer exception on login
 0272. 🔧 refactor: remove redundant code blocks
+0121. ✨ feat: support email verification
