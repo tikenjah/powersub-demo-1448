@@ -8736,3 +8736,4 @@
 0755. 🚀 perf: cache repeated calculations
 0023. 📚 docs: clarify environment setup
 0687. 🎨 style: remove trailing whitespace
+0998. 🐛 fix: fix null pointer exception on login
