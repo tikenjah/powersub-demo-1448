@@ -10738,3 +10738,4 @@
 0115. 🚀 perf: reduce image load time
 0298. ♻️ chore: update .gitignore
 0178. ✨ feat: support email verification
+0833. ✨ feat: add user authentication
