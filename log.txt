@@ -3685,3 +3685,4 @@
 0853. 🔧 refactor: refactor quiz grading logic
 0741. 🎨 style: apply consistent indentation
 0221. ✨ feat: add user authentication
+0668. 🚀 perf: optimize database query for quiz results
