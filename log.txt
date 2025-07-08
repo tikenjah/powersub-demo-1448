@@ -3691,3 +3691,4 @@
 0174. 📚 docs: clarify environment setup
 0429. ✨ feat: add user authentication
 0753. 🔧 refactor: remove redundant code blocks
+0508. ✅ test: add unit test for quiz service
