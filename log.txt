@@ -8739,3 +8739,4 @@
 0998. 🐛 fix: fix null pointer exception on login
 0926. 🔧 refactor: organize models into subfolders
 0859. ✨ feat: create admin dashboard
+0741. 🎨 style: apply consistent indentation
