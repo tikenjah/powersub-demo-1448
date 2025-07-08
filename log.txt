@@ -10742,3 +10742,4 @@
 0508. ✅ test: add unit test for quiz service
 0372. ✨ feat: add user authentication
 0850. ♻️ chore: rename env.example
+0488. ♻️ chore: add GitHub actions badge
