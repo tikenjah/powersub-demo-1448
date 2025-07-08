@@ -5724,3 +5724,4 @@
 0564. 📚 docs: clarify environment setup
 0041. 🐛 fix: fix broken CSS in mobile view
 0998. 🐛 fix: fix null pointer exception on login
+0629. 🔧 refactor: organize models into subfolders
