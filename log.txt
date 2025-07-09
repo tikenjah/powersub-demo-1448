@@ -3712,3 +3712,4 @@
 0610. 🚀 perf: lazy-load components
 0857. 🎨 style: rename variables for clarity
 0548. 📚 docs: write FAQ section
+0504. 📚 docs: document token refresh logic
