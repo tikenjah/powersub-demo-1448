@@ -8746,3 +8746,4 @@
 0754. 🐛 fix: handle 500 error in quiz API
 0770. ♻️ chore: rename env.example
 0780. 📚 docs: add API usage examples
+0208. 🔧 refactor: clean up auth middleware
