@@ -3713,3 +3713,4 @@
 0857. 🎨 style: rename variables for clarity
 0548. 📚 docs: write FAQ section
 0504. 📚 docs: document token refresh logic
+0140. 🐛 fix: handle 500 error in quiz API
