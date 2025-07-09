@@ -7757,3 +7757,4 @@
 0205. 📚 docs: update README with setup steps
 0471. ✨ feat: support email verification
 0568. 🐛 fix: handle 500 error in quiz API
+0576. ♻️ chore: update .gitignore
