@@ -7759,3 +7759,4 @@
 0568. 🐛 fix: handle 500 error in quiz API
 0576. ♻️ chore: update .gitignore
 0192. ✨ feat: enable dark mode toggle
+0749. ✨ feat: support email verification
