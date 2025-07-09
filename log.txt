@@ -3711,3 +3711,4 @@
 0721. 🚀 perf: optimize database query for quiz results
 0610. 🚀 perf: lazy-load components
 0857. 🎨 style: rename variables for clarity
+0548. 📚 docs: write FAQ section
