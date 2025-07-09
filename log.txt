@@ -7754,3 +7754,4 @@
 0483. 📚 docs: update README with setup steps
 0102. ✨ feat: support email verification
 0420. 🚀 perf: reduce image load time
+0205. 📚 docs: update README with setup steps
