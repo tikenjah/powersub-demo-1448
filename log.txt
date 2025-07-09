@@ -3716,3 +3716,4 @@
 0140. 🐛 fix: handle 500 error in quiz API
 0047. 🎨 style: rename variables for clarity
 0302. ✨ feat: implement quiz timer feature
+0234. ♻️ chore: rename env.example
