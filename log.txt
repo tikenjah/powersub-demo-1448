@@ -5729,3 +5729,4 @@
 0639. 🐛 fix: correct typo in registration form
 0609. 🐛 fix: handle 500 error in quiz API
 0814. 🔧 refactor: remove redundant code blocks
+0998. 🐛 fix: fix null pointer exception on login
