@@ -6781,3 +6781,4 @@
 0479. 🐛 fix: fix null pointer exception on login
 0345. 📚 docs: document token refresh logic
 0599. ✅ test: test user registration edge cases
+0526. ✨ feat: add user authentication
