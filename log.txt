@@ -7761,3 +7761,4 @@
 0192. ✨ feat: enable dark mode toggle
 0749. ✨ feat: support email verification
 0184. 📚 docs: improve code comments in utils
+0111. 📚 docs: update README with setup steps
