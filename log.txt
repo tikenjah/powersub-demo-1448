@@ -3720,3 +3720,4 @@
 0895. ✨ feat: support email verification
 0222. 🐛 fix: handle 500 error in quiz API
 0206. 🐛 fix: handle 500 error in quiz API
+0873. 🚀 perf: cache repeated calculations
