@@ -3721,3 +3721,4 @@
 0222. 🐛 fix: handle 500 error in quiz API
 0206. 🐛 fix: handle 500 error in quiz API
 0873. 🚀 perf: cache repeated calculations
+0947. 📚 docs: write FAQ section
