@@ -3718,3 +3718,4 @@
 0302. ✨ feat: implement quiz timer feature
 0234. ♻️ chore: rename env.example
 0895. ✨ feat: support email verification
+0222. 🐛 fix: handle 500 error in quiz API
