@@ -5730,3 +5730,4 @@
 0609. 🐛 fix: handle 500 error in quiz API
 0814. 🔧 refactor: remove redundant code blocks
 0998. 🐛 fix: fix null pointer exception on login
+0251. ♻️ chore: update .gitignore
