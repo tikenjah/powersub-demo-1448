@@ -10748,3 +10748,4 @@
 0828. ♻️ chore: add GitHub actions badge
 0948. 🐛 fix: fix broken CSS in mobile view
 0648. ♻️ chore: bump dependencies
+0522. 🐛 fix: handle 500 error in quiz API
