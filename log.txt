@@ -3724,3 +3724,4 @@
 0947. 📚 docs: write FAQ section
 0336. ✨ feat: add export to CSV option
 0210. 🎨 style: apply consistent indentation
+0065. ✅ test: add integration test for /submit endpoint
