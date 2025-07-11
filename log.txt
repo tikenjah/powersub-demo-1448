@@ -6784,3 +6784,4 @@
 0526. ✨ feat: add user authentication
 0839. 🎨 style: apply consistent indentation
 0083. 🎨 style: reformat files with black
+0542. 🔧 refactor: organize models into subfolders
