@@ -8749,3 +8749,4 @@
 0208. 🔧 refactor: clean up auth middleware
 0363. 📚 docs: clarify environment setup
 0562. 🔧 refactor: clean up auth middleware
+0844. 📚 docs: update README with setup steps
