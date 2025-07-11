@@ -3741,3 +3741,4 @@
 0547. 📚 docs: write FAQ section
 0551. 📚 docs: write FAQ section
 0654. ✨ feat: create admin dashboard
+0932. ✅ test: add integration test for /submit endpoint
