@@ -3743,3 +3743,4 @@
 0654. ✨ feat: create admin dashboard
 0932. ✅ test: add integration test for /submit endpoint
 0546. 🐛 fix: fix null pointer exception on login
+0971. 🎨 style: standardize quote style
