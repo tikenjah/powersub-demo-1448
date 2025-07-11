@@ -3739,3 +3739,4 @@
 0506. 🐛 fix: handle 500 error in quiz API
 0354. 📚 docs: add API usage examples
 0547. 📚 docs: write FAQ section
+0551. 📚 docs: write FAQ section
