@@ -3740,3 +3740,4 @@
 0354. 📚 docs: add API usage examples
 0547. 📚 docs: write FAQ section
 0551. 📚 docs: write FAQ section
+0654. ✨ feat: create admin dashboard
