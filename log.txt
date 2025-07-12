@@ -6787,3 +6787,4 @@
 0542. 🔧 refactor: organize models into subfolders
 0193. 🚀 perf: optimize database query for quiz results
 0736. 🐛 fix: fix null pointer exception on login
+0092. 🚀 perf: reduce image load time
