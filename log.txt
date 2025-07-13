@@ -10752,3 +10752,4 @@
 0470. 🎨 style: remove trailing whitespace
 0684. 🚀 perf: reduce image load time
 0761. ✅ test: add unit test for quiz service
+0058. ♻️ chore: add GitHub actions badge
