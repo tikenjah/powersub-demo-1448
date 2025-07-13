@@ -3771,3 +3771,4 @@
 0504. 📚 docs: document token refresh logic
 0640. ♻️ chore: bump dependencies
 0474. ✅ test: add unit test for quiz service
+0944. ✨ feat: add user authentication
