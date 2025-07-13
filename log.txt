@@ -9748,3 +9748,4 @@
 0349. ✅ test: increase coverage on auth module
 0072. 🚀 perf: optimize database query for quiz results
 0244. ✨ feat: add export to CSV option
+0963. 🚀 perf: reduce image load time
