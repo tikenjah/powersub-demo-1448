@@ -10751,3 +10751,4 @@
 0522. 🐛 fix: handle 500 error in quiz API
 0470. 🎨 style: remove trailing whitespace
 0684. 🚀 perf: reduce image load time
+0761. ✅ test: add unit test for quiz service
