@@ -5742,3 +5742,4 @@
 0189. 📚 docs: clarify environment setup
 0979. 🎨 style: standardize quote style
 0673. 🐛 fix: correct typo in registration form
+0108. 🎨 style: remove trailing whitespace
