@@ -6791,3 +6791,4 @@
 0029. 🚀 perf: lazy-load components
 0161. ✨ feat: create admin dashboard
 0744. 🔧 refactor: remove redundant code blocks
+0605. ✨ feat: support email verification
