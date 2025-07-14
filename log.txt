@@ -5741,3 +5741,4 @@
 0377. ✨ feat: add user authentication
 0189. 📚 docs: clarify environment setup
 0979. 🎨 style: standardize quote style
+0673. 🐛 fix: correct typo in registration form
