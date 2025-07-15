@@ -3811,3 +3811,4 @@
 0833. ✨ feat: add user authentication
 0654. ✨ feat: create admin dashboard
 0276. ✅ test: add integration test for /submit endpoint
+0403. ✅ test: mock database connection in test suite
