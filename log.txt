@@ -3807,3 +3807,4 @@
 0180. ✨ feat: add export to CSV option
 0890. 🔧 refactor: organize models into subfolders
 0103. 🔧 refactor: remove redundant code blocks
+0112. ✨ feat: enable dark mode toggle
