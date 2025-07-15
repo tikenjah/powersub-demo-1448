@@ -3805,3 +3805,4 @@
 0806. 📚 docs: improve code comments in utils
 0790. 📚 docs: write FAQ section
 0180. ✨ feat: add export to CSV option
+0890. 🔧 refactor: organize models into subfolders
