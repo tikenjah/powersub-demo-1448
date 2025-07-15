@@ -3810,3 +3810,4 @@
 0112. ✨ feat: enable dark mode toggle
 0833. ✨ feat: add user authentication
 0654. ✨ feat: create admin dashboard
+0276. ✅ test: add integration test for /submit endpoint
