@@ -9754,3 +9754,4 @@
 0927. ♻️ chore: bump dependencies
 0993. ✨ feat: implement quiz timer feature
 0832. 🔧 refactor: remove redundant code blocks
+0573. ✅ test: add integration test for /submit endpoint
