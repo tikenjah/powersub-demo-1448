@@ -5745,3 +5745,4 @@
 0108. 🎨 style: remove trailing whitespace
 0953. 🎨 style: remove trailing whitespace
 0491. 🚀 perf: lazy-load components
+0834. ✅ test: increase coverage on auth module
