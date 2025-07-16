@@ -7773,3 +7773,4 @@
 0674. 🔧 refactor: split large controller into smaller functions
 0450. 🐛 fix: fix broken CSS in mobile view
 0211. 🔧 refactor: remove redundant code blocks
+0085. ✨ feat: support email verification
