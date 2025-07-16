@@ -6794,3 +6794,4 @@
 0605. ✨ feat: support email verification
 0073. 🔧 refactor: split large controller into smaller functions
 0647. 🐛 fix: prevent crash on empty input
+0235. 🐛 fix: fix null pointer exception on login
