@@ -10761,3 +10761,4 @@
 0136. 🚀 perf: lazy-load components
 0455. ♻️ chore: clean up unused files
 0518. ✨ feat: support email verification
+0970. ♻️ chore: update .gitignore
