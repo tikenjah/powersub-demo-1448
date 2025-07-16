@@ -8757,3 +8757,4 @@
 0628. ♻️ chore: add GitHub actions badge
 0756. ✨ feat: support email verification
 0861. ♻️ chore: clean up unused files
+0200. 🐛 fix: handle 500 error in quiz API
