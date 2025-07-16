@@ -8759,3 +8759,4 @@
 0861. ♻️ chore: clean up unused files
 0200. 🐛 fix: handle 500 error in quiz API
 0618. ✨ feat: support email verification
+0099. 🚀 perf: reduce image load time
