@@ -3834,3 +3834,4 @@
 0478. 🐛 fix: resolve issue with date parsing
 0779. 🔧 refactor: organize models into subfolders
 0747. 🔧 refactor: clean up auth middleware
+0227. ✅ test: test user registration edge cases
