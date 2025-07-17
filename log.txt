@@ -3828,3 +3828,4 @@
 0641. 📚 docs: write FAQ section
 0316. 🐛 fix: fix broken CSS in mobile view
 0670. ✨ feat: add export to CSV option
+0454. ♻️ chore: bump dependencies
