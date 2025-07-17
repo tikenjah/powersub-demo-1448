@@ -5750,3 +5750,4 @@
 0685. ✅ test: test user registration edge cases
 0615. 🐛 fix: correct typo in registration form
 0401. 🚀 perf: reduce image load time
+0251. ♻️ chore: update .gitignore
