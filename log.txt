@@ -10763,3 +10763,4 @@
 0518. ✨ feat: support email verification
 0970. ♻️ chore: update .gitignore
 0611. ✅ test: test user registration edge cases
+0372. ✨ feat: add user authentication
