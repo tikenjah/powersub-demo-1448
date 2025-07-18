@@ -3849,3 +3849,4 @@
 0116. ✨ feat: support email verification
 0293. ✅ test: add integration test for /submit endpoint
 0062. ♻️ chore: update .gitignore
+0865. ♻️ chore: add GitHub actions badge
