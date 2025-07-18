@@ -9761,3 +9761,4 @@
 0117. ✅ test: increase coverage on auth module
 0578. ✅ test: add integration test for /submit endpoint
 0022. 📚 docs: document token refresh logic
+0072. 🚀 perf: optimize database query for quiz results
