@@ -3848,3 +3848,4 @@
 0079. 🐛 fix: correct typo in registration form
 0116. ✨ feat: support email verification
 0293. ✅ test: add integration test for /submit endpoint
+0062. ♻️ chore: update .gitignore
