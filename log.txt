@@ -9763,3 +9763,4 @@
 0022. 📚 docs: document token refresh logic
 0072. 🚀 perf: optimize database query for quiz results
 0746. ♻️ chore: add GitHub actions badge
+0263. 📚 docs: add API usage examples
