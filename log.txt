@@ -9767,3 +9767,4 @@
 0145. 📚 docs: improve code comments in utils
 0447. ♻️ chore: bump dependencies
 0989. 📚 docs: write FAQ section
+0419. 🎨 style: remove trailing whitespace
