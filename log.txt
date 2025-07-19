@@ -5758,3 +5758,4 @@
 0031. 📚 docs: document token refresh logic
 0003. ✅ test: increase coverage on auth module
 0460. 📚 docs: write FAQ section
+0589. 🐛 fix: fix broken CSS in mobile view
