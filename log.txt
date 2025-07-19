@@ -5756,3 +5756,4 @@
 0825. 🔧 refactor: split large controller into smaller functions
 0451. ✨ feat: support email verification
 0031. 📚 docs: document token refresh logic
+0003. ✅ test: increase coverage on auth module
