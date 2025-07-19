@@ -9766,3 +9766,4 @@
 0263. 📚 docs: add API usage examples
 0145. 📚 docs: improve code comments in utils
 0447. ♻️ chore: bump dependencies
+0989. 📚 docs: write FAQ section
