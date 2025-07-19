@@ -3857,3 +3857,4 @@
 0282. 🔧 refactor: remove redundant code blocks
 0436. ✅ test: add integration test for /submit endpoint
 0955. 🔧 refactor: remove redundant code blocks
+0201. 🔧 refactor: clean up auth middleware
