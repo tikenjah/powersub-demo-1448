@@ -3861,3 +3861,4 @@
 0745. ✅ test: add unit test for quiz service
 0928. 🎨 style: apply consistent indentation
 0432. 🎨 style: apply consistent indentation
+0841. 🚀 perf: optimize database query for quiz results
