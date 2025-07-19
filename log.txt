@@ -5755,3 +5755,4 @@
 0922. 📚 docs: write FAQ section
 0825. 🔧 refactor: split large controller into smaller functions
 0451. ✨ feat: support email verification
+0031. 📚 docs: document token refresh logic
