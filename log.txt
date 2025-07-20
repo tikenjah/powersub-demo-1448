@@ -5761,3 +5761,4 @@
 0589. 🐛 fix: fix broken CSS in mobile view
 0372. ✨ feat: add user authentication
 0351. ✨ feat: add export to CSV option
+0686. 🎨 style: standardize quote style
