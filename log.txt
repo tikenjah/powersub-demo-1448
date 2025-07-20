@@ -5762,3 +5762,4 @@
 0372. ✨ feat: add user authentication
 0351. ✨ feat: add export to CSV option
 0686. 🎨 style: standardize quote style
+0122. ✨ feat: support email verification
