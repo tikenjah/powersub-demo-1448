@@ -5760,3 +5760,4 @@
 0460. 📚 docs: write FAQ section
 0589. 🐛 fix: fix broken CSS in mobile view
 0372. ✨ feat: add user authentication
+0351. ✨ feat: add export to CSV option
