@@ -7783,3 +7783,4 @@
 0506. 🐛 fix: handle 500 error in quiz API
 0209. ✨ feat: implement quiz timer feature
 0937. 🐛 fix: handle 500 error in quiz API
+0927. ♻️ chore: bump dependencies
