@@ -5765,3 +5765,4 @@
 0122. ✨ feat: support email verification
 0889. 🚀 perf: lazy-load components
 0383. 🐛 fix: fix broken CSS in mobile view
+0193. 🚀 perf: optimize database query for quiz results
