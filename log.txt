@@ -3881,3 +3881,4 @@
 0070. ✨ feat: implement quiz timer feature
 0554. 📚 docs: improve code comments in utils
 0108. 🎨 style: remove trailing whitespace
+0102. ✨ feat: support email verification
