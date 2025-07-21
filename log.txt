@@ -3883,3 +3883,4 @@
 0108. 🎨 style: remove trailing whitespace
 0102. ✨ feat: support email verification
 0998. 🐛 fix: fix null pointer exception on login
+0441. 📚 docs: add API usage examples
