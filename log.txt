@@ -5764,3 +5764,4 @@
 0686. 🎨 style: standardize quote style
 0122. ✨ feat: support email verification
 0889. 🚀 perf: lazy-load components
+0383. 🐛 fix: fix broken CSS in mobile view
