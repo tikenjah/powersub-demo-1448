@@ -6814,3 +6814,4 @@
 0483. 📚 docs: update README with setup steps
 0331. 🐛 fix: fix broken CSS in mobile view
 0806. 📚 docs: improve code comments in utils
+0131. 📚 docs: write FAQ section
