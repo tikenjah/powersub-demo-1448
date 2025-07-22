@@ -3889,3 +3889,4 @@
 0957. 🐛 fix: fix null pointer exception on login
 0171. 🐛 fix: fix broken CSS in mobile view
 0415. 🐛 fix: handle 500 error in quiz API
+0939. 📚 docs: update README with setup steps
