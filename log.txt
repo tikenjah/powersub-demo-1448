@@ -8770,3 +8770,4 @@
 0647. 🐛 fix: prevent crash on empty input
 0712. 🎨 style: apply consistent indentation
 0160. ♻️ chore: bump dependencies
+0929. ✨ feat: support email verification
