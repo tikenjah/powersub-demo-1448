@@ -9777,3 +9777,4 @@
 0600. 🐛 fix: prevent crash on empty input
 0452. ✨ feat: implement quiz timer feature
 0818. 🔧 refactor: remove redundant code blocks
+0788. 📚 docs: add API usage examples
