@@ -10778,3 +10778,4 @@
 0652. 🔧 refactor: organize models into subfolders
 0969. ✨ feat: create admin dashboard
 0271. ✅ test: add unit test for quiz service
+0754. 🐛 fix: handle 500 error in quiz API
