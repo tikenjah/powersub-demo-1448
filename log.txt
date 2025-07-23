@@ -7789,3 +7789,4 @@
 0370. 🚀 perf: reduce image load time
 0100. ♻️ chore: update .gitignore
 0555. ✨ feat: create admin dashboard
+0118. 🚀 perf: reduce image load time
