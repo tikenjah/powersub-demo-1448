@@ -3903,3 +3903,4 @@
 0203. 🚀 perf: lazy-load components
 0964. ♻️ chore: clean up unused files
 0747. 🔧 refactor: clean up auth middleware
+0677. 📚 docs: add API usage examples
