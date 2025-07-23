@@ -5770,3 +5770,4 @@
 0611. ✅ test: test user registration edge cases
 0289. 🐛 fix: resolve issue with date parsing
 0863. 🐛 fix: correct typo in registration form
+0880. 🐛 fix: fix broken CSS in mobile view
