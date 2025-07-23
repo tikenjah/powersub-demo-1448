@@ -3905,3 +3905,4 @@
 0747. 🔧 refactor: clean up auth middleware
 0677. 📚 docs: add API usage examples
 0036. 🔧 refactor: clean up auth middleware
+0588. 🔧 refactor: organize models into subfolders
