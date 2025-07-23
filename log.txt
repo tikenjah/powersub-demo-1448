@@ -10780,3 +10780,4 @@
 0271. ✅ test: add unit test for quiz service
 0754. 🐛 fix: handle 500 error in quiz API
 0302. ✨ feat: implement quiz timer feature
+0500. ✅ test: add integration test for /submit endpoint
