@@ -6822,3 +6822,4 @@
 0811. 🎨 style: reformat files with black
 0177. 📚 docs: add API usage examples
 0477. 🐛 fix: fix broken CSS in mobile view
+0111. 📚 docs: update README with setup steps
