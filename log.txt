@@ -8780,3 +8780,4 @@
 0045. 🎨 style: apply consistent indentation
 0930. 🎨 style: apply consistent indentation
 0619. ✨ feat: create admin dashboard
+0335. ♻️ chore: update .gitignore
