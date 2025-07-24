@@ -3914,3 +3914,4 @@
 0733. 🐛 fix: fix null pointer exception on login
 0323. 📚 docs: clarify environment setup
 0596. ♻️ chore: update .gitignore
+0803. ✅ test: mock database connection in test suite
