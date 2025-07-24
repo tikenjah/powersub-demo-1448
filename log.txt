@@ -5774,3 +5774,4 @@
 0559. 🔧 refactor: split large controller into smaller functions
 0856. 🐛 fix: fix null pointer exception on login
 0553. 🐛 fix: correct typo in registration form
+0124. 🎨 style: reformat files with black
