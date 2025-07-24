@@ -3919,3 +3919,4 @@
 0341. 🚀 perf: lazy-load components
 0682. ♻️ chore: rename env.example
 0301. 🎨 style: apply consistent indentation
+0218. 🔧 refactor: clean up auth middleware
