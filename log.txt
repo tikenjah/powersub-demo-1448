@@ -7791,3 +7791,4 @@
 0555. ✨ feat: create admin dashboard
 0118. 🚀 perf: reduce image load time
 0223. 🔧 refactor: remove redundant code blocks
+0823. ✨ feat: add user authentication
