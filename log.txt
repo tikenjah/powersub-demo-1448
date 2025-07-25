@@ -3937,3 +3937,4 @@
 0391. 🐛 fix: fix null pointer exception on login
 0306. 🎨 style: apply consistent indentation
 0323. 📚 docs: clarify environment setup
+0839. 🎨 style: apply consistent indentation
