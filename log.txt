@@ -3930,3 +3930,4 @@
 0925. ✨ feat: add export to CSV option
 0767. 🔧 refactor: remove redundant code blocks
 0411. ✅ test: add unit test for quiz service
+0245. 🐛 fix: resolve issue with date parsing
