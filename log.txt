@@ -3925,3 +3925,4 @@
 0648. ♻️ chore: bump dependencies
 0837. 🚀 perf: cache repeated calculations
 0011. ✅ test: add unit test for quiz service
+0208. 🔧 refactor: clean up auth middleware
