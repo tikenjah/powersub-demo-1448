@@ -7794,3 +7794,4 @@
 0823. ✨ feat: add user authentication
 0324. 📚 docs: document token refresh logic
 0895. ✨ feat: support email verification
+0695. ✨ feat: create admin dashboard
