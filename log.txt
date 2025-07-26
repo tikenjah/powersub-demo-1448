@@ -7796,3 +7796,4 @@
 0895. ✨ feat: support email verification
 0695. ✨ feat: create admin dashboard
 0444. ✅ test: add unit test for quiz service
+0196. ♻️ chore: bump dependencies
