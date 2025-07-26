@@ -10793,3 +10793,4 @@
 0295. 🎨 style: remove trailing whitespace
 0761. ✅ test: add unit test for quiz service
 0180. ✨ feat: add export to CSV option
+0259. 🚀 perf: lazy-load components
