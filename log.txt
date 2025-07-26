@@ -3951,3 +3951,4 @@
 0220. 🐛 fix: fix null pointer exception on login
 0489. 🔧 refactor: organize models into subfolders
 0226. 🚀 perf: lazy-load components
+0676. 🐛 fix: prevent crash on empty input
