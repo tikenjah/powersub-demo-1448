@@ -3939,3 +3939,4 @@
 0323. 📚 docs: clarify environment setup
 0839. 🎨 style: apply consistent indentation
 0602. 🔧 refactor: remove redundant code blocks
+0880. 🐛 fix: fix broken CSS in mobile view
