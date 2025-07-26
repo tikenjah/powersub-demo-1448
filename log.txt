@@ -8785,3 +8785,4 @@
 0349. ✅ test: increase coverage on auth module
 0570. 🎨 style: apply consistent indentation
 0471. ✨ feat: support email verification
+0768. 🎨 style: remove trailing whitespace
