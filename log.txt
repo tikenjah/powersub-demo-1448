@@ -3944,3 +3944,4 @@
 0912. 📚 docs: document token refresh logic
 0536. ✨ feat: add user authentication
 0321. 🔧 refactor: organize models into subfolders
+0798. 🚀 perf: reduce image load time
