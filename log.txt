@@ -6826,3 +6826,4 @@
 0316. 🐛 fix: fix broken CSS in mobile view
 0221. ✨ feat: add user authentication
 0844. 📚 docs: update README with setup steps
+0686. 🎨 style: standardize quote style
