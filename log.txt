@@ -6824,3 +6824,4 @@
 0477. 🐛 fix: fix broken CSS in mobile view
 0111. 📚 docs: update README with setup steps
 0316. 🐛 fix: fix broken CSS in mobile view
+0221. ✨ feat: add user authentication
