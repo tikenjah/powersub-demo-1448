@@ -9788,3 +9788,4 @@
 0304. 🔧 refactor: remove redundant code blocks
 0883. 📚 docs: improve code comments in utils
 0263. 📚 docs: add API usage examples
+0485. 📚 docs: update README with setup steps
