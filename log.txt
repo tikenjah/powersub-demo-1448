@@ -5784,3 +5784,4 @@
 0327. 🔧 refactor: split large controller into smaller functions
 0037. 🐛 fix: correct typo in registration form
 0608. 🔧 refactor: remove redundant code blocks
+0998. 🐛 fix: fix null pointer exception on login
