@@ -9789,3 +9789,4 @@
 0883. 📚 docs: improve code comments in utils
 0263. 📚 docs: add API usage examples
 0485. 📚 docs: update README with setup steps
+0593. 🐛 fix: correct typo in registration form
