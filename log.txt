@@ -5790,3 +5790,4 @@
 0095. ✅ test: mock database connection in test suite
 0191. 🔧 refactor: refactor quiz grading logic
 0380. 🐛 fix: fix null pointer exception on login
+0231. 🔧 refactor: clean up auth middleware
