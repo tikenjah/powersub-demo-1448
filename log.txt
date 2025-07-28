@@ -8788,3 +8788,4 @@
 0768. 🎨 style: remove trailing whitespace
 0420. 🚀 perf: reduce image load time
 0130. 🔧 refactor: split large controller into smaller functions
+0177. 📚 docs: add API usage examples
