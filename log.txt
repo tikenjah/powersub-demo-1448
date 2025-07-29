@@ -3983,3 +3983,4 @@
 0527. 🎨 style: remove trailing whitespace
 0794. ♻️ chore: clean up unused files
 0590. 🐛 fix: fix null pointer exception on login
+0573. ✅ test: add integration test for /submit endpoint
