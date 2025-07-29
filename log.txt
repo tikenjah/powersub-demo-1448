@@ -8793,3 +8793,4 @@
 0122. ✨ feat: support email verification
 0649. 📚 docs: update README with setup steps
 0134. ✨ feat: implement quiz timer feature
+0114. ♻️ chore: update .gitignore
