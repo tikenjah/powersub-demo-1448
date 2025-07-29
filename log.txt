@@ -8791,3 +8791,4 @@
 0177. 📚 docs: add API usage examples
 0415. 🐛 fix: handle 500 error in quiz API
 0122. ✨ feat: support email verification
+0649. 📚 docs: update README with setup steps
