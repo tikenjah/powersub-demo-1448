@@ -8790,3 +8790,4 @@
 0130. 🔧 refactor: split large controller into smaller functions
 0177. 📚 docs: add API usage examples
 0415. 🐛 fix: handle 500 error in quiz API
+0122. ✨ feat: support email verification
