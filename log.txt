@@ -3992,3 +3992,4 @@
 0842. 🎨 style: remove trailing whitespace
 0855. 🎨 style: reformat files with black
 0454. ♻️ chore: bump dependencies
+0049. 🐛 fix: handle 500 error in quiz API
