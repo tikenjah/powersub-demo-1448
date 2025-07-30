@@ -4002,3 +4002,4 @@
 0846. ✨ feat: implement quiz timer feature
 0485. 📚 docs: update README with setup steps
 0743. 🎨 style: apply consistent indentation
+0294. 🐛 fix: prevent crash on empty input
