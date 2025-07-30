@@ -3998,3 +3998,4 @@
 0102. ✨ feat: support email verification
 0491. 🚀 perf: lazy-load components
 0712. 🎨 style: apply consistent indentation
+0473. 📚 docs: write FAQ section
