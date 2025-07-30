@@ -4006,3 +4006,4 @@
 0831. 📚 docs: clarify environment setup
 0797. 📚 docs: add API usage examples
 0973. 🔧 refactor: organize models into subfolders
+0461. ✨ feat: add user authentication
