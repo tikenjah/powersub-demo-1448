@@ -4005,3 +4005,4 @@
 0294. 🐛 fix: prevent crash on empty input
 0831. 📚 docs: clarify environment setup
 0797. 📚 docs: add API usage examples
+0973. 🔧 refactor: organize models into subfolders
