@@ -3996,3 +3996,4 @@
 0704. 🚀 perf: cache repeated calculations
 0485. 📚 docs: update README with setup steps
 0102. ✨ feat: support email verification
+0491. 🚀 perf: lazy-load components
