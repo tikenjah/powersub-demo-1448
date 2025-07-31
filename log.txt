@@ -6837,3 +6837,4 @@
 0585. 🚀 perf: lazy-load components
 0079. 🐛 fix: correct typo in registration form
 0067. 🔧 refactor: remove redundant code blocks
+0974. ✨ feat: add export to CSV option
