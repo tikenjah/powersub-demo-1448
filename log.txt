@@ -6838,3 +6838,4 @@
 0079. 🐛 fix: correct typo in registration form
 0067. 🔧 refactor: remove redundant code blocks
 0974. ✨ feat: add export to CSV option
+0505. ♻️ chore: add GitHub actions badge
