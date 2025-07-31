@@ -4009,3 +4009,4 @@
 0461. ✨ feat: add user authentication
 0435. ✅ test: add unit test for quiz service
 0077. ♻️ chore: rename env.example
+0612. ✅ test: test user registration edge cases
