@@ -7803,3 +7803,4 @@
 0754. 🐛 fix: handle 500 error in quiz API
 0910. 🎨 style: remove trailing whitespace
 0016. 🎨 style: apply consistent indentation
+0895. ✨ feat: support email verification
