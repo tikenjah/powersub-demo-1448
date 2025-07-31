@@ -4016,3 +4016,4 @@
 0048. 📚 docs: update README with setup steps
 0339. 📚 docs: update README with setup steps
 0253. 📚 docs: update README with setup steps
+0589. 🐛 fix: fix broken CSS in mobile view
