@@ -6840,3 +6840,4 @@
 0974. ✨ feat: add export to CSV option
 0505. ♻️ chore: add GitHub actions badge
 0456. 🚀 perf: optimize database query for quiz results
+0111. 📚 docs: update README with setup steps
