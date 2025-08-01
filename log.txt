@@ -5799,3 +5799,4 @@
 0755. 🚀 perf: cache repeated calculations
 0994. 🚀 perf: reduce image load time
 0547. 📚 docs: write FAQ section
+0914. ✅ test: test user registration edge cases
