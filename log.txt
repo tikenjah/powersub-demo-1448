@@ -5801,3 +5801,4 @@
 0547. 📚 docs: write FAQ section
 0914. ✅ test: test user registration edge cases
 0713. 🐛 fix: handle 500 error in quiz API
+0840. 🔧 refactor: refactor quiz grading logic
