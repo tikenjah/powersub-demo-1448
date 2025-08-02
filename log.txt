@@ -10809,3 +10809,4 @@
 0204. 🎨 style: standardize quote style
 0313. 🎨 style: apply consistent indentation
 0470. 🎨 style: remove trailing whitespace
+0026. 🔧 refactor: clean up auth middleware
