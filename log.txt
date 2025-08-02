@@ -9811,3 +9811,4 @@
 0280. ✅ test: add integration test for /submit endpoint
 1000. ✅ test: increase coverage on auth module
 0945. ♻️ chore: add GitHub actions badge
+0255. 🔧 refactor: refactor quiz grading logic
