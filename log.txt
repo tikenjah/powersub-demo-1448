@@ -4044,3 +4044,4 @@
 0694. 🎨 style: rename variables for clarity
 0565. ♻️ chore: add GitHub actions badge
 0875. ✅ test: increase coverage on auth module
+0949. 📚 docs: write FAQ section
