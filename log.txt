@@ -7806,3 +7806,4 @@
 0895. ✨ feat: support email verification
 0453. 🎨 style: standardize quote style
 0839. 🎨 style: apply consistent indentation
+0727. ♻️ chore: add GitHub actions badge
