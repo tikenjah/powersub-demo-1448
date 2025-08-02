@@ -9808,3 +9808,4 @@
 0005. ✅ test: add unit test for quiz service
 0609. 🐛 fix: handle 500 error in quiz API
 0213. ✅ test: add integration test for /submit endpoint
+0280. ✅ test: add integration test for /submit endpoint
