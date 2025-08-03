@@ -4048,3 +4048,4 @@
 0617. ✨ feat: support email verification
 0279. ✨ feat: support email verification
 0090. ✅ test: increase coverage on auth module
+0254. 🚀 perf: reduce image load time
