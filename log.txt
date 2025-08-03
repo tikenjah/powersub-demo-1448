@@ -7808,3 +7808,4 @@
 0839. 🎨 style: apply consistent indentation
 0727. ♻️ chore: add GitHub actions badge
 0863. 🐛 fix: correct typo in registration form
+0730. ✅ test: test user registration edge cases
