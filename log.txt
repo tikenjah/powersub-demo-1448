@@ -4050,3 +4050,4 @@
 0090. ✅ test: increase coverage on auth module
 0254. 🚀 perf: reduce image load time
 0198. 📚 docs: clarify environment setup
+0276. ✅ test: add integration test for /submit endpoint
