@@ -4058,3 +4058,4 @@
 0818. 🔧 refactor: remove redundant code blocks
 0365. 🚀 perf: reduce image load time
 0608. 🔧 refactor: remove redundant code blocks
+0804. ♻️ chore: add GitHub actions badge
