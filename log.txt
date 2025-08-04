@@ -9814,3 +9814,4 @@
 0255. 🔧 refactor: refactor quiz grading logic
 0431. 🎨 style: reformat files with black
 0225. 🚀 perf: reduce image load time
+0844. 📚 docs: update README with setup steps
