@@ -8812,3 +8812,4 @@
 0862. ♻️ chore: bump dependencies
 0758. 🚀 perf: optimize database query for quiz results
 0908. ♻️ chore: bump dependencies
+0306. 🎨 style: apply consistent indentation
