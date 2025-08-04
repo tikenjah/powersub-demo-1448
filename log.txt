@@ -10818,3 +10818,4 @@
 0680. ♻️ chore: add GitHub actions badge
 0450. 🐛 fix: fix broken CSS in mobile view
 0348. ✅ test: test user registration edge cases
+0337. 📚 docs: document token refresh logic
