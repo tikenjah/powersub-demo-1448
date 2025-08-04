@@ -4065,3 +4065,4 @@
 0778. 📚 docs: write FAQ section
 0634. 🎨 style: reformat files with black
 0350. 🚀 perf: cache repeated calculations
+0759. 🔧 refactor: organize models into subfolders
