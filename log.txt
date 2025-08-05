@@ -6851,3 +6851,4 @@
 0988. 🐛 fix: fix broken CSS in mobile view
 0837. 🚀 perf: cache repeated calculations
 0300. ✨ feat: add export to CSV option
+0573. ✅ test: add integration test for /submit endpoint
