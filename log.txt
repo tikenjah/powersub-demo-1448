@@ -7815,3 +7815,4 @@
 0379. ✨ feat: support email verification
 0924. ✅ test: mock database connection in test suite
 0918. ✨ feat: enable dark mode toggle
+0200. 🐛 fix: handle 500 error in quiz API
