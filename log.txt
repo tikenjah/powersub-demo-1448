@@ -4077,3 +4077,4 @@
 0010. ✨ feat: add user authentication
 0409. 🚀 perf: lazy-load components
 0587. 🔧 refactor: remove redundant code blocks
+0372. ✨ feat: add user authentication
