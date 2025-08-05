@@ -10820,3 +10820,4 @@
 0348. ✅ test: test user registration edge cases
 0337. 📚 docs: document token refresh logic
 0051. ✨ feat: enable dark mode toggle
+0618. ✨ feat: support email verification
