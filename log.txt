@@ -4080,3 +4080,4 @@
 0372. ✨ feat: add user authentication
 0319. 🐛 fix: handle 500 error in quiz API
 0888. 🚀 perf: lazy-load components
+0013. ✅ test: increase coverage on auth module
