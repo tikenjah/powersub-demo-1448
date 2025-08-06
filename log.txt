@@ -4098,3 +4098,4 @@
 0869. ♻️ chore: bump dependencies
 0320. 📚 docs: update README with setup steps
 0180. ✨ feat: add export to CSV option
+0326. 🚀 perf: cache repeated calculations
