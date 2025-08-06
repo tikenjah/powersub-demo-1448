@@ -6852,3 +6852,4 @@
 0837. 🚀 perf: cache repeated calculations
 0300. ✨ feat: add export to CSV option
 0573. ✅ test: add integration test for /submit endpoint
+0707. 🎨 style: apply consistent indentation
