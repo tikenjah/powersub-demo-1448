@@ -8817,3 +8817,4 @@
 0287. 📚 docs: write FAQ section
 0654. ✨ feat: create admin dashboard
 0411. ✅ test: add unit test for quiz service
+0958. 🐛 fix: prevent crash on empty input
