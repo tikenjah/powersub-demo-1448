@@ -4095,3 +4095,4 @@
 0217. 🚀 perf: reduce image load time
 0909. 🔧 refactor: organize models into subfolders
 0335. ♻️ chore: update .gitignore
+0869. ♻️ chore: bump dependencies
