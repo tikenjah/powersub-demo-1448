@@ -9820,3 +9820,4 @@
 0959. 🐛 fix: fix null pointer exception on login
 0335. ♻️ chore: update .gitignore
 0058. ♻️ chore: add GitHub actions badge
+0065. ✅ test: add integration test for /submit endpoint
