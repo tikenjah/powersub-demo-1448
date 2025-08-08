@@ -4125,3 +4125,4 @@
 0307. ✨ feat: support email verification
 0402. 🎨 style: reformat files with black
 0803. ✅ test: mock database connection in test suite
+0935. 📚 docs: update README with setup steps
