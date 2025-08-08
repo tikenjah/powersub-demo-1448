@@ -4122,3 +4122,4 @@
 0777. 📚 docs: document token refresh logic
 0878. 🔧 refactor: split large controller into smaller functions
 0695. ✨ feat: create admin dashboard
+0307. ✨ feat: support email verification
