@@ -7826,3 +7826,4 @@
 0349. ✅ test: increase coverage on auth module
 0778. 📚 docs: write FAQ section
 0637. 🎨 style: apply consistent indentation
+0573. ✅ test: add integration test for /submit endpoint
