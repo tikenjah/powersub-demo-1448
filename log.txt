@@ -4117,3 +4117,4 @@
 0749. ✨ feat: support email verification
 0344. ♻️ chore: add GitHub actions badge
 0839. 🎨 style: apply consistent indentation
+0221. ✨ feat: add user authentication
