@@ -6859,3 +6859,4 @@
 0613. 🐛 fix: prevent crash on empty input
 0430. 🐛 fix: fix null pointer exception on login
 0802. 🔧 refactor: remove redundant code blocks
+0769. ✨ feat: create admin dashboard
