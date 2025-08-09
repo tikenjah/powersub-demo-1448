@@ -4132,3 +4132,4 @@
 0566. 📚 docs: write FAQ section
 0353. ♻️ chore: rename env.example
 0435. ✅ test: add unit test for quiz service
+0869. ♻️ chore: bump dependencies
