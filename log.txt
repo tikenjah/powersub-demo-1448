@@ -6856,3 +6856,4 @@
 0032. 🎨 style: apply consistent indentation
 0991. ♻️ chore: clean up unused files
 0469. 🚀 perf: lazy-load components
+0613. 🐛 fix: prevent crash on empty input
