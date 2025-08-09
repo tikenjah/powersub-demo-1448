@@ -4133,3 +4133,4 @@
 0353. ♻️ chore: rename env.example
 0435. ✅ test: add unit test for quiz service
 0869. ♻️ chore: bump dependencies
+0593. 🐛 fix: correct typo in registration form
