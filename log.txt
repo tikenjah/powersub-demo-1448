@@ -4137,3 +4137,4 @@
 0158. 📚 docs: clarify environment setup
 0051. ✨ feat: enable dark mode toggle
 0180. ✨ feat: add export to CSV option
+0308. 🚀 perf: reduce image load time
