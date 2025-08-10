@@ -4143,3 +4143,4 @@
 0089. 🔧 refactor: remove redundant code blocks
 0749. ✨ feat: support email verification
 0762. 🚀 perf: lazy-load components
+0730. ✅ test: test user registration edge cases
