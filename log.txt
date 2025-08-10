@@ -6863,3 +6863,4 @@
 0365. 🚀 perf: reduce image load time
 0567. 📚 docs: add API usage examples
 0427. ✅ test: mock database connection in test suite
+0986. 📚 docs: document token refresh logic
