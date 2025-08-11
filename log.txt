@@ -4155,3 +4155,4 @@
 0671. 🐛 fix: fix null pointer exception on login
 0783. 🐛 fix: handle 500 error in quiz API
 0334. 🚀 perf: cache repeated calculations
+0154. 🐛 fix: prevent crash on empty input
