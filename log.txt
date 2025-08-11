@@ -8832,3 +8832,4 @@
 0293. ✅ test: add integration test for /submit endpoint
 0241. 📚 docs: add API usage examples
 0934. ✨ feat: support email verification
+0909. 🔧 refactor: organize models into subfolders
