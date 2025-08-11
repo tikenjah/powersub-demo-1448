@@ -10834,3 +10834,4 @@
 0115. 🚀 perf: reduce image load time
 0700. 🎨 style: rename variables for clarity
 0678. ✨ feat: add user authentication
+0482. ✨ feat: add export to CSV option
