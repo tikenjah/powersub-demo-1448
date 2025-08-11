@@ -4159,3 +4159,4 @@
 0808. 🚀 perf: optimize database query for quiz results
 0191. 🔧 refactor: refactor quiz grading logic
 0699. 🎨 style: standardize quote style
+0006. 🐛 fix: prevent crash on empty input
