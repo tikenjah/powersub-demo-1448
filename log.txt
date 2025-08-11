@@ -6864,3 +6864,4 @@
 0567. 📚 docs: add API usage examples
 0427. ✅ test: mock database connection in test suite
 0986. 📚 docs: document token refresh logic
+0325. 🎨 style: rename variables for clarity
