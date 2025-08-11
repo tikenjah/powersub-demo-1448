@@ -5829,3 +5829,4 @@
 0401. 🚀 perf: reduce image load time
 0804. ♻️ chore: add GitHub actions badge
 0633. ✨ feat: add user authentication
+0670. ✨ feat: add export to CSV option
