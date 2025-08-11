@@ -10835,3 +10835,4 @@
 0700. 🎨 style: rename variables for clarity
 0678. ✨ feat: add user authentication
 0482. ✨ feat: add export to CSV option
+0546. 🐛 fix: fix null pointer exception on login
