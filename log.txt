@@ -4181,3 +4181,4 @@
 0598. 🔧 refactor: remove redundant code blocks
 0453. 🎨 style: standardize quote style
 0230. ✨ feat: create admin dashboard
+0562. 🔧 refactor: clean up auth middleware
