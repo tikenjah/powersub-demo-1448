@@ -7840,3 +7840,4 @@
 0952. 🔧 refactor: split large controller into smaller functions
 0044. ✅ test: add unit test for quiz service
 0563. 📚 docs: clarify environment setup
+0259. 🚀 perf: lazy-load components
