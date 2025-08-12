@@ -6868,3 +6868,4 @@
 0904. ✨ feat: implement quiz timer feature
 0424. ✨ feat: add user authentication
 0886. ♻️ chore: clean up unused files
+0473. 📚 docs: write FAQ section
