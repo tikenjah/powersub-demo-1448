@@ -4172,3 +4172,4 @@
 0043. ✅ test: add integration test for /submit endpoint
 0739. 🎨 style: remove trailing whitespace
 0086. 🐛 fix: correct typo in registration form
+0064. 📚 docs: clarify environment setup
