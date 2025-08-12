@@ -4170,3 +4170,4 @@
 0662. ♻️ chore: clean up unused files
 0720. ✨ feat: add export to CSV option
 0043. ✅ test: add integration test for /submit endpoint
+0739. 🎨 style: remove trailing whitespace
