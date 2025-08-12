@@ -8833,3 +8833,4 @@
 0241. 📚 docs: add API usage examples
 0934. ✨ feat: support email verification
 0909. 🔧 refactor: organize models into subfolders
+0076. 🎨 style: reformat files with black
