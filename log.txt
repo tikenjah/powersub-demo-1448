@@ -6870,3 +6870,4 @@
 0886. ♻️ chore: clean up unused files
 0473. 📚 docs: write FAQ section
 0936. 🔧 refactor: organize models into subfolders
+0437. 📚 docs: clarify environment setup
