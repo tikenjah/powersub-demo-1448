@@ -7841,3 +7841,4 @@
 0044. ✅ test: add unit test for quiz service
 0563. 📚 docs: clarify environment setup
 0259. 🚀 perf: lazy-load components
+0207. 🐛 fix: prevent crash on empty input
