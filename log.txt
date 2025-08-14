@@ -4197,3 +4197,4 @@
 0777. 📚 docs: document token refresh logic
 0457. 🐛 fix: handle 500 error in quiz API
 0029. 🚀 perf: lazy-load components
+0305. ✨ feat: enable dark mode toggle
