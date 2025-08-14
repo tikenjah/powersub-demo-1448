@@ -9837,3 +9837,4 @@
 0161. ✨ feat: create admin dashboard
 0727. ♻️ chore: add GitHub actions badge
 0910. 🎨 style: remove trailing whitespace
+0335. ♻️ chore: update .gitignore
