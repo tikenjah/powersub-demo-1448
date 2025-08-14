@@ -5835,3 +5835,4 @@
 0455. ♻️ chore: clean up unused files
 0659. 📚 docs: add API usage examples
 0372. ✨ feat: add user authentication
+0660. 🐛 fix: correct typo in registration form
