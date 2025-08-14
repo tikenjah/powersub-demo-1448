@@ -4211,3 +4211,4 @@
 0674. 🔧 refactor: split large controller into smaller functions
 0954. 🚀 perf: cache repeated calculations
 0099. 🚀 perf: reduce image load time
+0578. ✅ test: add integration test for /submit endpoint
