@@ -9838,3 +9838,4 @@
 0727. ♻️ chore: add GitHub actions badge
 0910. 🎨 style: remove trailing whitespace
 0335. ♻️ chore: update .gitignore
+0697. ♻️ chore: bump dependencies
