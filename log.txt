@@ -4208,3 +4208,4 @@
 0599. ✅ test: test user registration edge cases
 0795. 📚 docs: update README with setup steps
 0689. 🎨 style: reformat files with black
+0674. 🔧 refactor: split large controller into smaller functions
