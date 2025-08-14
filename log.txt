@@ -4206,3 +4206,4 @@
 0759. 🔧 refactor: organize models into subfolders
 0332. 🎨 style: standardize quote style
 0599. ✅ test: test user registration edge cases
+0795. 📚 docs: update README with setup steps
