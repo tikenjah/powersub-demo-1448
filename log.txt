@@ -8837,3 +8837,4 @@
 0206. 🐛 fix: handle 500 error in quiz API
 0285. 🐛 fix: resolve issue with date parsing
 0578. ✅ test: add integration test for /submit endpoint
+0713. 🐛 fix: handle 500 error in quiz API
