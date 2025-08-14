@@ -7844,3 +7844,4 @@
 0207. 🐛 fix: prevent crash on empty input
 0659. 📚 docs: add API usage examples
 0364. 🐛 fix: resolve issue with date parsing
+0547. 📚 docs: write FAQ section
