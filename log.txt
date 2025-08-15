@@ -4217,3 +4217,4 @@
 0215. 🎨 style: reformat files with black
 0690. 🚀 perf: lazy-load components
 0609. 🐛 fix: handle 500 error in quiz API
+0546. 🐛 fix: fix null pointer exception on login
