@@ -5839,3 +5839,4 @@
 0641. 📚 docs: write FAQ section
 0082. 🔧 refactor: refactor quiz grading logic
 0884. 📚 docs: clarify environment setup
+0178. ✨ feat: support email verification
