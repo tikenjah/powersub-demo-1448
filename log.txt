@@ -5841,3 +5841,4 @@
 0884. 📚 docs: clarify environment setup
 0178. ✨ feat: support email verification
 0494. 🎨 style: rename variables for clarity
+0546. 🐛 fix: fix null pointer exception on login
