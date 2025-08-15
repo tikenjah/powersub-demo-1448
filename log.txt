@@ -5838,3 +5838,4 @@
 0660. 🐛 fix: correct typo in registration form
 0641. 📚 docs: write FAQ section
 0082. 🔧 refactor: refactor quiz grading logic
+0884. 📚 docs: clarify environment setup
