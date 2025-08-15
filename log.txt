@@ -4227,3 +4227,4 @@
 0959. 🐛 fix: fix null pointer exception on login
 0537. 🔧 refactor: remove redundant code blocks
 0536. ✨ feat: add user authentication
+0852. ✨ feat: enable dark mode toggle
