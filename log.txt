@@ -4229,3 +4229,4 @@
 0536. ✨ feat: add user authentication
 0852. ✨ feat: enable dark mode toggle
 0662. ♻️ chore: clean up unused files
+0187. ✨ feat: support email verification
