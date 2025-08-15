@@ -6874,3 +6874,4 @@
 0031. 📚 docs: document token refresh logic
 0702. ✨ feat: add user authentication
 0937. 🐛 fix: handle 500 error in quiz API
+0971. 🎨 style: standardize quote style
