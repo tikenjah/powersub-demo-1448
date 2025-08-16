@@ -8846,3 +8846,4 @@
 0497. 🔧 refactor: refactor quiz grading logic
 0916. ♻️ chore: bump dependencies
 0030. 🐛 fix: fix null pointer exception on login
+0877. 🚀 perf: optimize database query for quiz results
