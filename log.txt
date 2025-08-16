@@ -8848,3 +8848,4 @@
 0030. 🐛 fix: fix null pointer exception on login
 0877. 🚀 perf: optimize database query for quiz results
 0810. 🔧 refactor: refactor quiz grading logic
+0865. ♻️ chore: add GitHub actions badge
