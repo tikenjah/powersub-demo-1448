@@ -4244,3 +4244,4 @@
 0081. 🐛 fix: fix null pointer exception on login
 0528. ♻️ chore: clean up unused files
 0495. 🔧 refactor: remove redundant code blocks
+0063. 🐛 fix: handle 500 error in quiz API
