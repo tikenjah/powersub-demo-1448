@@ -4240,3 +4240,4 @@
 0409. 🚀 perf: lazy-load components
 0704. 🚀 perf: cache repeated calculations
 0208. 🔧 refactor: clean up auth middleware
+0250. 📚 docs: update README with setup steps
