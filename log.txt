@@ -4236,3 +4236,4 @@
 0905. ♻️ chore: bump dependencies
 0611. ✅ test: test user registration edge cases
 0668. 🚀 perf: optimize database query for quiz results
+0358. 🚀 perf: reduce image load time
