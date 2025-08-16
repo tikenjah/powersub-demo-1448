@@ -5842,3 +5842,4 @@
 0178. ✨ feat: support email verification
 0494. 🎨 style: rename variables for clarity
 0546. 🐛 fix: fix null pointer exception on login
+0321. 🔧 refactor: organize models into subfolders
