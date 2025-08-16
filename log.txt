@@ -9839,3 +9839,4 @@
 0910. 🎨 style: remove trailing whitespace
 0335. ♻️ chore: update .gitignore
 0697. ♻️ chore: bump dependencies
+0562. 🔧 refactor: clean up auth middleware
