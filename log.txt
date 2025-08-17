@@ -4245,3 +4245,4 @@
 0528. ♻️ chore: clean up unused files
 0495. 🔧 refactor: remove redundant code blocks
 0063. 🐛 fix: handle 500 error in quiz API
+0476. 🚀 perf: reduce image load time
