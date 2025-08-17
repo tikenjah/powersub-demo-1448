@@ -7848,3 +7848,4 @@
 0953. 🎨 style: remove trailing whitespace
 0313. 🎨 style: apply consistent indentation
 0306. 🎨 style: apply consistent indentation
+0949. 📚 docs: write FAQ section
