@@ -10845,3 +10845,4 @@
 0347. ♻️ chore: update .gitignore
 0596. ♻️ chore: update .gitignore
 0575. ✅ test: add unit test for quiz service
+0752. ✅ test: add integration test for /submit endpoint
