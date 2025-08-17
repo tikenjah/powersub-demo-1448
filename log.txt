@@ -6876,3 +6876,4 @@
 0937. 🐛 fix: handle 500 error in quiz API
 0971. 🎨 style: standardize quote style
 0422. 🔧 refactor: organize models into subfolders
+0006. 🐛 fix: prevent crash on empty input
