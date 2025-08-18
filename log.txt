@@ -9847,3 +9847,4 @@
 0966. 📚 docs: improve code comments in utils
 0541. 🐛 fix: correct typo in registration form
 0513. ♻️ chore: bump dependencies
+0625. 🐛 fix: handle 500 error in quiz API
