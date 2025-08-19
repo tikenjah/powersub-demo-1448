@@ -7851,3 +7851,4 @@
 0949. 📚 docs: write FAQ section
 0021. ✨ feat: support email verification
 0195. 📚 docs: clarify environment setup
+0666. 🐛 fix: fix broken CSS in mobile view
