@@ -9849,3 +9849,4 @@
 0513. ♻️ chore: bump dependencies
 0625. 🐛 fix: handle 500 error in quiz API
 0291. 📚 docs: write FAQ section
+0811. 🎨 style: reformat files with black
