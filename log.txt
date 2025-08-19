@@ -9848,3 +9848,4 @@
 0541. 🐛 fix: correct typo in registration form
 0513. ♻️ chore: bump dependencies
 0625. 🐛 fix: handle 500 error in quiz API
+0291. 📚 docs: write FAQ section
