@@ -8858,3 +8858,4 @@
 0010. ✨ feat: add user authentication
 0395. 📚 docs: write FAQ section
 0840. 🔧 refactor: refactor quiz grading logic
+0451. ✨ feat: support email verification
