@@ -4282,3 +4282,4 @@
 0721. 🚀 perf: optimize database query for quiz results
 0133. 🐛 fix: fix null pointer exception on login
 0325. 🎨 style: rename variables for clarity
+0170. ✅ test: increase coverage on auth module
