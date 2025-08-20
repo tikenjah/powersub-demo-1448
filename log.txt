@@ -10851,3 +10851,4 @@
 0790. 📚 docs: write FAQ section
 0696. 🔧 refactor: clean up auth middleware
 0831. 📚 docs: clarify environment setup
+0823. ✨ feat: add user authentication
