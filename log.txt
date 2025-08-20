@@ -7853,3 +7853,4 @@
 0195. 📚 docs: clarify environment setup
 0666. 🐛 fix: fix broken CSS in mobile view
 0036. 🔧 refactor: clean up auth middleware
+0787. ♻️ chore: rename env.example
