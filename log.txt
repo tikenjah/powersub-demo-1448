@@ -4278,3 +4278,4 @@
 0750. 🎨 style: apply consistent indentation
 0716. ✨ feat: implement quiz timer feature
 0347. ♻️ chore: update .gitignore
+0278. 🔧 refactor: clean up auth middleware
