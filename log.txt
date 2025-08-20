@@ -10852,3 +10852,4 @@
 0696. 🔧 refactor: clean up auth middleware
 0831. 📚 docs: clarify environment setup
 0823. ✨ feat: add user authentication
+0540. ♻️ chore: add GitHub actions badge
