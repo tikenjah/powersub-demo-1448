@@ -4297,3 +4297,4 @@
 0965. 🎨 style: reformat files with black
 0935. 📚 docs: update README with setup steps
 0533. ♻️ chore: add GitHub actions badge
+0686. 🎨 style: standardize quote style
