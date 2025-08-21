@@ -4299,3 +4299,4 @@
 0533. ♻️ chore: add GitHub actions badge
 0686. 🎨 style: standardize quote style
 0923. ✨ feat: support email verification
+0833. ✨ feat: add user authentication
