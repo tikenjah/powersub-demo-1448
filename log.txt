@@ -4289,3 +4289,4 @@
 0080. ✨ feat: support email verification
 0804. ♻️ chore: add GitHub actions badge
 0801. ✨ feat: enable dark mode toggle
+0451. ✨ feat: support email verification
