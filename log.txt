@@ -4287,3 +4287,4 @@
 0739. 🎨 style: remove trailing whitespace
 0183. 🔧 refactor: split large controller into smaller functions
 0080. ✨ feat: support email verification
+0804. ♻️ chore: add GitHub actions badge
