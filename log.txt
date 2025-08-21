@@ -9856,3 +9856,4 @@
 0378. 🐛 fix: prevent crash on empty input
 0644. 🎨 style: apply consistent indentation
 0377. ✨ feat: add user authentication
+0048. 📚 docs: update README with setup steps
