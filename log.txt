@@ -8861,3 +8861,4 @@
 0451. ✨ feat: support email verification
 0352. ✨ feat: add export to CSV option
 0538. 🐛 fix: fix broken CSS in mobile view
+0398. 🚀 perf: cache repeated calculations
