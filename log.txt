@@ -4308,3 +4308,4 @@
 0557. 🔧 refactor: clean up auth middleware
 0703. 🔧 refactor: clean up auth middleware
 1000. ✅ test: increase coverage on auth module
+0629. 🔧 refactor: organize models into subfolders
