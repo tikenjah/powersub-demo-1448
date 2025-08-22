@@ -4319,3 +4319,4 @@
 0996. ✅ test: test user registration edge cases
 0580. ♻️ chore: bump dependencies
 0834. ✅ test: increase coverage on auth module
+0596. ♻️ chore: update .gitignore
