@@ -4315,3 +4315,4 @@
 0457. 🐛 fix: handle 500 error in quiz API
 0545. 🎨 style: standardize quote style
 0155. ✨ feat: create admin dashboard
+0648. ♻️ chore: bump dependencies
