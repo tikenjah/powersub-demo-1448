@@ -4322,3 +4322,4 @@
 0596. ♻️ chore: update .gitignore
 0535. 📚 docs: write FAQ section
 0560. 🎨 style: rename variables for clarity
+0066. 🔧 refactor: clean up auth middleware
