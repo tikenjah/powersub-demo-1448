@@ -5858,3 +5858,4 @@
 0066. 🔧 refactor: clean up auth middleware
 0487. 🎨 style: reformat files with black
 0580. ♻️ chore: bump dependencies
+0542. 🔧 refactor: organize models into subfolders
