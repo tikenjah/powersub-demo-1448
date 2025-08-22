@@ -6882,3 +6882,4 @@
 0198. 📚 docs: clarify environment setup
 0510. 🎨 style: rename variables for clarity
 0269. ✅ test: test user registration edge cases
+0105. 🐛 fix: correct typo in registration form
