@@ -4305,3 +4305,4 @@
 0720. ✨ feat: add export to CSV option
 0118. 🚀 perf: reduce image load time
 0261. 🔧 refactor: refactor quiz grading logic
+0557. 🔧 refactor: clean up auth middleware
