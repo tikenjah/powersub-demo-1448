@@ -4317,3 +4317,4 @@
 0155. ✨ feat: create admin dashboard
 0648. ♻️ chore: bump dependencies
 0996. ✅ test: test user registration edge cases
+0580. ♻️ chore: bump dependencies
