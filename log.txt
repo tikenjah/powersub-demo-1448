@@ -4307,3 +4307,4 @@
 0261. 🔧 refactor: refactor quiz grading logic
 0557. 🔧 refactor: clean up auth middleware
 0703. 🔧 refactor: clean up auth middleware
+1000. ✅ test: increase coverage on auth module
