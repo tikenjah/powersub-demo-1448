@@ -7863,3 +7863,4 @@
 0040. 🔧 refactor: clean up auth middleware
 0596. ♻️ chore: update .gitignore
 0750. 🎨 style: apply consistent indentation
+0681. ✨ feat: create admin dashboard
