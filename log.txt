@@ -8866,3 +8866,4 @@
 0324. 📚 docs: document token refresh logic
 0730. ✅ test: test user registration edge cases
 0356. 📚 docs: write FAQ section
+0977. 🔧 refactor: organize models into subfolders
