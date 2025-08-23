@@ -6883,3 +6883,4 @@
 0510. 🎨 style: rename variables for clarity
 0269. ✅ test: test user registration edge cases
 0105. 🐛 fix: correct typo in registration form
+0631. ✨ feat: create admin dashboard
