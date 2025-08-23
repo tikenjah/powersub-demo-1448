@@ -4327,3 +4327,4 @@
 0901. ✨ feat: add user authentication
 0727. ♻️ chore: add GitHub actions badge
 0181. ♻️ chore: add GitHub actions badge
+0696. 🔧 refactor: clean up auth middleware
