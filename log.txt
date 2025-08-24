@@ -4342,3 +4342,4 @@
 0199. ✨ feat: create admin dashboard
 0278. 🔧 refactor: clean up auth middleware
 0277. 🎨 style: standardize quote style
+0978. 🐛 fix: prevent crash on empty input
