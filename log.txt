@@ -4338,3 +4338,4 @@
 0916. ♻️ chore: bump dependencies
 0157. ✅ test: mock database connection in test suite
 0481. ✅ test: add unit test for quiz service
+0740. 🐛 fix: resolve issue with date parsing
