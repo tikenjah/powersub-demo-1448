@@ -7865,3 +7865,4 @@
 0750. 🎨 style: apply consistent indentation
 0681. ✨ feat: create admin dashboard
 0891. ✨ feat: create admin dashboard
+0203. 🚀 perf: lazy-load components
