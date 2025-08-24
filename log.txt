@@ -4340,3 +4340,4 @@
 0481. ✅ test: add unit test for quiz service
 0740. 🐛 fix: resolve issue with date parsing
 0199. ✨ feat: create admin dashboard
+0278. 🔧 refactor: clean up auth middleware
