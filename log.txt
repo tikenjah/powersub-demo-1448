@@ -6886,3 +6886,4 @@
 0631. ✨ feat: create admin dashboard
 0154. 🐛 fix: prevent crash on empty input
 0680. ♻️ chore: add GitHub actions badge
+0614. 🚀 perf: reduce image load time
