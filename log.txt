@@ -4353,3 +4353,4 @@
 0092. 🚀 perf: reduce image load time
 0376. 🎨 style: apply consistent indentation
 0822. 🔧 refactor: remove redundant code blocks
+0518. ✨ feat: support email verification
