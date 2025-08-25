@@ -4349,3 +4349,4 @@
 0491. 🚀 perf: lazy-load components
 0115. 🚀 perf: reduce image load time
 0224. 🐛 fix: fix broken CSS in mobile view
+0375. 🐛 fix: handle 500 error in quiz API
