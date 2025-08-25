@@ -4347,3 +4347,4 @@
 0613. 🐛 fix: prevent crash on empty input
 0592. 📚 docs: add API usage examples
 0491. 🚀 perf: lazy-load components
+0115. 🚀 perf: reduce image load time
