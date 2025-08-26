@@ -6888,3 +6888,4 @@
 0680. ♻️ chore: add GitHub actions badge
 0614. 🚀 perf: reduce image load time
 0393. 🚀 perf: lazy-load components
+0593. 🐛 fix: correct typo in registration form
