@@ -5867,3 +5867,4 @@
 0330. ✅ test: test user registration edge cases
 0112. ✨ feat: enable dark mode toggle
 0605. ✨ feat: support email verification
+0650. ✅ test: add unit test for quiz service
