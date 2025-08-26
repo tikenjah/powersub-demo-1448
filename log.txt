@@ -5871,3 +5871,4 @@
 0967. ♻️ chore: add GitHub actions badge
 0077. ♻️ chore: rename env.example
 0048. 📚 docs: update README with setup steps
+0091. ✨ feat: add user authentication
