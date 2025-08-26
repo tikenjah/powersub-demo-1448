@@ -5870,3 +5870,4 @@
 0650. ✅ test: add unit test for quiz service
 0967. ♻️ chore: add GitHub actions badge
 0077. ♻️ chore: rename env.example
+0048. 📚 docs: update README with setup steps
