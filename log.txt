@@ -4374,3 +4374,4 @@
 0603. 🐛 fix: fix broken CSS in mobile view
 0136. 🚀 perf: lazy-load components
 0946. ✅ test: add unit test for quiz service
+0791. 🔧 refactor: clean up auth middleware
