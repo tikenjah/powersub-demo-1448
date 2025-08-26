@@ -4371,3 +4371,4 @@
 0741. 🎨 style: apply consistent indentation
 0684. 🚀 perf: reduce image load time
 0609. 🐛 fix: handle 500 error in quiz API
+0603. 🐛 fix: fix broken CSS in mobile view
