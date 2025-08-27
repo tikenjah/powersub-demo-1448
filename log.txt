@@ -4391,3 +4391,4 @@
 0127. 🐛 fix: fix null pointer exception on login
 0226. 🚀 perf: lazy-load components
 0479. 🐛 fix: fix null pointer exception on login
+0718. 🐛 fix: resolve issue with date parsing
