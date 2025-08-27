@@ -5877,3 +5877,4 @@
 0092. 🚀 perf: reduce image load time
 0301. 🎨 style: apply consistent indentation
 0526. ✨ feat: add user authentication
+0978. 🐛 fix: prevent crash on empty input
