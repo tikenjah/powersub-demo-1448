@@ -9876,3 +9876,4 @@
 0792. 🎨 style: standardize quote style
 0524. ♻️ chore: rename env.example
 0743. 🎨 style: apply consistent indentation
+0249. ✅ test: increase coverage on auth module
