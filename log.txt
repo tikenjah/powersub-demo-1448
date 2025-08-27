@@ -5873,3 +5873,4 @@
 0048. 📚 docs: update README with setup steps
 0091. ✨ feat: add user authentication
 0212. 🎨 style: standardize quote style
+0029. 🚀 perf: lazy-load components
