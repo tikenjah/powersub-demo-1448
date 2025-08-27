@@ -6892,3 +6892,4 @@
 0848. 📚 docs: update README with setup steps
 0334. 🚀 perf: cache repeated calculations
 0027. 📚 docs: clarify environment setup
+0836. 🚀 perf: optimize database query for quiz results
