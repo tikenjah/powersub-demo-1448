@@ -9880,3 +9880,4 @@
 0493. ✨ feat: add user authentication
 0024. 📚 docs: write FAQ section
 0198. 📚 docs: clarify environment setup
+0502. 📚 docs: update README with setup steps
