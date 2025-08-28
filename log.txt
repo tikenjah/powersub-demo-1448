@@ -10875,3 +10875,4 @@
 0580. ♻️ chore: bump dependencies
 0998. 🐛 fix: fix null pointer exception on login
 0720. ✨ feat: add export to CSV option
+0647. 🐛 fix: prevent crash on empty input
