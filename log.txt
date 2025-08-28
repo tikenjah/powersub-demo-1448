@@ -4408,3 +4408,4 @@
 0953. 🎨 style: remove trailing whitespace
 0558. ✨ feat: enable dark mode toggle
 0366. 🔧 refactor: remove redundant code blocks
+0551. 📚 docs: write FAQ section
