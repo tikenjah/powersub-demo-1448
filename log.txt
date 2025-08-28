@@ -4409,3 +4409,4 @@
 0558. ✨ feat: enable dark mode toggle
 0366. 🔧 refactor: remove redundant code blocks
 0551. 📚 docs: write FAQ section
+0820. 📚 docs: add API usage examples
