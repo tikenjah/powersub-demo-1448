@@ -4406,3 +4406,4 @@
 0329. 📚 docs: update README with setup steps
 0103. 🔧 refactor: remove redundant code blocks
 0953. 🎨 style: remove trailing whitespace
+0558. ✨ feat: enable dark mode toggle
