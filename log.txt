@@ -8880,3 +8880,4 @@
 0770. ♻️ chore: rename env.example
 0107. 🐛 fix: prevent crash on empty input
 0221. ✨ feat: add user authentication
+0610. 🚀 perf: lazy-load components
