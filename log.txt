@@ -4413,3 +4413,4 @@
 0335. ♻️ chore: update .gitignore
 0704. 🚀 perf: cache repeated calculations
 0335. ♻️ chore: update .gitignore
+0998. 🐛 fix: fix null pointer exception on login
