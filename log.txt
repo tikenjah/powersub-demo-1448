@@ -5882,3 +5882,4 @@
 0328. 🐛 fix: resolve issue with date parsing
 0080. ✨ feat: support email verification
 0625. 🐛 fix: handle 500 error in quiz API
+0496. ✅ test: add integration test for /submit endpoint
