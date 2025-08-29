@@ -10883,3 +10883,4 @@
 0523. ♻️ chore: bump dependencies
 0841. 🚀 perf: optimize database query for quiz results
 0982. 🚀 perf: lazy-load components
+0711. 🐛 fix: fix broken CSS in mobile view
