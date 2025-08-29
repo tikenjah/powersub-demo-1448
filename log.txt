@@ -10880,3 +10880,4 @@
 0274. 🔧 refactor: refactor quiz grading logic
 0108. 🎨 style: remove trailing whitespace
 0199. ✨ feat: create admin dashboard
+0523. ♻️ chore: bump dependencies
