@@ -4421,3 +4421,4 @@
 0950. 🎨 style: reformat files with black
 0236. 🔧 refactor: remove redundant code blocks
 0948. 🐛 fix: fix broken CSS in mobile view
+0742. 📚 docs: clarify environment setup
