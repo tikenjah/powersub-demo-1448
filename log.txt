@@ -4426,3 +4426,4 @@
 0984. ♻️ chore: clean up unused files
 0012. 🚀 perf: cache repeated calculations
 0076. 🎨 style: reformat files with black
+0603. 🐛 fix: fix broken CSS in mobile view
