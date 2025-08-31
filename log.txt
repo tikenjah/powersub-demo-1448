@@ -4437,3 +4437,4 @@
 0232. 🎨 style: apply consistent indentation
 0398. 🚀 perf: cache repeated calculations
 0909. 🔧 refactor: organize models into subfolders
+0198. 📚 docs: clarify environment setup
