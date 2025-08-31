@@ -10886,3 +10886,4 @@
 0711. 🐛 fix: fix broken CSS in mobile view
 0423. ✅ test: mock database connection in test suite
 0814. 🔧 refactor: remove redundant code blocks
+0977. 🔧 refactor: organize models into subfolders
