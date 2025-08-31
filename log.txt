@@ -7892,3 +7892,4 @@
 0977. 🔧 refactor: organize models into subfolders
 0082. 🔧 refactor: refactor quiz grading logic
 0784. ♻️ chore: clean up unused files
+0607. 🐛 fix: prevent crash on empty input
