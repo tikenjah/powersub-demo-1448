@@ -8887,3 +8887,4 @@
 0914. ✅ test: test user registration edge cases
 0993. ✨ feat: implement quiz timer feature
 0785. ✨ feat: enable dark mode toggle
+0503. ♻️ chore: rename env.example
