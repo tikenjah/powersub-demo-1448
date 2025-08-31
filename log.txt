@@ -4439,3 +4439,4 @@
 0909. 🔧 refactor: organize models into subfolders
 0198. 📚 docs: clarify environment setup
 0204. 🎨 style: standardize quote style
+0738. 🐛 fix: prevent crash on empty input
