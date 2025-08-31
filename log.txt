@@ -6900,3 +6900,4 @@
 0764. ✨ feat: add user authentication
 0581. ✅ test: add integration test for /submit endpoint
 0340. 🚀 perf: optimize database query for quiz results
+0008. 🚀 perf: reduce image load time
