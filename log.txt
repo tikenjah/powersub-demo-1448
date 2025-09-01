@@ -8892,3 +8892,4 @@
 0992. ♻️ chore: clean up unused files
 0428. 🐛 fix: fix null pointer exception on login
 0740. 🐛 fix: resolve issue with date parsing
+0220. 🐛 fix: fix null pointer exception on login
