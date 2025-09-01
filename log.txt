@@ -8891,3 +8891,4 @@
 0851. ✅ test: mock database connection in test suite
 0992. ♻️ chore: clean up unused files
 0428. 🐛 fix: fix null pointer exception on login
+0740. 🐛 fix: resolve issue with date parsing
