@@ -5890,3 +5890,4 @@
 0958. 🐛 fix: prevent crash on empty input
 0799. ♻️ chore: clean up unused files
 0021. ✨ feat: support email verification
+0164. 📚 docs: document token refresh logic
