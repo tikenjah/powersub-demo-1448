@@ -4459,3 +4459,4 @@
 0985. 📚 docs: document token refresh logic
 0128. ♻️ chore: rename env.example
 0598. 🔧 refactor: remove redundant code blocks
+0433. 🐛 fix: prevent crash on empty input
