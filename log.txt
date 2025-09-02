@@ -10890,3 +10890,4 @@
 0757. 🔧 refactor: remove redundant code blocks
 0986. 📚 docs: document token refresh logic
 0219. ✅ test: increase coverage on auth module
+0294. 🐛 fix: prevent crash on empty input
