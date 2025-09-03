@@ -6906,3 +6906,4 @@
 0640. ♻️ chore: bump dependencies
 0606. 📚 docs: improve code comments in utils
 0341. 🚀 perf: lazy-load components
+0969. ✨ feat: create admin dashboard
