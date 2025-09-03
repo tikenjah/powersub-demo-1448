@@ -4478,3 +4478,4 @@
 0650. ✅ test: add unit test for quiz service
 0223. 🔧 refactor: remove redundant code blocks
 0716. ✨ feat: implement quiz timer feature
+0706. ✨ feat: support email verification
