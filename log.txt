@@ -9890,3 +9890,4 @@
 0442. 🎨 style: standardize quote style
 0841. 🚀 perf: optimize database query for quiz results
 0340. 🚀 perf: optimize database query for quiz results
+0649. 📚 docs: update README with setup steps
