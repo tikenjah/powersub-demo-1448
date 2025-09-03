@@ -6905,3 +6905,4 @@
 0592. 📚 docs: add API usage examples
 0640. ♻️ chore: bump dependencies
 0606. 📚 docs: improve code comments in utils
+0341. 🚀 perf: lazy-load components
