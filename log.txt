@@ -8902,3 +8902,4 @@
 0690. 🚀 perf: lazy-load components
 0752. ✅ test: add integration test for /submit endpoint
 0297. 🎨 style: remove trailing whitespace
+0884. 📚 docs: clarify environment setup
