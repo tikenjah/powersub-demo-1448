@@ -4487,3 +4487,4 @@
 0844. 📚 docs: update README with setup steps
 0620. ✨ feat: implement quiz timer feature
 0938. 🎨 style: rename variables for clarity
+0077. ♻️ chore: rename env.example
