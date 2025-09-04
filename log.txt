@@ -5899,3 +5899,4 @@
 0114. ♻️ chore: update .gitignore
 0008. 🚀 perf: reduce image load time
 0999. 🔧 refactor: split large controller into smaller functions
+0649. 📚 docs: update README with setup steps
