@@ -4503,3 +4503,4 @@
 0057. 🚀 perf: optimize database query for quiz results
 0933. 📚 docs: clarify environment setup
 0569. 📚 docs: document token refresh logic
+0957. 🐛 fix: fix null pointer exception on login
