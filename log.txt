@@ -4508,3 +4508,4 @@
 0400. 🐛 fix: fix null pointer exception on login
 0455. ♻️ chore: clean up unused files
 0449. ✅ test: add unit test for quiz service
+0621. 🔧 refactor: clean up auth middleware
