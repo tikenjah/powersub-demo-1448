@@ -4494,3 +4494,4 @@
 0604. 📚 docs: add API usage examples
 0930. 🎨 style: apply consistent indentation
 0244. ✨ feat: add export to CSV option
+0041. 🐛 fix: fix broken CSS in mobile view
