@@ -4496,3 +4496,4 @@
 0244. ✨ feat: add export to CSV option
 0041. 🐛 fix: fix broken CSS in mobile view
 0983. 🔧 refactor: split large controller into smaller functions
+0775. 🐛 fix: fix null pointer exception on login
