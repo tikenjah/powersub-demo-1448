@@ -4516,3 +4516,4 @@
 0604. 📚 docs: add API usage examples
 0438. ♻️ chore: bump dependencies
 0991. ♻️ chore: clean up unused files
+0940. 📚 docs: document token refresh logic
