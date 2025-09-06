@@ -5904,3 +5904,4 @@
 0808. 🚀 perf: optimize database query for quiz results
 0574. ✨ feat: enable dark mode toggle
 0828. ♻️ chore: add GitHub actions badge
+0799. ♻️ chore: clean up unused files
