@@ -4520,3 +4520,4 @@
 0295. 🎨 style: remove trailing whitespace
 0681. ✨ feat: create admin dashboard
 0261. 🔧 refactor: refactor quiz grading logic
+0515. 🚀 perf: optimize database query for quiz results
