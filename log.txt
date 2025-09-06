@@ -8905,3 +8905,4 @@
 0884. 📚 docs: clarify environment setup
 0949. 📚 docs: write FAQ section
 0278. 🔧 refactor: clean up auth middleware
+0032. 🎨 style: apply consistent indentation
