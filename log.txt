@@ -6911,3 +6911,4 @@
 0115. 🚀 perf: reduce image load time
 0712. 🎨 style: apply consistent indentation
 0414. 🔧 refactor: remove redundant code blocks
+0787. ♻️ chore: rename env.example
