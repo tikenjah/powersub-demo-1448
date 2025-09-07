@@ -4540,3 +4540,4 @@
 0060. ♻️ chore: clean up unused files
 0888. 🚀 perf: lazy-load components
 0857. 🎨 style: rename variables for clarity
+0235. 🐛 fix: fix null pointer exception on login
