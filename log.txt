@@ -6913,3 +6913,4 @@
 0414. 🔧 refactor: remove redundant code blocks
 0787. ♻️ chore: rename env.example
 0579. 📚 docs: clarify environment setup
+0821. ✅ test: add integration test for /submit endpoint
