@@ -9898,3 +9898,4 @@
 0969. ✨ feat: create admin dashboard
 0166. 🚀 perf: cache repeated calculations
 0091. ✨ feat: add user authentication
+0754. 🐛 fix: handle 500 error in quiz API
