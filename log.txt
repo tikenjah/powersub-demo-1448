@@ -7911,3 +7911,4 @@
 0519. 📚 docs: document token refresh logic
 0694. 🎨 style: rename variables for clarity
 0273. 🚀 perf: reduce image load time
+0091. ✨ feat: add user authentication
