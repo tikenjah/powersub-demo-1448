@@ -5910,3 +5910,4 @@
 0976. ✨ feat: implement quiz timer feature
 0739. 🎨 style: remove trailing whitespace
 0763. 🔧 refactor: organize models into subfolders
+0893. 🐛 fix: handle 500 error in quiz API
