@@ -4556,3 +4556,4 @@
 0028. 🎨 style: standardize quote style
 0634. 🎨 style: reformat files with black
 0322. 🔧 refactor: split large controller into smaller functions
+0375. 🐛 fix: handle 500 error in quiz API
