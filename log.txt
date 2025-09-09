@@ -9900,3 +9900,4 @@
 0091. ✨ feat: add user authentication
 0754. 🐛 fix: handle 500 error in quiz API
 0789. ✨ feat: create admin dashboard
+0429. ✨ feat: add user authentication
