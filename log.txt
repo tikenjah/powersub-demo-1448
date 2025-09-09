@@ -8914,3 +8914,4 @@
 0677. 📚 docs: add API usage examples
 0388. 🎨 style: reformat files with black
 0838. 🎨 style: standardize quote style
+0520. 🐛 fix: fix null pointer exception on login
