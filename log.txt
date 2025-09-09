@@ -4554,3 +4554,4 @@
 0582. ✨ feat: add export to CSV option
 0378. 🐛 fix: prevent crash on empty input
 0028. 🎨 style: standardize quote style
+0634. 🎨 style: reformat files with black
