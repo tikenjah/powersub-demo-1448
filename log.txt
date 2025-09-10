@@ -4579,3 +4579,4 @@
 0935. 📚 docs: update README with setup steps
 0569. 📚 docs: document token refresh logic
 0488. ♻️ chore: add GitHub actions badge
+0518. ✨ feat: support email verification
