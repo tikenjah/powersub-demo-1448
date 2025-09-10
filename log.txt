@@ -4570,3 +4570,4 @@
 0047. 🎨 style: rename variables for clarity
 0764. ✨ feat: add user authentication
 0866. 📚 docs: add API usage examples
+0850. ♻️ chore: rename env.example
