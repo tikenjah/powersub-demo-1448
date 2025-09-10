@@ -5916,3 +5916,4 @@
 0632. 🎨 style: remove trailing whitespace
 0365. 🚀 perf: reduce image load time
 0431. 🎨 style: reformat files with black
+0020. ✅ test: add integration test for /submit endpoint
