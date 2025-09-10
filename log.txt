@@ -8917,3 +8917,4 @@
 0520. 🐛 fix: fix null pointer exception on login
 0393. 🚀 perf: lazy-load components
 0540. ♻️ chore: add GitHub actions badge
+0128. ♻️ chore: rename env.example
