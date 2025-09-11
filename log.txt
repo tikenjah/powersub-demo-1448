@@ -4587,3 +4587,4 @@
 0890. 🔧 refactor: organize models into subfolders
 0659. 📚 docs: add API usage examples
 0440. 📚 docs: update README with setup steps
+0307. ✨ feat: support email verification
