@@ -4584,3 +4584,4 @@
 0914. ✅ test: test user registration edge cases
 0799. ♻️ chore: clean up unused files
 0906. 📚 docs: add API usage examples
+0890. 🔧 refactor: organize models into subfolders
