@@ -8920,3 +8920,4 @@
 0128. ♻️ chore: rename env.example
 0325. 🎨 style: rename variables for clarity
 0142. ✨ feat: implement quiz timer feature
+0518. ✨ feat: support email verification
