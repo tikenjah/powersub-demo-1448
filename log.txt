@@ -4581,3 +4581,4 @@
 0488. ♻️ chore: add GitHub actions badge
 0518. ✨ feat: support email verification
 0462. ♻️ chore: update .gitignore
+0914. ✅ test: test user registration edge cases
