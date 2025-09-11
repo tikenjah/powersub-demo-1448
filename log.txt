@@ -7917,3 +7917,4 @@
 0482. ✨ feat: add export to CSV option
 0625. 🐛 fix: handle 500 error in quiz API
 0899. 🚀 perf: cache repeated calculations
+0377. ✨ feat: add user authentication
