@@ -4589,3 +4589,4 @@
 0440. 📚 docs: update README with setup steps
 0307. ✨ feat: support email verification
 0217. 🚀 perf: reduce image load time
+0800. 🚀 perf: optimize database query for quiz results
