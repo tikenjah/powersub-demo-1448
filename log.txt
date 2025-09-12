@@ -5925,3 +5925,4 @@
 0416. 🎨 style: rename variables for clarity
 0335. ♻️ chore: update .gitignore
 0086. 🐛 fix: correct typo in registration form
+0671. 🐛 fix: fix null pointer exception on login
