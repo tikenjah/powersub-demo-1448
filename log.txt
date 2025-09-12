@@ -6926,3 +6926,4 @@
 0643. 🎨 style: apply consistent indentation
 0620. ✨ feat: implement quiz timer feature
 0717. 🔧 refactor: refactor quiz grading logic
+0820. 📚 docs: add API usage examples
