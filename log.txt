@@ -4597,3 +4597,4 @@
 0224. 🐛 fix: fix broken CSS in mobile view
 0520. 🐛 fix: fix null pointer exception on login
 0975. 🎨 style: apply consistent indentation
+0520. 🐛 fix: fix null pointer exception on login
