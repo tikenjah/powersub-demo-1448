@@ -4601,3 +4601,4 @@
 0202. 🔧 refactor: refactor quiz grading logic
 0232. 🎨 style: apply consistent indentation
 0748. 🚀 perf: optimize database query for quiz results
+0105. 🐛 fix: correct typo in registration form
