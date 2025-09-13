@@ -4608,3 +4608,4 @@
 0438. ♻️ chore: bump dependencies
 0827. 🚀 perf: optimize database query for quiz results
 0611. ✅ test: test user registration edge cases
+0231. 🔧 refactor: clean up auth middleware
