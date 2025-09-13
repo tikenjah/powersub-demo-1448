@@ -4614,3 +4614,4 @@
 0172. 📚 docs: add API usage examples
 0599. ✅ test: test user registration edge cases
 0769. ✨ feat: create admin dashboard
+0121. ✨ feat: support email verification
