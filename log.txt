@@ -6929,3 +6929,4 @@
 0820. 📚 docs: add API usage examples
 0580. ♻️ chore: bump dependencies
 0295. 🎨 style: remove trailing whitespace
+0663. 🚀 perf: reduce image load time
