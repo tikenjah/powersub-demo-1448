@@ -10920,3 +10920,4 @@
 0355. 🚀 perf: optimize database query for quiz results
 0944. ✨ feat: add user authentication
 0288. 🔧 refactor: refactor quiz grading logic
+0085. ✨ feat: support email verification
