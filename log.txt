@@ -8926,3 +8926,4 @@
 0043. ✅ test: add integration test for /submit endpoint
 0106. 🎨 style: reformat files with black
 0170. ✅ test: increase coverage on auth module
+0843. 📚 docs: document token refresh logic
