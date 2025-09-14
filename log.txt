@@ -7919,3 +7919,4 @@
 0899. 🚀 perf: cache repeated calculations
 0377. ✨ feat: add user authentication
 0348. ✅ test: test user registration edge cases
+0293. ✅ test: add integration test for /submit endpoint
