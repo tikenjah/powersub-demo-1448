@@ -5930,3 +5930,4 @@
 0813. 🔧 refactor: organize models into subfolders
 0537. 🔧 refactor: remove redundant code blocks
 0225. 🚀 perf: reduce image load time
+0241. 📚 docs: add API usage examples
