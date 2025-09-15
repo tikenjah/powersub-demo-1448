@@ -6936,3 +6936,4 @@
 0042. 📚 docs: document token refresh logic
 0450. 🐛 fix: fix broken CSS in mobile view
 0518. ✨ feat: support email verification
+0146. 🎨 style: apply consistent indentation
