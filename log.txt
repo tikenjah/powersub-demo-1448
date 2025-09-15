@@ -5932,3 +5932,4 @@
 0225. 🚀 perf: reduce image load time
 0241. 📚 docs: add API usage examples
 0378. 🐛 fix: prevent crash on empty input
+0103. 🔧 refactor: remove redundant code blocks
