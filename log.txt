@@ -4634,3 +4634,4 @@
 0572. ✨ feat: add user authentication
 0012. 🚀 perf: cache repeated calculations
 0117. ✅ test: increase coverage on auth module
+0566. 📚 docs: write FAQ section
