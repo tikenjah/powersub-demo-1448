@@ -4636,3 +4636,4 @@
 0117. ✅ test: increase coverage on auth module
 0566. 📚 docs: write FAQ section
 0622. 🎨 style: apply consistent indentation
+0332. 🎨 style: standardize quote style
