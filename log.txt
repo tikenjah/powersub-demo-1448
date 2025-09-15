@@ -4644,3 +4644,4 @@
 0144. ✅ test: increase coverage on auth module
 0864. 🐛 fix: correct typo in registration form
 0307. ✨ feat: support email verification
+0889. 🚀 perf: lazy-load components
