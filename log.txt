@@ -9925,3 +9925,4 @@
 0707. 🎨 style: apply consistent indentation
 0778. 📚 docs: write FAQ section
 0248. 🐛 fix: handle 500 error in quiz API
+0204. 🎨 style: standardize quote style
