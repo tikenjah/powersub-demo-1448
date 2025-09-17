@@ -9928,3 +9928,4 @@
 0204. 🎨 style: standardize quote style
 0465. 🎨 style: rename variables for clarity
 0713. 🐛 fix: handle 500 error in quiz API
+0615. 🐛 fix: correct typo in registration form
