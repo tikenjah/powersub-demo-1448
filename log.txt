@@ -6943,3 +6943,4 @@
 0622. 🎨 style: apply consistent indentation
 0442. 🎨 style: standardize quote style
 0454. ♻️ chore: bump dependencies
+0967. ♻️ chore: add GitHub actions badge
