@@ -4668,3 +4668,4 @@
 0310. 🔧 refactor: refactor quiz grading logic
 0374. 🎨 style: standardize quote style
 0336. ✨ feat: add export to CSV option
+0086. 🐛 fix: correct typo in registration form
