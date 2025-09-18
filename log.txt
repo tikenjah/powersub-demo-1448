@@ -9933,3 +9933,4 @@
 0712. 🎨 style: apply consistent indentation
 0691. 🎨 style: rename variables for clarity
 0808. 🚀 perf: optimize database query for quiz results
+0647. 🐛 fix: prevent crash on empty input
