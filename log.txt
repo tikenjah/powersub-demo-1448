@@ -9936,3 +9936,4 @@
 0647. 🐛 fix: prevent crash on empty input
 0912. 📚 docs: document token refresh logic
 0505. ♻️ chore: add GitHub actions badge
+0589. 🐛 fix: fix broken CSS in mobile view
