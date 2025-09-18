@@ -4688,3 +4688,4 @@
 0118. 🚀 perf: reduce image load time
 0024. 📚 docs: write FAQ section
 0291. 📚 docs: write FAQ section
+0956. 📚 docs: clarify environment setup
