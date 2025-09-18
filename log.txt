@@ -10929,3 +10929,4 @@
 0175. 📚 docs: add API usage examples
 0300. ✨ feat: add export to CSV option
 0612. ✅ test: test user registration edge cases
+0231. 🔧 refactor: clean up auth middleware
