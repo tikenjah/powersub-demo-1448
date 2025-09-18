@@ -7937,3 +7937,4 @@
 0357. ✅ test: add unit test for quiz service
 0609. 🐛 fix: handle 500 error in quiz API
 0964. ♻️ chore: clean up unused files
+0832. 🔧 refactor: remove redundant code blocks
