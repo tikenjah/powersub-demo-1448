@@ -9938,3 +9938,4 @@
 0505. ♻️ chore: add GitHub actions badge
 0589. 🐛 fix: fix broken CSS in mobile view
 0516. ✅ test: add unit test for quiz service
+0340. 🚀 perf: optimize database query for quiz results
