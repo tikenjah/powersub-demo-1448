@@ -4691,3 +4691,4 @@
 0956. 📚 docs: clarify environment setup
 0331. 🐛 fix: fix broken CSS in mobile view
 0825. 🔧 refactor: split large controller into smaller functions
+0847. ♻️ chore: clean up unused files
