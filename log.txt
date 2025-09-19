@@ -7939,3 +7939,4 @@
 0964. ♻️ chore: clean up unused files
 0832. 🔧 refactor: remove redundant code blocks
 0587. 🔧 refactor: remove redundant code blocks
+0970. ♻️ chore: update .gitignore
