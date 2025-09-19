@@ -5947,3 +5947,4 @@
 0103. 🔧 refactor: remove redundant code blocks
 0300. ✨ feat: add export to CSV option
 0272. 🔧 refactor: remove redundant code blocks
+0473. 📚 docs: write FAQ section
