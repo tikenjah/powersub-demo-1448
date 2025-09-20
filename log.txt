@@ -4709,3 +4709,4 @@
 0494. 🎨 style: rename variables for clarity
 0071. 🔧 refactor: refactor quiz grading logic
 0260. ✨ feat: create admin dashboard
+0394. 🚀 perf: lazy-load components
