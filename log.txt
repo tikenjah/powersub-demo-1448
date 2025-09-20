@@ -9940,3 +9940,4 @@
 0516. ✅ test: add unit test for quiz service
 0340. 🚀 perf: optimize database query for quiz results
 0666. 🐛 fix: fix broken CSS in mobile view
+0733. 🐛 fix: fix null pointer exception on login
