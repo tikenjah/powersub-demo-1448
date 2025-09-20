@@ -4714,3 +4714,4 @@
 0866. 📚 docs: add API usage examples
 0649. 📚 docs: update README with setup steps
 0406. ✨ feat: add export to CSV option
+0040. 🔧 refactor: clean up auth middleware
