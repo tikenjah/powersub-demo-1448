@@ -10936,3 +10936,4 @@
 0766. 🎨 style: reformat files with black
 0712. 🎨 style: apply consistent indentation
 0982. 🚀 perf: lazy-load components
+0667. ✨ feat: add export to CSV option
