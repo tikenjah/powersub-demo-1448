@@ -6950,3 +6950,4 @@
 0136. 🚀 perf: lazy-load components
 0656. 🎨 style: apply consistent indentation
 0377. ✨ feat: add user authentication
+0628. ♻️ chore: add GitHub actions badge
