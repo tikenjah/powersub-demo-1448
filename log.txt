@@ -8940,3 +8940,4 @@
 0367. 🐛 fix: fix null pointer exception on login
 0428. 🐛 fix: fix null pointer exception on login
 0090. ✅ test: increase coverage on auth module
+0360. ✨ feat: add export to CSV option
