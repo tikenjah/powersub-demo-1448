@@ -7942,3 +7942,4 @@
 0970. ♻️ chore: update .gitignore
 0995. ✅ test: mock database connection in test suite
 0887. 📚 docs: add API usage examples
+0590. 🐛 fix: fix null pointer exception on login
