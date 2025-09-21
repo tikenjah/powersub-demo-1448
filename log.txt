@@ -4715,3 +4715,4 @@
 0649. 📚 docs: update README with setup steps
 0406. ✨ feat: add export to CSV option
 0040. 🔧 refactor: clean up auth middleware
+0609. 🐛 fix: handle 500 error in quiz API
