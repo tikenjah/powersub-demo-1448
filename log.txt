@@ -4720,3 +4720,4 @@
 0514. 🐛 fix: fix broken CSS in mobile view
 0056. ♻️ chore: rename env.example
 0173. 🚀 perf: cache repeated calculations
+0986. 📚 docs: document token refresh logic
