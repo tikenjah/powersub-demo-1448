@@ -8939,3 +8939,4 @@
 0523. ♻️ chore: bump dependencies
 0367. 🐛 fix: fix null pointer exception on login
 0428. 🐛 fix: fix null pointer exception on login
+0090. ✅ test: increase coverage on auth module
