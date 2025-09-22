@@ -7945,3 +7945,4 @@
 0590. 🐛 fix: fix null pointer exception on login
 0344. ♻️ chore: add GitHub actions badge
 0971. 🎨 style: standardize quote style
+0435. ✅ test: add unit test for quiz service
