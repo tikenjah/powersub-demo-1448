@@ -5956,3 +5956,4 @@
 0571. 🔧 refactor: clean up auth middleware
 0033. 🎨 style: apply consistent indentation
 0643. 🎨 style: apply consistent indentation
+0157. ✅ test: mock database connection in test suite
