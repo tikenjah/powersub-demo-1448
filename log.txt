@@ -4733,3 +4733,4 @@
 0130. 🔧 refactor: split large controller into smaller functions
 0453. 🎨 style: standardize quote style
 0760. 🐛 fix: resolve issue with date parsing
+0986. 📚 docs: document token refresh logic
