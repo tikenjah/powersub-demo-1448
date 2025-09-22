@@ -10937,3 +10937,4 @@
 0712. 🎨 style: apply consistent indentation
 0982. 🚀 perf: lazy-load components
 0667. ✨ feat: add export to CSV option
+0023. 📚 docs: clarify environment setup
