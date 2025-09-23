@@ -9945,3 +9945,4 @@
 0292. 📚 docs: clarify environment setup
 0868. ✅ test: add unit test for quiz service
 0919. 🚀 perf: optimize database query for quiz results
+0234. ♻️ chore: rename env.example
