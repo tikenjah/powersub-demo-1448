@@ -4748,3 +4748,4 @@
 0516. ✅ test: add unit test for quiz service
 0929. ✨ feat: support email verification
 0284. ✨ feat: implement quiz timer feature
+0064. 📚 docs: clarify environment setup
