@@ -4746,3 +4746,4 @@
 0186. ✅ test: test user registration edge cases
 0684. 🚀 perf: reduce image load time
 0516. ✅ test: add unit test for quiz service
+0929. ✨ feat: support email verification
