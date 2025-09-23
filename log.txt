@@ -8944,3 +8944,4 @@
 0966. 📚 docs: improve code comments in utils
 0108. 🎨 style: remove trailing whitespace
 0635. 🎨 style: apply consistent indentation
+0919. 🚀 perf: optimize database query for quiz results
