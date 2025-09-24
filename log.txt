@@ -6964,3 +6964,4 @@
 0123. ✨ feat: implement quiz timer feature
 0100. ♻️ chore: update .gitignore
 0642. 🚀 perf: optimize database query for quiz results
+0420. 🚀 perf: reduce image load time
