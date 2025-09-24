@@ -4756,3 +4756,4 @@
 0431. 🎨 style: reformat files with black
 0911. ✅ test: increase coverage on auth module
 0385. ♻️ chore: clean up unused files
+0290. ✅ test: test user registration edge cases
