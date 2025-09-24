@@ -4758,3 +4758,4 @@
 0385. ♻️ chore: clean up unused files
 0290. ✅ test: test user registration edge cases
 0770. ♻️ chore: rename env.example
+0009. ✨ feat: enable dark mode toggle
