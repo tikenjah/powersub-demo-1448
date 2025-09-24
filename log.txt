@@ -4759,3 +4759,4 @@
 0290. ✅ test: test user registration edge cases
 0770. ♻️ chore: rename env.example
 0009. ✨ feat: enable dark mode toggle
+0940. 📚 docs: document token refresh logic
