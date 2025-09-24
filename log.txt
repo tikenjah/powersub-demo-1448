@@ -4751,3 +4751,4 @@
 0064. 📚 docs: clarify environment setup
 0266. 🔧 refactor: remove redundant code blocks
 0631. ✨ feat: create admin dashboard
+0493. ✨ feat: add user authentication
