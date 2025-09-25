@@ -4773,3 +4773,4 @@
 0673. 🐛 fix: correct typo in registration form
 0872. 🎨 style: rename variables for clarity
 0050. ✨ feat: enable dark mode toggle
+0930. 🎨 style: apply consistent indentation
