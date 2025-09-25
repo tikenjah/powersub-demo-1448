@@ -5960,3 +5960,4 @@
 0905. ♻️ chore: bump dependencies
 0389. 📚 docs: improve code comments in utils
 0921. 🐛 fix: correct typo in registration form
+0065. ✅ test: add integration test for /submit endpoint
