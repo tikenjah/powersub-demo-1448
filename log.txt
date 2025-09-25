@@ -4763,3 +4763,4 @@
 0188. 🎨 style: apply consistent indentation
 0801. ✨ feat: enable dark mode toggle
 0651. ✨ feat: enable dark mode toggle
+0080. ✨ feat: support email verification
