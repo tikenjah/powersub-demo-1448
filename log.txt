@@ -4766,3 +4766,4 @@
 0080. ✨ feat: support email verification
 0876. ♻️ chore: rename env.example
 0593. 🐛 fix: correct typo in registration form
+0219. ✅ test: increase coverage on auth module
