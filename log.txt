@@ -7953,3 +7953,4 @@
 0266. 🔧 refactor: remove redundant code blocks
 0596. ♻️ chore: update .gitignore
 0907. 🔧 refactor: split large controller into smaller functions
+0361. ✨ feat: support email verification
