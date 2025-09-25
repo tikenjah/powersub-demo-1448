@@ -9953,3 +9953,4 @@
 0884. 📚 docs: clarify environment setup
 0281. ✨ feat: support email verification
 0662. ♻️ chore: clean up unused files
+0656. 🎨 style: apply consistent indentation
