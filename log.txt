@@ -4794,3 +4794,4 @@
 0883. 📚 docs: improve code comments in utils
 0670. ✨ feat: add export to CSV option
 0206. 🐛 fix: handle 500 error in quiz API
+0426. ✅ test: add integration test for /submit endpoint
