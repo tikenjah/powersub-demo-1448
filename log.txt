@@ -4783,3 +4783,4 @@
 0906. 📚 docs: add API usage examples
 0030. 🐛 fix: fix null pointer exception on login
 0414. 🔧 refactor: remove redundant code blocks
+0749. ✨ feat: support email verification
