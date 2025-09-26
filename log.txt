@@ -4785,3 +4785,4 @@
 0414. 🔧 refactor: remove redundant code blocks
 0749. ✨ feat: support email verification
 0850. ♻️ chore: rename env.example
+0079. 🐛 fix: correct typo in registration form
