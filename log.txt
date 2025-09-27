@@ -4801,3 +4801,4 @@
 0240. 🔧 refactor: remove redundant code blocks
 0790. 📚 docs: write FAQ section
 0887. 📚 docs: add API usage examples
+0742. 📚 docs: clarify environment setup
