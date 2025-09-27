@@ -8952,3 +8952,4 @@
 0684. 🚀 perf: reduce image load time
 0426. ✅ test: add integration test for /submit endpoint
 0139. 📚 docs: document token refresh logic
+0960. ✅ test: increase coverage on auth module
