@@ -4803,3 +4803,4 @@
 0887. 📚 docs: add API usage examples
 0742. 📚 docs: clarify environment setup
 0170. ✅ test: increase coverage on auth module
+0411. ✅ test: add unit test for quiz service
