@@ -10958,3 +10958,4 @@
 0849. 🐛 fix: correct typo in registration form
 0489. 🔧 refactor: organize models into subfolders
 0630. 🚀 perf: lazy-load components
+0101. 📚 docs: clarify environment setup
