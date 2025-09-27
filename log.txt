@@ -4799,3 +4799,4 @@
 0751. 🐛 fix: handle 500 error in quiz API
 0806. 📚 docs: improve code comments in utils
 0240. 🔧 refactor: remove redundant code blocks
+0790. 📚 docs: write FAQ section
