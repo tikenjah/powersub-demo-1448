@@ -5966,3 +5966,4 @@
 0717. 🔧 refactor: refactor quiz grading logic
 0973. 🔧 refactor: organize models into subfolders
 0719. 🎨 style: apply consistent indentation
+0647. 🐛 fix: prevent crash on empty input
