@@ -4804,3 +4804,4 @@
 0742. 📚 docs: clarify environment setup
 0170. ✅ test: increase coverage on auth module
 0411. ✅ test: add unit test for quiz service
+0040. 🔧 refactor: clean up auth middleware
