@@ -9964,3 +9964,4 @@
 0820. 📚 docs: add API usage examples
 0571. 🔧 refactor: clean up auth middleware
 0750. 🎨 style: apply consistent indentation
+0524. ♻️ chore: rename env.example
