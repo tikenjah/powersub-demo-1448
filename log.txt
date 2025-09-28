@@ -10961,3 +10961,4 @@
 0101. 📚 docs: clarify environment setup
 0778. 📚 docs: write FAQ section
 0383. 🐛 fix: fix broken CSS in mobile view
+0953. 🎨 style: remove trailing whitespace
