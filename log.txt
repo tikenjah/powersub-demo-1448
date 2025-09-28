@@ -4815,3 +4815,4 @@
 0289. 🐛 fix: resolve issue with date parsing
 0380. 🐛 fix: fix null pointer exception on login
 0297. 🎨 style: remove trailing whitespace
+0405. ✅ test: mock database connection in test suite
