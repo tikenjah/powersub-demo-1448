@@ -8955,3 +8955,4 @@
 0960. ✅ test: increase coverage on auth module
 0920. 🔧 refactor: organize models into subfolders
 0374. 🎨 style: standardize quote style
+0768. 🎨 style: remove trailing whitespace
