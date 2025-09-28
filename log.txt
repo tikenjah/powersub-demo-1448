@@ -6971,3 +6971,4 @@
 0161. ✨ feat: create admin dashboard
 0338. ♻️ chore: add GitHub actions badge
 0310. 🔧 refactor: refactor quiz grading logic
+0308. 🚀 perf: reduce image load time
