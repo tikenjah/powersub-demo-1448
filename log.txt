@@ -7961,3 +7961,4 @@
 0746. ♻️ chore: add GitHub actions badge
 0672. 🐛 fix: fix broken CSS in mobile view
 0240. 🔧 refactor: remove redundant code blocks
+0652. 🔧 refactor: organize models into subfolders
