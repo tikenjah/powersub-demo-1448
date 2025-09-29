@@ -4827,3 +4827,4 @@
 0933. 📚 docs: clarify environment setup
 0976. ✨ feat: implement quiz timer feature
 0535. 📚 docs: write FAQ section
+0392. 🎨 style: remove trailing whitespace
