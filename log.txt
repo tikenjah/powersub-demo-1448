@@ -8957,3 +8957,4 @@
 0374. 🎨 style: standardize quote style
 0768. 🎨 style: remove trailing whitespace
 0862. ♻️ chore: bump dependencies
+0461. ✨ feat: add user authentication
