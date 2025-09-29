@@ -4829,3 +4829,4 @@
 0535. 📚 docs: write FAQ section
 0392. 🎨 style: remove trailing whitespace
 0117. ✅ test: increase coverage on auth module
+0836. 🚀 perf: optimize database query for quiz results
