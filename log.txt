@@ -4837,3 +4837,4 @@
 0144. ✅ test: increase coverage on auth module
 0375. 🐛 fix: handle 500 error in quiz API
 0923. ✨ feat: support email verification
+0111. 📚 docs: update README with setup steps
