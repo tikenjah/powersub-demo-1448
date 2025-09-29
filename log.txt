@@ -4835,3 +4835,4 @@
 0674. 🔧 refactor: split large controller into smaller functions
 0016. 🎨 style: apply consistent indentation
 0144. ✅ test: increase coverage on auth module
+0375. 🐛 fix: handle 500 error in quiz API
