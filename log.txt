@@ -9965,3 +9965,4 @@
 0571. 🔧 refactor: clean up auth middleware
 0750. 🎨 style: apply consistent indentation
 0524. ♻️ chore: rename env.example
+0102. ✨ feat: support email verification
