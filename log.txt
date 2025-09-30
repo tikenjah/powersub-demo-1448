@@ -4853,3 +4853,4 @@
 0345. 📚 docs: document token refresh logic
 0641. 📚 docs: write FAQ section
 0650. ✅ test: add unit test for quiz service
+0802. 🔧 refactor: remove redundant code blocks
