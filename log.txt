@@ -4854,3 +4854,4 @@
 0641. 📚 docs: write FAQ section
 0650. ✅ test: add unit test for quiz service
 0802. 🔧 refactor: remove redundant code blocks
+0776. ✅ test: add integration test for /submit endpoint
