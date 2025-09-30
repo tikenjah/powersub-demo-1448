@@ -4847,3 +4847,4 @@
 0994. 🚀 perf: reduce image load time
 0884. 📚 docs: clarify environment setup
 0594. 🎨 style: reformat files with black
+0356. 📚 docs: write FAQ section
