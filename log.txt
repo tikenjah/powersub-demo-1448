@@ -8961,3 +8961,4 @@
 0935. 📚 docs: update README with setup steps
 0504. 📚 docs: document token refresh logic
 0190. 🎨 style: rename variables for clarity
+0482. ✨ feat: add export to CSV option
