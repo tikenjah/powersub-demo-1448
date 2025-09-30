@@ -8959,3 +8959,4 @@
 0862. ♻️ chore: bump dependencies
 0461. ✨ feat: add user authentication
 0935. 📚 docs: update README with setup steps
+0504. 📚 docs: document token refresh logic
