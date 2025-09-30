@@ -7967,3 +7967,4 @@
 0671. 🐛 fix: fix null pointer exception on login
 0597. 🚀 perf: cache repeated calculations
 0298. ♻️ chore: update .gitignore
+0776. ✅ test: add integration test for /submit endpoint
