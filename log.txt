@@ -9966,3 +9966,4 @@
 0750. 🎨 style: apply consistent indentation
 0524. ♻️ chore: rename env.example
 0102. ✨ feat: support email verification
+0984. ♻️ chore: clean up unused files
