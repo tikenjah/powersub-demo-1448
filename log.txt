@@ -4860,3 +4860,4 @@
 0965. 🎨 style: reformat files with black
 0623. 🎨 style: standardize quote style
 0145. 📚 docs: improve code comments in utils
+0110. 🐛 fix: prevent crash on empty input
