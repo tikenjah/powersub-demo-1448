@@ -5973,3 +5973,4 @@
 0148. 🔧 refactor: organize models into subfolders
 0333. 🚀 perf: cache repeated calculations
 0536. ✨ feat: add user authentication
+0468. 📚 docs: update README with setup steps
