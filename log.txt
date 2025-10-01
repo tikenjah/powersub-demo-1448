@@ -4864,3 +4864,4 @@
 0959. 🐛 fix: fix null pointer exception on login
 0112. ✨ feat: enable dark mode toggle
 0269. ✅ test: test user registration edge cases
+0870. ♻️ chore: clean up unused files
