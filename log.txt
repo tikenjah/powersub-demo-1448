@@ -9970,3 +9970,4 @@
 0799. ♻️ chore: clean up unused files
 0411. ✅ test: add unit test for quiz service
 0464. 🎨 style: remove trailing whitespace
+0989. 📚 docs: write FAQ section
