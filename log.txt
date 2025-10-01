@@ -4869,3 +4869,4 @@
 0054. ♻️ chore: update .gitignore
 0267. 📚 docs: improve code comments in utils
 0786. ✨ feat: enable dark mode toggle
+0526. ✨ feat: add user authentication
