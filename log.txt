@@ -8968,3 +8968,4 @@
 0663. 🚀 perf: reduce image load time
 0270. ♻️ chore: rename env.example
 0292. 📚 docs: clarify environment setup
+0557. 🔧 refactor: clean up auth middleware
