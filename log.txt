@@ -4880,3 +4880,4 @@
 0858. ♻️ chore: clean up unused files
 0805. ♻️ chore: add GitHub actions badge
 0821. ✅ test: add integration test for /submit endpoint
+0507. 🔧 refactor: clean up auth middleware
