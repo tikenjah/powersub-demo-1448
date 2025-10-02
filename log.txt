@@ -6979,3 +6979,4 @@
 0349. ✅ test: increase coverage on auth module
 0335. ♻️ chore: update .gitignore
 0132. ✅ test: add unit test for quiz service
+0012. 🚀 perf: cache repeated calculations
