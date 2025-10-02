@@ -4884,3 +4884,4 @@
 0896. 🚀 perf: reduce image load time
 0685. ✅ test: test user registration edge cases
 0856. 🐛 fix: fix null pointer exception on login
+0860. 🔧 refactor: organize models into subfolders
