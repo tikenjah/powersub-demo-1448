@@ -4909,3 +4909,4 @@
 0904. ✨ feat: implement quiz timer feature
 0885. ♻️ chore: update .gitignore
 0624. ✅ test: add unit test for quiz service
+0254. 🚀 perf: reduce image load time
