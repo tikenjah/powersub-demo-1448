@@ -5979,3 +5979,4 @@
 0007. 🎨 style: rename variables for clarity
 0048. 📚 docs: update README with setup steps
 0964. ♻️ chore: clean up unused files
+0205. 📚 docs: update README with setup steps
