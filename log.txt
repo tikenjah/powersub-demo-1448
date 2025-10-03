@@ -9980,3 +9980,4 @@
 0979. 🎨 style: standardize quote style
 0199. ✨ feat: create admin dashboard
 0693. 📚 docs: add API usage examples
+0888. 🚀 perf: lazy-load components
