@@ -4899,3 +4899,4 @@
 0380. 🐛 fix: fix null pointer exception on login
 0879. 🎨 style: standardize quote style
 0773. 📚 docs: document token refresh logic
+0642. 🚀 perf: optimize database query for quiz results
