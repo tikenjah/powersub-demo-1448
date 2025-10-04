@@ -4911,3 +4911,4 @@
 0624. ✅ test: add unit test for quiz service
 0254. 🚀 perf: reduce image load time
 0232. 🎨 style: apply consistent indentation
+0006. 🐛 fix: prevent crash on empty input
