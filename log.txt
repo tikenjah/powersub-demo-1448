@@ -4928,3 +4928,4 @@
 0775. 🐛 fix: fix null pointer exception on login
 0989. 📚 docs: write FAQ section
 0853. 🔧 refactor: refactor quiz grading logic
+0567. 📚 docs: add API usage examples
