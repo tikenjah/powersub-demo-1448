@@ -5981,3 +5981,4 @@
 0964. ♻️ chore: clean up unused files
 0205. 📚 docs: update README with setup steps
 0645. 🐛 fix: resolve issue with date parsing
+0926. 🔧 refactor: organize models into subfolders
