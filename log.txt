@@ -4930,3 +4930,4 @@
 0853. 🔧 refactor: refactor quiz grading logic
 0567. 📚 docs: add API usage examples
 0675. 🔧 refactor: organize models into subfolders
+0562. 🔧 refactor: clean up auth middleware
