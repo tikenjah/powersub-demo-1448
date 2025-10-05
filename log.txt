@@ -4920,3 +4920,4 @@
 0642. 🚀 perf: optimize database query for quiz results
 0298. ♻️ chore: update .gitignore
 0442. 🎨 style: standardize quote style
+0964. ♻️ chore: clean up unused files
