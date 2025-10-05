@@ -9985,3 +9985,4 @@
 0060. ♻️ chore: clean up unused files
 0603. 🐛 fix: fix broken CSS in mobile view
 0398. 🚀 perf: cache repeated calculations
+0400. 🐛 fix: fix null pointer exception on login
