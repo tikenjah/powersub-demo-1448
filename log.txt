@@ -5984,3 +5984,4 @@
 0926. 🔧 refactor: organize models into subfolders
 0736. 🐛 fix: fix null pointer exception on login
 0361. ✨ feat: support email verification
+0106. 🎨 style: reformat files with black
