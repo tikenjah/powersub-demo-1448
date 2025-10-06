@@ -6987,3 +6987,4 @@
 0597. 🚀 perf: cache repeated calculations
 0309. 🔧 refactor: refactor quiz grading logic
 0830. 🎨 style: apply consistent indentation
+0097. 🐛 fix: handle 500 error in quiz API
