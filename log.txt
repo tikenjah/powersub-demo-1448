@@ -7987,3 +7987,4 @@
 0321. 🔧 refactor: organize models into subfolders
 0775. 🐛 fix: fix null pointer exception on login
 0305. ✨ feat: enable dark mode toggle
+0979. 🎨 style: standardize quote style
