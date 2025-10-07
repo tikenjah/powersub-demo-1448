@@ -4953,3 +4953,4 @@
 0764. ✨ feat: add user authentication
 0908. ♻️ chore: bump dependencies
 0006. 🐛 fix: prevent crash on empty input
+0539. 🔧 refactor: organize models into subfolders
