@@ -7989,3 +7989,4 @@
 0305. ✨ feat: enable dark mode toggle
 0979. 🎨 style: standardize quote style
 0288. 🔧 refactor: refactor quiz grading logic
+0221. ✨ feat: add user authentication
