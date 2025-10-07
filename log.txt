@@ -5987,3 +5987,4 @@
 0106. 🎨 style: reformat files with black
 0163. ✨ feat: implement quiz timer feature
 0736. 🐛 fix: fix null pointer exception on login
+0702. ✨ feat: add user authentication
