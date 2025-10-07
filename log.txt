@@ -4955,3 +4955,4 @@
 0006. 🐛 fix: prevent crash on empty input
 0539. 🔧 refactor: organize models into subfolders
 0923. ✨ feat: support email verification
+0960. ✅ test: increase coverage on auth module
