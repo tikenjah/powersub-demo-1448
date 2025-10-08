@@ -10987,3 +10987,4 @@
 0978. 🐛 fix: prevent crash on empty input
 0750. 🎨 style: apply consistent indentation
 0623. 🎨 style: standardize quote style
+0555. ✨ feat: create admin dashboard
