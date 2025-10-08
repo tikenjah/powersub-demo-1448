@@ -8987,3 +8987,4 @@
 0659. 📚 docs: add API usage examples
 0647. 🐛 fix: prevent crash on empty input
 0231. 🔧 refactor: clean up auth middleware
+0801. ✨ feat: enable dark mode toggle
