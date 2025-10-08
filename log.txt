@@ -4960,3 +4960,4 @@
 0330. ✅ test: test user registration edge cases
 0303. 🎨 style: rename variables for clarity
 0778. 📚 docs: write FAQ section
+0132. ✅ test: add unit test for quiz service
