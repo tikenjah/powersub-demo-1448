@@ -10994,3 +10994,4 @@
 0368. 🚀 perf: lazy-load components
 0276. ✅ test: add integration test for /submit endpoint
 0198. 📚 docs: clarify environment setup
+0356. 📚 docs: write FAQ section
