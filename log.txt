@@ -6994,3 +6994,4 @@
 0484. 🐛 fix: handle 500 error in quiz API
 0432. 🎨 style: apply consistent indentation
 0502. 📚 docs: update README with setup steps
+0212. 🎨 style: standardize quote style
