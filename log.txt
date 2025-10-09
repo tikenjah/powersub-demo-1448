@@ -4981,3 +4981,4 @@
 0698. 🐛 fix: handle 500 error in quiz API
 0593. 🐛 fix: correct typo in registration form
 0928. 🎨 style: apply consistent indentation
+0265. 🎨 style: reformat files with black
