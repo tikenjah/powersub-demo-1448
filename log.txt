@@ -4979,3 +4979,4 @@
 0383. 🐛 fix: fix broken CSS in mobile view
 0504. 📚 docs: document token refresh logic
 0698. 🐛 fix: handle 500 error in quiz API
+0593. 🐛 fix: correct typo in registration form
