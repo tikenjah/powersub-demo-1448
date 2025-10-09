@@ -10989,3 +10989,4 @@
 0623. 🎨 style: standardize quote style
 0555. ✨ feat: create admin dashboard
 0059. ♻️ chore: bump dependencies
+0074. ♻️ chore: add GitHub actions badge
