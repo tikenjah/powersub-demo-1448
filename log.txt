@@ -4993,3 +4993,4 @@
 0852. ✨ feat: enable dark mode toggle
 0901. ✨ feat: add user authentication
 0919. 🚀 perf: optimize database query for quiz results
+0379. ✨ feat: support email verification
