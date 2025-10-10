@@ -4989,3 +4989,4 @@
 0277. 🎨 style: standardize quote style
 0908. ♻️ chore: bump dependencies
 0490. ✨ feat: create admin dashboard
+0875. ✅ test: increase coverage on auth module
