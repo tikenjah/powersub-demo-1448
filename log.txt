@@ -6996,3 +6996,4 @@
 0502. 📚 docs: update README with setup steps
 0212. 🎨 style: standardize quote style
 0964. ♻️ chore: clean up unused files
+0816. 🔧 refactor: organize models into subfolders
