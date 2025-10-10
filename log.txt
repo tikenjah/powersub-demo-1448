@@ -4990,3 +4990,4 @@
 0908. ♻️ chore: bump dependencies
 0490. ✨ feat: create admin dashboard
 0875. ✅ test: increase coverage on auth module
+0852. ✨ feat: enable dark mode toggle
