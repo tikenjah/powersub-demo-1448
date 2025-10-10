@@ -4994,3 +4994,4 @@
 0901. ✨ feat: add user authentication
 0919. 🚀 perf: optimize database query for quiz results
 0379. ✨ feat: support email verification
+0221. ✨ feat: add user authentication
