@@ -7997,3 +7997,4 @@
 0200. 🐛 fix: handle 500 error in quiz API
 0137. 🎨 style: rename variables for clarity
 0630. 🚀 perf: lazy-load components
+0315. ✅ test: add integration test for /submit endpoint
