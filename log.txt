@@ -4991,3 +4991,4 @@
 0490. ✨ feat: create admin dashboard
 0875. ✅ test: increase coverage on auth module
 0852. ✨ feat: enable dark mode toggle
+0901. ✨ feat: add user authentication
