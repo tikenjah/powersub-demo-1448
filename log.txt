@@ -10997,3 +10997,4 @@
 0356. 📚 docs: write FAQ section
 0592. 📚 docs: add API usage examples
 0687. 🎨 style: remove trailing whitespace
+0419. 🎨 style: remove trailing whitespace
