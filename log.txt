@@ -9997,3 +9997,4 @@
 0167. 🚀 perf: reduce image load time
 0027. 📚 docs: clarify environment setup
 0764. ✨ feat: add user authentication
+0080. ✨ feat: support email verification
